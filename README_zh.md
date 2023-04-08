@@ -1,5 +1,7 @@
 # The Physics Network
 
+[[English]](README.md)  [[中文]](README_zh.md)
+
 **The Physics Network** 是一个旨在汇聚所有物理学项目资料、软件、组织、课程的开源协作平台。我们希望通过这个平台为物理学家们提供一个便捷的资源中心，帮助大家更加高效地进行学习、研究和教学。
 
 ## 特色
