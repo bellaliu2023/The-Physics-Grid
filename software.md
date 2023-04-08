@@ -141,3 +141,16 @@ This section is mostly from https://github.com/wbierbower/awesome-physics, thank
 - [burnman](https://github.com/geodynamics/burnman) - a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments
 - [em](https://github.com/geoscixyz/em) - Electromagnetic methods in geophysics - open educational resources
 - [simpeg](https://github.com/simpeg/simpeg) - Simulation and Parameter Estimation in Geophysics - A python package for simulation and gradient based parameter estimation in the context of geophysical applications
+
+## Organizations
+
+- [CERN](https://github.com/CERN) - European Organization for Nuclear Research
+- [IOP](https://github.com/Institute-of-Physics) - Institute of Physics
+- [LANL](https://github.com/lanl) - Los Alamos National Lab
+- [LIGO](https://github.com/lscsoft) - Laser Inferometer Gravitational-Wave Experiment
+- [LLNL](https://github.com/LLNL) - Lawrence Livermore National Laboratory
+- [MPPMU](https://github.com/mppmu) - Max Planck Institute for Physics
+- [NIST](https://github.com/usnistgov) - National Institute of Standards and Technology
+- [NREL](https://github.com/NREL) - National Renewable Energy Laboratory
+- [ORNL](https://github.com/ORNL) - Oak Ridge National Laboratory
+- [SLAC](https://github.com/SLAC) - Stanford Linear Accelerator Center
