@@ -43,6 +43,6 @@ When updating or improving existing resources, please follow these guidelines:
 
 ## Feedback and Suggestions
 
-If you have any feedback or suggestions for improving The Physics Network, please feel free to submit an issue or contact us directly.
+If you have any feedback or suggestions for improving The Physics Network, please feel free to [submit an issue](https://github.com/physics2023/awesome-physics/issues) or contact us directly.
 
-Thank you for contributing to The Physics Network! We appreciate your help in building a comprehensive repository of physics resources. If you have any questions or comments, please don't hesitate to contact us.
+Thank you for contributing to The Physics Network! We appreciate your help in building a comprehensive repository of physics resources.
