@@ -11,7 +11,7 @@
 - **Categorized Resources**: We categorize resources using different categories and tags, making it easy for users to search and filter quickly.
 - **Real-Time Updates**: We regularly update and maintain resources to ensure that the information on the platform is always up-to-date and complete.
 
-## Who are you
+## Who you are ?
 
 - [Junior Student](junior-student.md)
 - [Senior Student](senior-student.md)
