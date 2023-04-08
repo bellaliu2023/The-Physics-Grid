@@ -17,7 +17,7 @@ We welcome and appreciate your contribution to this project in various ways:
 - **Report Issues**: If you encounter any issues while using the platform, you can report them to us by submitting an issue, and we will fix them as soon as possible.
 - **Improve the Platform**: If you have any ideas or suggestions for improving the platform, please let us know.
 
-Our contribution guidelines and code of conduct will be released in the future. Stay tuned!
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
 ## License
 
