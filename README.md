@@ -25,7 +25,7 @@
 
 In this section, we collect various materials related to each discipline from the perspective of physics disciplines, including:
 
-- [**Mechanics**](mechanics.md): Studies the relationship between the motion, forces, and energy of objects. It primarily deals with issues related to mechanics equilibrium, kinematics, and dynamics.
+- [**Mechanics**](topics/mechanics.md): Studies the relationship between the motion, forces, and energy of objects. It primarily deals with issues related to mechanics equilibrium, kinematics, and dynamics.
 - [**Thermodynamics**](thermodynamics.md): Studies the relationship between heat and other forms of energy. It primarily deals with issues related to the macroscopic behavior of thermodynamic systems.
 - [**Electromagnetism**](electromagnetism.md): Studies the relationship between electricity and magnetism. It primarily deals with issues related to the electromagnetic field, Maxwell's equations, and electromagnetism.
 - [**Quantum Mechanics**](quantum-mechanics.md): Studies the relationship between energy and matter. It primarily deals with issues related to the quantum mechanical model of matter and the quantum mechanical description of physical phenomena.
