@@ -2,7 +2,7 @@
 
 [[English]](README.md) [[中文]](README_zh.md)
 
-**The Physics Network** is an open-source collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently.
+**The Physics Network** is an opensource collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently.
 
 ## Features
 
@@ -13,7 +13,7 @@
 
 ## Who you are ?
 
-- [Junior Student](junior-student.md)
+- [**Junior Student**](targetaudience/Junior-Student.md)
 - [Senior Student](senior-student.md)
 - [Undergraduates](undergraduates.md)
 - [Teacher / Professor](teacher-professor.md)
