@@ -1,4 +1,4 @@
-#Junior Student
+# Junior Student
 
 This section will be suitable for students who have just embarked on a journey of exploring physics. We will introduce basic physical knowledge as well as the origin of Natural Science to you in this section. 
 
