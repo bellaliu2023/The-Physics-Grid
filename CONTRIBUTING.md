@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Welcome to The Physics Network! We appreciate your interest in contributing to this repository. 
+Welcome to **The Physics Grid** ! We appreciate your interest in contributing to this repository.
 
 ## How to contribute
 
@@ -10,7 +10,7 @@ We welcome contributions of all kinds, including but not limited to:
 - Updating or improving existing resources
 - Fixing bugs or issues
 
-If you're not sure where to start or how you can contribute, please check the [Issues](https://github.com/physics2023/awesome-physics/issues) section of the repository. You can also contact any of the maintainers for guidance.
+If you're not sure where to start or how you can contribute, please check the [Issues](https://github.com/bellaliu2023/The-Physics-Grid/issues) section of the repository. You can also contact any of the maintainers for guidance.
 
 To contribute to this repository, please follow these steps:
 
@@ -43,6 +43,6 @@ When updating or improving existing resources, please follow these guidelines:
 
 ## Feedback and Suggestions
 
-If you have any feedback or suggestions for improving The Physics Network, please feel free to [submit an issue](https://github.com/physics2023/awesome-physics/issues) or contact us directly.
+If you have any feedback or suggestions for improving **The Physics Grid**, please feel free to [submit an issue](https://github.com/bellaliu2023/The-Physics-Grid/issues) or contact us directly.
 
-Thank you for contributing to The Physics Network! We appreciate your help in building a comprehensive repository of physics resources.
+Thank you for contributing to **The Physics Grid**! We appreciate your help in building a comprehensive repository of physics resources.
