@@ -4,6 +4,7 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ## Contents
 
+- [General](#general)
 - [Mechanics](#mechanics)
 - [Waves and Acoustics](#waves-and-acoustics)
 - [Thermodynamics](#thermodynamics)
@@ -16,6 +17,42 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [High Energy Physics](#high-energy-physics)
 - [Organizations](#organizations)
 
+## General
+
+- [FisicaLab](https://www.gnu.org/software/fisicalab/) - FisicaLab (can be pronounced as PhysicsLab) is an educational application to solve physics problems. Its main objective is let the user to focus in physics concepts, leaving aside the mathematical details (FisicaLab take care of them). This allows the user to become familiar with the physical concepts without running the risk of getting lost in mathematical details. And so, when the user gain confidence in applying physical concepts, will be better prepared to solve the problems by hand (with pen and paper). The latest release of FisicaLab have the following modules:
+
+  ![FisicalLab](/images/fisicalab.jpg)
+
+  **Features**
+
+  - Kinematics of points 2D.
+  - Circular kinematics of points 2D.
+  - Static of points 2D.
+  - Static of rigid bodies 2D.
+  - Dynamics of points 2D.
+  - Circular dynamics of points 2D.
+  - Heat, calorimetry, ideal gas and expansion.
+
+- [Interactive Physics](https://www.physicscurriculum.com/interactivephysics) - Interactive Physics is a versatile program that allows users to build a wide variety of physics simulations. The robust interface allows the user to build simple or elaborate systems on screen. Build systems made up of ropes, rods, pulleys, gears, springs, various joints, actuators, dampers, motors, and objects of various shape and mass.
+
+  ![Interactive Physics](/images/IP03.jpg)
+
+- [Newton](https://newtonlab.com/English/newton/) - Newton provides a completely new way of learning and teaching physics, the exploration of simple machines, mechanisms, kinematics, dynamics, thermodynamics, electricity and optics on a computer in 3D. Build, manipulate or investigate real-life 3D physics experiments interactively, solve problems, and more.
+
+  ![Newton](/images/newton.jpg)
+
+  A unique feature of Newton is that while it shows real world 3D physical experiments, it is still possible to compare and verify the results with classic formulas. This allows students to establish a clear connection between the real world and its mathematical models, and develops their model creating skills. Another novelty of Newton is the possibility of coupled modeling of mechanics electricity and optics.
+
+  [Download Free Trial Demo](https://designsoftware.com/orders/downlddemo.php?page=downlddemo&PrID=newton&_ga=2.214328528.676291880.1681197485-1312280122.1681197485)
+
+- [oPhysics](https://ophysics.com/) - The oPhysics website is a collection of interactive physics simulations. It is a work in progress, and likely always will be. Content will be added as time allows.
+
+- [The Physics Classroom](https://www.physicsclassroom.com/) - We've had a phrase in our heads for a long time that sums up our mission: "serving students, teachers and classrooms." Every resource on our website has been fueled by the passion to put a tool in the hands of a student or a teacher to help them more effectively learn or teach physics. The Physics Classroom has numerous tools to address both in-the-classroom and at-home needs of students, teachers, and "classrooms".
+
+- [Tracker](https://physlets.org/tracker/) - Tracker is a free video analysis and modeling tool built on the Open Source Physics (OSP) Java framework. It is designed to be used in physics education.Tracker video modeling is a powerful way to combine videos with computer modeling.
+
+  ![Tracker](/images/tracker.png)
+
 ## Mechanics
 
 - [Kinematics](#kinematics)
@@ -24,6 +61,14 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Gravity](#gravity)
 
 ### Kinematics
+
+- [Jeans Anisotropic Modelling (JAM)](https://www-astro.physics.ox.ac.uk/~cappellari/software/#jam) - **J**eans **A**nisotropic **M**odelling of the dynamics, stellar kinematics or proper motions of axisymmetric or spherical galaxies
+
+  ![JAM](/images/jam_models_1.jpg)
+
+- [Kinemetry](https://www.aip.de/en/members/davor-krajnovic/kinemetry/) - Kinemetry analyses 2D maps of the moments of the line-of-sight velocity distribution (LOSVD), such as the mean velocity and the velocity dispersion. The method is a generalisation of surface photometry (e.g. [Jedrzejewski 1987](https://ui.adsabs.harvard.edu/abs/1987MNRAS.226..747J/abstract)) to all moments of the LOSVD. It performs harmonic expansion of 2D maps of observed moments (surface brightness, velocity, velocity dispersion, h3, h4...) along the best fitting ellipses (either fixed or free to change along the radii). Its purpose is to robustly quantify maps of the LOSVD moments, describe trends in structures and detect morphological and kinematic sub-components. Kinemetry can also be used for analysis of gas kinematics, in a similar way as classical tilted-ring analysis. This is because kinemetry, in the case of the velocity moment, assumes that motion is along circular orbits within a thin disk. More details about the method can be found in this paper [Krajnović et al. (2006, MNRAS, 366, 787)](https://ui.adsabs.harvard.edu/abs/2006MNRAS.366..787K/abstract).
+
+  The software was original written in IDL programming language, which you can download from [here](http://www.davor.krajnovic.org/software/). There is also a python version of the code, which is distributed via this [link](https://cloud.aip.de/index.php/s/ctByK9wHgKEWXLy).
 
 - [scikit-kinematics](https://github.com/thomas-haslwanter/scikit-kinematics) - Python functions for working with 3D kinematics
 
@@ -140,6 +185,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Dark Emulator](https://github.com/DarkQuestCosmology/dark_emulator_public) - A repository for a cosmology tool dark_emulator to emulate halo clustering statistics. The code is developed based on Dark Quest simulation suite (https://darkquestcosmology.github.io/). The current version supports the halo mass function and two point correlation function (both halo-halo and halo-matter cross).
 - [EinsteinPy](https://einsteinpy.org/) - EinsteinPy is an open-source pure Python package dedicated to the study of problems arising in General Relativity and gravitational physics. Using EinsteinPy, it is possible to approach problems symbolically as well as numerically.
 - [HEALPix](https://healpix.sourceforge.io/) - HEALPix is an acronym for Hierarchical Equal Area isoLatitude Pixelation of a sphere. As suggested in the name, this pixelation produces a subdivision of a spherical surface in which each pixel covers the same surface area as every other pixel.
+- [Multi-Gaussian Expansion(MGE)](https://www-astro.physics.ox.ac.uk/~cappellari/software/#mge) - This software obtains an accurate Multi-Gaussian Expansion (MGE) parameterizations (Emsellem et al. 1994; Cappellari 2002) for a galaxy surface brightness with the fitting algorithm of Cappellari (2002, MNRAS, 333, 400). Given that Gaussians are not orthogonal functions, MGE fits are in general strongly degenerate, with difficult global convergence, but the MGE_FIT_SECTORS method solves all problems, making MGE fitting an automated, reliable and robust process.
+
 - [SageManifolds](https://sagemanifolds.obspm.fr/) - The SageManifolds project aims at extending the modern Python-based computer algebra system SageMath towards differential geometry and tensor calculus. All SageManifolds code is included in SageMath, i.e. it does not require any separate installation.
 - [xAct](http://www.xact.es/) - xAct is a suite of free packages for tensor computer algebra in the Wolfram Language. xAct implements state-of-the-art algorithms for fast manipulations of indices and has been modelled on the current geometric approach to General Relativity.
 - [XMDS](http://www.xmds.org/) - a software package that allows the fast and easy solution of sets of ordinary, partial and stochastic differential equations, using a variety of efficient numerical algorithms.
@@ -471,7 +518,37 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Modelling of Active Galactic Nuclei
 
+- [AdaMet](https://pypi.org/project/adamet/) - AdaMet is a well-tested Python implementation by [Cappellari et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.432.1709C) of the Adaptive Metropolis algorithm by [Haario H., Saksman E., Tamminen J. (2001)](https://doi.org/10.2307/3318737). It was used in a number of published papers in the astrophysics literature.
+
 - [agnpy](https://github.com/cosimoNigro/agnpy) - agnpy focuses on the numerical computation of the photon spectra produced by leptonic radiative processes in jetted Active Galactic Nuclei (AGN).
+
+- [LOESS](https://pypi.org/project/loess/) - LOESS is the Python implementation by [Cappellari et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.432.1862C) of the algorithm by [Cleveland (1979)](https://doi.org/10.2307/2286407) for the one-dimensional case and [Cleveland & Devlin (1988)](https://doi.org/10.2307/2289282) for the two-dimensional case.
+
+  ![LOESS](/images/loess.jpg)
+
+- [LtsFit](https://pypi.org/project/ltsfit/) - LtsFit is a Python implementation of the method described in Section 3.2 of [Cappellari et al. (2013a)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.432.1709C) to perform very robust fits of lines or planes to data with errors in all coordinates, while allowing for possible intrinsic scatter. Outliers are iteratively clipped using the robust Least Trimmed Squares (LTS) technique by [Rousseeuw & van Driessen (2006)](http://doi.org/10.1007/s10618-005-0024-4).
+
+- [JamPy](https://pypi.org/project/jampy/) - JamPy is a Python implementation of the Jeans Anisotropic Modelling (JAM) formalism for the dynamical modelling of galaxies.
+
+  This software can be used e.g. to measure the mass of supermassive black holes in galaxies, to infer their dark-matter content or to measure galaxy masses and density profiles.
+
+  The method calculates all the first and second velocity moments, for both the intrinsic and the projected kinematics, in spherical and axisymmetric geometry.
+
+- [PaFit](https://pypi.org/project/pafit/) - The PaFit package is a Python-based tool to determine the global kinematic position angle of galaxies. This is done by analyzing the observed integral-field stellar or gas kinematics of the galaxies, using the algorithm described in Appendix C of [Krajnovic et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006MNRAS.366..787K).
+
+- [Penalized PiXel-Fitting (pPXF)](https://www-astro.physics.ox.ac.uk/~cappellari/software/#binning) - **Stellar or gas kinematics and stellar population from galaxy spectra via full spectrum fitting with photometry**
+
+  This software implements the Penalized PiXel-Fitting method (pPXF) to extract the stellar or gas kinematics and stellar population from absorption-line spectra of galaxies, using a maximum penalized likelihood approach. The method was originally described in Cappellari & Emsellem (2004) and was significantly upgraded in subsequent years and particularly in Cappellari (2017) and with the inclusion of photometry and linear constraints in Cappellari (2022). The method is very general and robust. For this reason it was applied to a variety of situations.
+
+  ![Penalized PiXel-Fitting](/images/ppxf_fit.png)
+
+- [The Voronoi binning method (VorBin)](https://www-astro.physics.ox.ac.uk/~cappellari/software/#binning) - **Adaptively spatial bin two-dimensional data to a constant signal-to-noise ratio per bin**
+
+  ![Voronoi binning](/images/2d-binning.png)
+
+  The Voronoi Binning method of Cappellari & Copin (2003, MNRAS, 342, 345) optimally solves the problem of preserving the maximum spatial resolution of general two-dimensional data (or higher dimensions), given a constraint on the minimum signal-to-noise ratio.
+
+  The Voronoi binning method has been applied to a variety of types of data. A review of the concepts and applications to (i) X-ray data, (ii) integral-field spectroscopy, (iii) Fabry-Perot interferometry, (iv) N-body simulations, (v) standard images and (vi) other regularly or irregularly sampled data is given in Cappellari (2009).
 
 ### Multi-Messenger Analysis
 
@@ -510,9 +587,12 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Tools
 
-- [Alpaca](https://alpaca.hepforge.org/) - Alpaca is a Fortran based Monte Carlo event generator for ALP production in coherent proton-nucleus (and electron-nucleus) collisions. Arbitrary user-defined histograms and cuts may be made, as well as unweighted events in the HEPEVT, HEPMC and LHE formats.  
-  ![alpaca](/images/alpaca.png)
+- [Alpaca](https://alpaca.hepforge.org/) - Alpaca is a Fortran based Monte Carlo event generator for ALP production in coherent proton-nucleus (and electron-nucleus) collisions. Arbitrary user-defined histograms and cuts may be made, as well as unweighted events in the HEPEVT, HEPMC and LHE formats.
 - [Caravel](https://gitlab.com/caravel-public/caravel) - Caravel is a C++ 17 numerical unitarity framework to explore multi-loop amplitudes in the Standard Model and beyond.
+- [EOS](https://eos.github.io/doc/index.html) - EOS is a software framework for applications in high-energy physics; in particular flavor physics. It is written in C++20, and provides both a C++20 and a Python3 API. The Python3 API is the recommended interface.
+
+  ![EOS](/images/eos.png)
+
 - [EvtGen](https://evtgen.hepforge.org/) - EvtGen is a Monte Carlo event generator that simulates the decays of heavy flavour particles, primarily B and D mesons. It contains a range of decay models for intermediate and final states containing scalar, vector and tensor mesons or resonances, as well as leptons, photons and baryons. Decay amplitudes are used to generate each branch of a given full decay tree, taking into account angular and time-dependent correlations which allows for the simulation of CP-violating processes. Originally written by Anders Ryd and David Lange, this package is used by many particle physics experiments worldwide, including ATLAS, BaBar, Belle(-II), BES III, CDF, CLEO(-c), CMS, D0, and LHCb. The maintenance and development of the package is now performed by the particle physics group at the University of Warwick (in particular by John Back, Michal Kreps, and Thomas Latham).
 
 - [Geant4](https://geant4.web.cern.ch/) - Geant4 is a toolkit to create simulations of the passage of particles or radiation through matter. Applications built on Geant4 can simulate any setup or detector and radiation source, and record chosen output of physical quantities due to source particles and secondaries interacting with the material of the setup.
