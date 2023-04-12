@@ -37,7 +37,7 @@ In this section, we collect various materials related to each discipline from th
 - [**Condensed Matter Physics**](condensed-matter-physics.md): Studies the relationship between the structure and properties of condensed matter. It primarily deals with issues related to the structure of condensed matter, the structure of condensed matter, and the structure of condensed matter.
 - [**Biophysics**](biophysics.md): Studies the relationship between the structure and properties of biological systems. It primarily deals with issues related to the structure of biological systems, the structure of biological systems, and the structure of biological systems.
 - [**Optics**](optics.md): Studies the relationship between light and matter. It primarily deals with issues related to the structure of light, the structure of light, and the structure of light.
-- [**Other**](other.md): Other physics fields.
+- [**Other**](topics/other.md): Other physics fields.
 
 ## Physics Software
 
