@@ -1,10 +1,12 @@
-# The Physics Grid
+![The Physics Grid](images/logo.png)
+
+## What is The Physics Grid?
 
 [[English]](README.md) [[中文]](README_zh.md)
 
 **The Physics Grid** is an opensource collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently.
 
-## Features
+**Features**
 
 - **Open Platform**: We welcome anyone to participate in this project and work together to build and improve this platform.
 - **Aggregated Resources**: We are committed to aggregating physics-related project materials, software, organizations, courses, and more from around the world, making it easy for users to find the resources they need on a single platform.
