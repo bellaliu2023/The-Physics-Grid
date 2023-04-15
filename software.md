@@ -83,9 +83,17 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   ![Construct2D](/images/construct2d.png)
 
-- [Open Source MPS (OSMPS)](https://sourceforge.net/projects/openmps/) - Open Source MPS (OSMPS) is a collection of numerical routines for performing tensor network algorithms to simulate entangled, 1D many-body quantum systems. Our applications reach from ground state and excited states for statics to the dynamics of time-dependent Hamiltonians. We offer various time evolution methods with an emphasis on the support of long-range interactions through the matrix product state formalism. For more algorithms, see the list of features below.
+- [F3DM](https://sourceforge.net/projects/f3dm/) - f3dmlib is a FEM library that can read, write and analyse 3D tetrahedral meshes, minimize a given functional, and refine the resulting meshes. The minimization is parallelized with OpenMP.
 
+- [GXSM](https://gxsm.sourceforge.net/) - GXSM -- Gnome X Scanning Microscopy: A multi-channel image and vector-probe data acquisition and visualization system designed for SPM techniques (STM,AFM..), but also SPA-LEED/LEED/LEEM data analysis. A plug-in interface allows any user add-on data-processing and special hardware and instrument support. Latest: NC-AFM and related explorative methods as SQDM can be configured. High-Speed external PAC-PLL hardware option with digital DSP link.
+
+  Based on several hardware options it supports a commercially available DSP hardware and provided also Open Source Code for all the low level signal processing tasks and instrument controls in a most flexible and adaptable manner.
+
+- [Open Source MPS (OSMPS)](https://sourceforge.net/projects/openmps/) - Open Source MPS (OSMPS) is a collection of numerical routines for performing tensor network algorithms to simulate entangled, 1D many-body quantum systems. Our applications reach from ground state and excited states for statics to the dynamics of time-dependent Hamiltonians. We offer various time evolution methods with an emphasis on the support of long-range interactions through the matrix product state formalism. For more algorithms, see the list of features below.
+- [QSAS](https://sourceforge.net/projects/qsas/) - Analysis and display software targeted at space physics data.
 - [Quantities](https://sourceforge.net/projects/quantity/) - Quantities provides an interface to the use of numbers which are associated with a dimension and a unit (physical quantities) in computer calculations (quantity calculus) just like C++ built-in types.
+- [SPIRE](https://sourceforge.net/projects/spire-tool/) - A tool to compute projections of membrane structures
+- [TMVA](https://root.cern/) - TMVA is a ROOT-integrated toolkit for multivariate classification and regression analysis. TMVA performs the training, testing and performance evaluation of a large variety of multivariate methods.Since 2013, TMVA has been fully integrated with ROOT and is distributed as part of it.
 
 ## Mechanics
 
@@ -177,6 +185,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   ![CFDTool](/images/cfdtool.jpg)
 
+- [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver
+
 - [Elmer](https://www.csc.fi/elmer) - Elmer is an open source multiphysical simulation software mainly developed by CSC - IT Center for Science (CSC). Elmer development was started as national collaboration with Finnish Universities, research institutes and industry. After it's open source publication, the use and development of Elmer has become largely international.
 
   Elmer includes physical models of fluid dynamics, structural mechanics, electromagnetics, heat transfer and acoustics, and beyond. These are described by partial differential equations which Elmer solves by the Finite Element Method (FEM). Elmer supports parallel computing. For many problems good scalability over thousands of cores is reached.
@@ -196,12 +206,14 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [PDSTRIP](https://sourceforge.net/projects/pdstrip/) - PDSTRIP is a hydrodynamic strip code for seakeeping. It computes ship motions for monohulls including sailing boats. PDSTRIP has been abandoned by its initiators, who do not wish to be contacted with use questions. The position of maintainer is vacant.
 
 - [pysph](https://github.com/benma/pysph) - SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl
-- [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver
+
+- [RANSFOIL](https://sourceforge.net/projects/ransfoil/) - RANSFOIL is a console program to calculate airflow field around an isolated airfoil in low-speed, subsonic, transonic or supersonic regime by numerically solving the Reynolds averaged Navier-Stokes (RANS) equations using mature computational fluid dynamics (CFD) method. As postprocess results, the aerodynamic parameters of the airfoil, e.g., lift coefficient and drag coefficient, can be integrated from the airflow distribution near wall boundary. In addition, the coupling between airflow and heat transfer and the effect of surface roughness on near wall flow are considered by this program, it can be used for engineering calculation of the friction drag and heat transfer coefficients on airfoil surface. RANSFOIL reads coordinates data from a 1D XYZ file which describes the grid points or control points on airfoil as only input, then outputs grid and solution files in 2D PLOT3D format to record grid coordinates and airflow data and a report file to show aerodynamic parameters.
 
 ### Gravity
 
 - [Gravity-Simulator](https://github.com/HermannBjorgvin/Gravity-Simulator) - A 2D newtonian gravity simulator in JS
 - [Gravisim](https://github.com/bcamp1/Gravisim) - A universal gravity simulator written using rust_sdl2
+- [GWtool](https://sourceforge.net/projects/gwtool/) - GWtool: simple tools for working with gravitational waves
 - [pycbc](https://github.com/ligo-cbc/pycbc) - Analyze gravitational-wave data, find signals, and study their parameters
 
 ## Waves and Acoustics
@@ -211,9 +223,24 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Mechanical Waves
 
+- [AnalyzeNNLS](https://sourceforge.net/projects/analyzennls/) - Users load multiecho MRI data and draw ROIs. AnalyzeNNLS creates a T2 distribution from the averaged decay data. Regional fractions and geometric T2 times can be determined. Please reference: Bjarnason TA, Mitchell JR. JMR 206:200-4 (2010).
+
+- [IF97](https://sourceforge.net/projects/if97/) - Steam tables for industrial use according to the international standard for the properties of water and steam, the IAPWS-IF97 formulation and the international standards for transport and other properties.
+
+  Hummeling Engineering BV develops engineering software in the fields of thermodynamics, mechanics, hydrodynamics, and digital signal processing.
+
+- [Inelastica](https://github.com/tfrederiksen/inelastica) - Inelastica is both the name of this whole Python package as well as that of an included script to compute inelastic transport characteristics. Inelastica is based on the SIESTA/TranSIESTA DFT codes.
+
+  The project was initiated around 2003-2005 by Thomas Frederiksen and Magnus Paulsson while they worked in the group of Mads Brandbyge at the Technical University of Denmark.
+
+- [iTides](https://sourceforge.net/projects/itides/) - With the support of the NSF and ONR over the past few years we have developed a MATLAB tool that calculates the internal wave field generated by barotropic tidal flow of a nonlinearly stratified fluid past any arbitrary two-dimensional topography of finite extent.
 - [pyrocko](https://github.com/pyrocko/pyrocko) - A seismology toolkit for Python
 - [sw4](https://github.com/geodynamics/sw4) - 3-D seismic modeling
-- [webgl-ripples](https://github.com/m-ender/webgl-ripples) - A physically realistic real-time simulation of (transversal) 2D waves in WebGL
+- [webgl-ripples](https://github.com/m-ender/webgl-ripples) - A physically realistic real-time simulation of (transversal) 2D waves in
+
+- [wxProdOp](https://sourceforge.net/projects/wxprodop/) - The program does nmr product operator calculations for one, two, three and four spins. Receiver phase cycling is possible in conjunction with pulse phase cycling to simulate coherence pathway selection. An extensive manual and help files are included. Currently running under Linux and Windows.
+
+- [xdesktopwaves](https://sourceforge.net/projects/xdesktopwaves/) - Simulation of water waves on the X Windows desktop. Windows and mouse are like ships on the sea. Each movement of these ends up in moving water waves. You can even have rain and/or storm stirring up the water.
 
 ### Sound
 
@@ -229,11 +256,14 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [cantera](https://github.com/Cantera/cantera) - A chemical kinetics, thermodynamics, and transport tool suite
 - [CoolProp](https://github.com/CoolProp/CoolProp) - Thermophysical properties for the masses
+- [HOT: Thermodynamic tools for Matlab](https://sourceforge.net/projects/hot-tdb/) - HOT is a package of Matlab and Octave compatible functions that manage thermodynamic data for a wide range of species. Functions calculate almost all the most common thermodynamic quantities of mixtures.
 - [RMG-Py](https://github.com/ReactionMechanismGenerator/RMG-Py) - Python version of the amazing Reaction Mechanism Generator
 - [thermo](https://github.com/CalebBell/thermo) - Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL)
 - [thermopy](https://github.com/guillemborrell/thermopy) - A python library for thermodynamics
 
 ## Electromagnetism
+
+- [2DMED](https://sourceforge.net/projects/twodmed/) - 2DMED it is the second out of two programs which allows implementation of Phase Sensitive Detection (PSD) and/or Modulated Enhanced Diffraction (MED) techniques on the in situ data. This software takes normalized and averaged in situ data in flat file format (FLT) and performs PSD transformation which has been described in Urakawa, A.et al. Chem. Eng. Science 2008, 63, 4902. User can choose demodulation index k and perform several demodulation calculations. This is extremely important since demodulation calculations at k = 2 on in situ powder diffraction data represent implementation of MED method which been described in Chernyshov, D. et al. Acta Cryst. 2011, A67, 327. Demodulated data can be then viewed on 2D and/or 1D plot and analyses with different tools including In Phase Plot, Maximum Amplitude Plot and Positive Pattern Plot. Demodulated data also can be saved in ASCII format for further analysis.
 
 - [ARDP -- Antenna Radiation Diagram Plotter](https://sourceforge.net/projects/ardp/) - Antenna Radiation Diagram Plotter - Polar plots of measured EM emission, with a proper radial axis scaling and span. Three source files (plain text) can be loaded and plotted at the same time. Export to file or clipboard.
 
@@ -270,7 +300,11 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [scuff-em](https://github.com/HomerReid/scuff-em) - computational physics suite for boundary-element analysis of electromagnetic scattering, fluctuation-induced phenomena, nanophotonics, RF device engineering, electrostatics, and more
 - [spirit](https://github.com/spirit-code/spirit) - Optimizations and Dynamics Framework for atomistic Spin systems
 
-- [Wcalc](https://sourceforge.net/projects/wcalc/) - Wcalc is a tool for the analysis and synthesis of electronic components. Some of the models include coupled microstrip lines, single layer air core solenoid inductors, etc. Wcalc can analyze the electrical parameters based on the physical dimensions a
+- [SWAT-EM](https://sourceforge.net/projects/swat-em/) - SWAT-EM is a software for designing and analyzing of windings systems for electrical machines. Currently supported are rotating field windings (permanent-magnet motors, induction motors, synchronout reluctance motors) with any number of phases. This can be distributed full pitch winding, distributed fractional slot winding or tooth-coil winding.
+
+  ![SWAT-EM](/images/swat-em.webp)
+
+- [Wcalc](https://sourceforge.net/projects/wcalc/) - Wcalc is a tool for the analysis and synthesis of electronic components. Some of the models include coupled microstrip lines, single layer air core solenoid inductors, etc.
 
 ## Optics
 
@@ -301,6 +335,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   ![Gwyddion](/images/gwyddion.webp)
 
+- [Ion Beam Simulator](https://sourceforge.net/projects/ibsimu/) - Library for ion optics, plasma extraction and space charge dominated ion beam transport.
+
 - [IFEFFIT](https://sourceforge.net/projects/ifeffit/) - IFEFFIT (Interactive XAFS Analysis) is a library and set of interactive programs for the analysis of x-ray
   absorption fine-structure (XAFS) data. IFEFFIT combines state-of-the-art analysis algorithms with graphical display of XAFS data, and general data manipulation.
 
@@ -317,6 +353,11 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [MieConScat](https://sourceforge.net/projects/mieconscat/) - MieConScat is a GUI/Console program for generating MIE SCATtering data as a table of cross sections. It can generate scattering cross sections over specified angular ranges and total absorption cross sections.
 
   It was initially developed to aid work with optical particle counters (OPC) especially when CONverting data between cross section and diameter space. These methods are described in Rosenberg et al. 2012, Particle sizing calibration with refractive index correction for light scattering optical particle counters and impacts upon PCASP and CDP data collected during the Fennec campaign and CDP data collected during the Fennec campaign, http://www.atmos-meas-tech.net/5/1147/2012/amt-5-1147-2012.html
+
+- [MIST](https://sourceforge.net/projects/optics-mist/) - Modal Interferometer Simulation Tool (MIST) is a MATLAB toolbox that can simulate arbitrary resonant optical systems in the paraxial beam approximation. It allows the user to define any optical setup (composed typically of laser sources, mirrors, lenses, electro-optical modulators and detectors) and to compute the static laser field at any point. It uses a Hermite-Gauss modal decomposition to simulate diffraction limited optics.
+  This tool is being developed mainly for simulation of large scale interferometers with resonant cavities used for the detection of gravitational waves.
+
+  ![MIST](/images/mist.webp)
 
 - [Monte Carlo eXtreme (MCX)](https://sourceforge.net/projects/mcx/) - MCX is a Monte Carlo simulation software for static or time-resolved photon transport in 3D media. It uses GPU-based massively parallel computing techniques and is extremely fast compared to the traditional single-threaded CPU-based simulations.
 
@@ -351,11 +392,18 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [rayopt](https://github.com/jordens/rayopt) - Python optics and lens design, raytracing
 - [raysect](https://github.com/raysect/source) - A ray-tracing framework for optical/non-optical physics simulations
 
+- [RSM](https://sourceforge.net/projects/rsmvisit/) - RSM (Radiation Spectrum Method) is a 2D rigorous tool to solve the Maxwell equations for the propagation of light in integrated optics or photonics devices. It makes use of an eigenmode expansion method to solve the electromagnetic problem. This software running on Windows and MacOS comes with a GUI that permits to define with the aid of files or scripts the arbitrary and complex geometry of the waveguide. Of that way any waveguide geometry can be handled. Several plots are available : refractive index plot, field propagation plot and modes spectrum plot. This permits, with the interpretation of the guided and radiation modes spectrum, a physical understanding of the propagation mechanisms in the integrated optical device under evaluation. The complex geometry of the component is discretized in a stack of multilayer dielectric waveguides.
+  See : https://ipp.icube.unistra.fr/index.php/Modeling_and_photonic_Simulation:RSM
+
 - [SeaBreeze](https://sourceforge.net/projects/seabreeze/) - SeaBreeze is a device driver library that provides an interface to select Ocean Optics spectrometers. It is written in C/C++ and builds and runs on Windows (XP/7/8), MacOSX, and Linux (x86/x64/ARM). USB support for Ocean Optics STS, USB2000+, QEPro, Maya-LSL, Ventana, NIRQuest and more!
 
 - [Solar Off-grid System Designer](https://sourceforge.net/projects/solar-off-grid-system-designer/) - Solar Off-grid System Designer (Hybrid) is an offgrid solar photovoltaic project dimensioning and sizing desktop software for individuals, residential and small-scale commercial solar PV installers. This is a light weight version of popular PV software tools like PVsyst and PVSol. With classlesoft's latest offering, the users can easily design PV systems using intuitive and friendly user-interface. The current version of the tool only supports "Hybrid Solar Inverters". Users can store and use the datasheet information of solar panels and hybrid inverters of their choice. The software has inbuilt solar radiation database, which is sourced from most popular NASA SSE database. This enables users to design their projects completely offline. The tool supports designing PV projects of size upto 50 kWp.
 
   ![Solar Off-grid System Designer](/images/solar-off-grid-system-designer.webp)
+
+- [Ultrashort Pulse Propagator](https://sourceforge.net/projects/ultrashort-pulse-propagator/) - A powerful simulation for designing femtosecond lasers and amplifiers.
+
+  ![Ultrashort Pulse Propagator](/images/ultrashort-pulse-propagator.webp)
 
 ## Relativity
 
@@ -372,6 +420,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [JaxoDraw](https://sourceforge.net/projects/jaxodraw/) - JaxoDraw is a tool to generate [Feynman diagrams](https://en.wikipedia.org/wiki/Feynman_diagram) in a mouse click-and-drag fashion. Graphs can be exported to a variety of graphics formats and arbitrary latex code can be used for labels to produce high-quality publishing-style figures.
 
   ![JaxoDraw](/images/jaxodraw.jpg)
+
+- [jQuantum](https://sourceforge.net/projects/jquantum/) - jQuantum is a Java program to simulate a quantum computer, to design quantum circuits, and to visualize the execution of quantum algorithms. Another main purpose, however, is to create images in your head, and thereby - understanding.
 
 - [particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 - [Psi4](https://github.com/psi4/psi4) - Open-source Quantum Chemistry
@@ -400,6 +450,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Aciqra](https://sourceforge.net/projects/aciqra/) - Aciqra is a virtual planetarium and sky mapping program which tracks celestial bodies including planets, deep sky objects and stars to an accuracy of a fraction of a degree for thousands of years into both the future and the past. It includes the 2.5 million stars of the Tycho-2 catalog supplemented by data of 120,000 stars from the Hipparcos catalog, 13,000 deep space objects from the NGC and IC catalogs and a large number of asteroids and comets from the Minor Planet Center. The program is platform-independent and can be made to work on most modern computers that support OpenGL.
 
   ![Aciqra](/images/aciqra.jpg)
+
+- [BAS - Astrolab](http://www.alchymy.com/ConquestOfSpace/) - Open source tool to assist with study of Astronomy, Astrophysics and Cosmology. To include usefull data and calculation of common equations used in the basic study of these subjects.
 
 - [CalPriorSNIa](https://github.com/valerio-marra/CalPriorSNIa) - Effective calibration prior on the absolute magnitude of Type Ia supernovae
   priorMB.nb quickly computes the effective calibration prior on the absolute magnitude M_B of Type Ia supernovae that corresponds to a given determination of H_0. See Camarena & Marra [[arXiv:1906.11814](https://arxiv.org/abs/1906.11814)] and [[arXiv:2101.08641](https://arxiv.org/abs/2101.08641)] for more details.
@@ -842,6 +894,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Particle physics and Nuclear physics
 
+- [ARTIMAGEN](https://sourceforge.net/projects/artimagen/) - The Artificial SEM Image Generator (ARTIMAGEN) is a library that generates artificial scanning electron microscope (SEM) and helium-ion microscope images of various samples, including gold-on-carbon resolution sample, or some semiconductor features.
+
 - [Atomes](https://sourceforge.net/projects/atomes/) - Atomes is a Free (Open Source) cross-platform software licensed under the terms
   of the Affero GPL v3+ license.
 
@@ -856,9 +910,21 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
   Atomes is developed by Dr. Sébastien Le Roux, research engineer for the CNRS
   Dr. Sébastien Le Roux works at the Institut de Physique et Chimie des Matériaux de Strasbourg.
 
+- [iradina](https://sourceforge.net/projects/iradina/) - Simulation of ion beam irradiation
+
+- [J-ICE](https://sourceforge.net/projects/j-ice/) - J-ICE stands for Jmol interface for crystallographic and electronic properties. Is an extension of the powerful, platform independent molecular visualizer Jmol, towards crystallographic and electronic properties.
+
+- [libnucnet](https://sourceforge.net/projects/libnucnet/) - A library of C codes for storing and managing nuclear reaction networks, that is, ensembles of nuclear species and reactions among them.
+
 - [NanoCap](https://sourceforge.net/projects/nanocap/) - NanoCap is a generic application for the construction of low energy fullerene and capped nanotube structures. It provides an ideal tool to accompany the study of finite carbon molecules using computer simulation. The implementation involves a standalone application which includes a GUI and allows for dynamic visual inspection through 3D rendering. In addition, the NanoCap core libraries can be used in custom Python scripts that enabled the user to produce structures in bulk or to include the structure generation routines into pre-existing code.
 
   ![NanoCap](/images/nanocap.webp)
+
+- [NSCL Data Acquisition System](https://sourceforge.net/projects/nscldaq/) - The NSCL Data Acquisition system is a general purpose nuclear physics data acquisition system in use at several university labs and, of course, the National Superconducting Cyclotron Laboratory at Michigan State University. The development of the NSCLDAQ is currently funded by DOE grant DE-SC0000661
+
+- [polypy](http://jaapkroe.github.io/polypy/) - Python script to analyze (shortest-path) rings in structures read from xyz-files. It can be useful for example to identify defects in crystal structures or molecules.
+
+- [SPARTA](https://sourceforge.net/projects/sparta/) - SPARTA is a parallel DSMC code for performing simulations of low-density gases in 2d or 3d. Particles advect through a hierarchical Cartesian grid that overlays the simulation box. The grid is used to group particles by grid cell for purposes of performing collisions and chemistry. Physical objects with triangulated surfaces can be embedded in the grid, creating cut and split grid cells.
 
 - [VASPMO](https://sourceforge.net/projects/vaspmo/) - VASPMO aims at visualizing wavefunctions (or molecular orbitals) from VASP calculations. It reads VASP's output files PROCAR and CONTCAR, and exports an _.out file in Gaussian's output format, which can be visualized by many popular visualization tools, such as JMol, Molekel, Chemcraft, Gabedit and Molden, etc. These tools can further generate _.cube files, which can be visualized by an even wider range of softwares.
 
