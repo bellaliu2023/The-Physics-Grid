@@ -33,6 +33,12 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
   - Circular dynamics of points 2D.
   - Heat, calorimetry, ideal gas and expansion.
 
+- [Gabedit](https://gabedit.sourceforge.net/) - Gabedit is a graphical user interface to computational chemistry packages like deMon2k, Gamess-US, Gaussian, Molcas, Molpro, MPQC, MOPAC, Orca, PCGamess and Q-Chem.
+
+  ![Gabedit](/images/gabedit.jpeg)
+
+  It can display a variety of calculation results including support for most major molecular file formats. The advanced "Molecule Builder" allows to rapidly sketch in molecules and examine them in 3D. Graphics can be exported to various formats, including animations.
+
 - [Interactive Physics](https://www.physicscurriculum.com/interactivephysics) - Interactive Physics is a versatile program that allows users to build a wide variety of physics simulations. The robust interface allows the user to build simple or elaborate systems on screen. Build systems made up of ropes, rods, pulleys, gears, springs, various joints, actuators, dampers, motors, and objects of various shape and mass.
 
   ![Interactive Physics](/images/IP03.jpg)
@@ -47,11 +53,19 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [oPhysics](https://ophysics.com/) - The oPhysics website is a collection of interactive physics simulations. It is a work in progress, and likely always will be. Content will be added as time allows.
 
+- [pyPENELOPE](https://pypenelope.sourceforge.net/) - pyPENELOPE is an open-source software to facilitate the use of the Monte Carlo code PENELOPE and its main program PENEPMA in the field of microanalysis. It consists in a graphical user interface (GUI) to setup materials, geometry, simulation parameters and position of the detectors as well as to display the simulation’s results. An application programming interface (API) is also available to create a large series of simulations using object-oriented programming and to interpret efficiently the results from these simulations.
+
+  ![pyPENELOPE](/images/pypenelope.jpg)
+
 - [The Physics Classroom](https://www.physicsclassroom.com/) - We've had a phrase in our heads for a long time that sums up our mission: "serving students, teachers and classrooms." Every resource on our website has been fueled by the passion to put a tool in the hands of a student or a teacher to help them more effectively learn or teach physics. The Physics Classroom has numerous tools to address both in-the-classroom and at-home needs of students, teachers, and "classrooms".
 
 - [Tracker](https://physlets.org/tracker/) - Tracker is a free video analysis and modeling tool built on the Open Source Physics (OSP) Java framework. It is designed to be used in physics education.Tracker video modeling is a powerful way to combine videos with computer modeling.
 
   ![Tracker](/images/tracker.png)
+
+- [VASPKIT](https://vaspkit.com/) - VASPKIT aims at providing a powerful and user-friendly interface to perform high throughput analysis of various material properties from the raw calculated data using the widely-used VASP code. The program can be conveniently run under either the interactive user interface or command line mode.
+
+  ![VASPKIT](/images/vaspkit.png)
 
 ## Mechanics
 
@@ -90,6 +104,12 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Fluid Mechanics
 
+- [Elmer](https://www.csc.fi/elmer) - Elmer is an open source multiphysical simulation software mainly developed by CSC - IT Center for Science (CSC). Elmer development was started as national collaboration with Finnish Universities, research institutes and industry. After it's open source publication, the use and development of Elmer has become largely international.
+
+  Elmer includes physical models of fluid dynamics, structural mechanics, electromagnetics, heat transfer and acoustics, and beyond. These are described by partial differential equations which Elmer solves by the Finite Element Method (FEM). Elmer supports parallel computing. For many problems good scalability over thousands of cores is reached.
+
+  ![Elmer](/images/elmer.jpeg)
+
 - [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine for computer graphics applications
 - [fluids](https://github.com/CalebBell/fluids) - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
 - [pysph](https://github.com/benma/pysph) - SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl
@@ -127,6 +147,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 ## Electromagnetism
 
 - [ElectricFieldSimulation](https://github.com/manucorporat/ElectricFieldSimulation) - An experimental example of how to use OpenGL for physical simulations
+- [Elk](https://elk.sourceforge.io/) - An all-electron full-potential linearised augmented-planewave (FP-LAPW) code. Designed to be as developer friendly as possible so that new developments in the field of density functional theory (DFT) can be added quickly and reliably.
+
 - [EMpy](https://github.com/lbolla/EMpy) - A suite of algorithms widely known and used in electromagnetic problems and optics: the transfer matrix algorithm, the rigorous coupled wave analysis algorithm and more
 - [gprMax](https://github.com/gprMax/gprMax) - Simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)
 - [meep](https://github.com/stevengj/meep) - Free finite-difference time-domain (FDTD) software for electromagnetic simulations
@@ -144,10 +166,30 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 ## Optics
 
 - [euclider](https://github.com/Limeth/euclider) - A higher-dimensional "non-euclidean" ray tracing prototype written in Rust
+- [Gwyddion](https://sourceforge.net/projects/gwyddion/) - A data visualization and processing tool for scanning probe microscopy (SPM, i.e. AFM, STM, MFM, SNOM/NSOM, ...) and profilometry data, useful also for general image and 2D data analysis.
+
+  **Features:**
+
+  - Support for more than 130 SPM file formats.
+  - All standard functions: levelling, geometrical transforms, statistical characterisation, grain detection, FFT filtering, ...
+  - Processing of data under arbitrarily shaped masks.
+  - Calibration and metrology support.
+  - Single point spectra and volume data support (for a subset of file formats).
+  - Generation of artificial surfaces and measurement simulation.
+  - Python 2 scripting
+
+  ![Gwyddion](/images/gwyddion.webp)
+
 - [lightpipes](https://github.com/opticspy/lightpipes) - Simulations of optical phenomena where diffraction is essential
 - [odak](https://github.com/kunguz/odak) - A fundamental library for scientific computing in optical sciences.
 - [opticspy](https://github.com/Sterncat/opticspy) - A python module for optics applications
 - [poppy](https://github.com/mperrin/poppy) - Physical Optics Propagation in Python
+- [PyMca](pymca.sourceforge.net) - PyMca is a collection of Python tools to assist on common data analysis problems. When first released (in 2004), its main motivation was X-Ray Fluorescence (XRF) Analysis, field for which is among the most complete solutions available.
+
+  Synchotron radiation XRF is closely associated to microscopy. To properly achieve its objectives, PyMca had to incorporate more than just 1D visualization and XRF spectrum modelling. PyMca has evolved into a set of tools to provide close-to-the-source data visualization and diagnostic capabilities.
+
+  ![PyMca](/images/pymca.webp)
+
 - [pyRT](https://github.com/martinchristen/pyRT) - a raytracer/image generator for Python
 - [rayopt](https://github.com/jordens/rayopt) - Python optics and lens design, raytracing
 - [raysect](https://github.com/raysect/source) - A ray-tracing framework for optical/non-optical physics simulations
@@ -184,8 +226,20 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [CosmoTransitions](https://github.com/clwainwright/CosmoTransitions) - CosmoTransitions is a package for analyzing finite or zero-temperature cosmological phase transitions driven by single or multiple scalar fields. It is written and maintained by Carroll L. Wainwright (a.k.a. “Max”) (clwainwri@gmail.com)
 - [Dark Emulator](https://github.com/DarkQuestCosmology/dark_emulator_public) - A repository for a cosmology tool dark_emulator to emulate halo clustering statistics. The code is developed based on Dark Quest simulation suite (https://darkquestcosmology.github.io/). The current version supports the halo mass function and two point correlation function (both halo-halo and halo-matter cross).
 - [EinsteinPy](https://einsteinpy.org/) - EinsteinPy is an open-source pure Python package dedicated to the study of problems arising in General Relativity and gravitational physics. Using EinsteinPy, it is possible to approach problems symbolically as well as numerically.
+- [GMAT](https://sourceforge.net/projects/gmat/) - GMAT is a **G**eneral **M**ission **A**nalysis and design **T**ool that is used to model and simulate the performance of a wide variety of space missions. It is used by NASA, the Department of Defense, and other space agencies and organizations around the world.
+
+  ![GMAT](/images/gmat.webp)
+
+- [Gpredict](http://gpredict.oz9aec.net/) - Gpredict is a real-time satellite tracking and orbit prediction application. It can be used to track satellites in real time, predict future passes, and automatically notify the user of upcoming events. It can also be used as a satellite tracking library for other applications.
+
+  ![Gpredict](/images/gpredict.jpg)
+
 - [HEALPix](https://healpix.sourceforge.io/) - HEALPix is an acronym for Hierarchical Equal Area isoLatitude Pixelation of a sphere. As suggested in the name, this pixelation produces a subdivision of a spherical surface in which each pixel covers the same surface area as every other pixel.
 - [Multi-Gaussian Expansion(MGE)](https://www-astro.physics.ox.ac.uk/~cappellari/software/#mge) - This software obtains an accurate Multi-Gaussian Expansion (MGE) parameterizations (Emsellem et al. 1994; Cappellari 2002) for a galaxy surface brightness with the fitting algorithm of Cappellari (2002, MNRAS, 333, 400). Given that Gaussians are not orthogonal functions, MGE fits are in general strongly degenerate, with difficult global convergence, but the MGE_FIT_SECTORS method solves all problems, making MGE fitting an automated, reliable and robust process.
+
+- [PreviSat](https://previsat.sourceforge.net/) - PreviSat is a satellite tracking software for observing purposes. Very easy to use, it shows positions of artificial satellites in real-time or manual mode. PreviSat is able to make predictions of their passes, predictions of MetOp and COSMO-SkyMed flares, ISS transits and several other calculations.
+
+  ![PreviSat](/images/previsat.png)
 
 - [SageManifolds](https://sagemanifolds.obspm.fr/) - The SageManifolds project aims at extending the modern Python-based computer algebra system SageMath towards differential geometry and tensor calculus. All SageManifolds code is included in SageMath, i.e. it does not require any separate installation.
 - [xAct](http://www.xact.es/) - xAct is a suite of free packages for tensor computer algebra in the Wolfram Language. xAct implements state-of-the-art algorithms for fast manipulations of indices and has been modelled on the current geometric approach to General Relativity.
@@ -589,6 +643,10 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [Alpaca](https://alpaca.hepforge.org/) - Alpaca is a Fortran based Monte Carlo event generator for ALP production in coherent proton-nucleus (and electron-nucleus) collisions. Arbitrary user-defined histograms and cuts may be made, as well as unweighted events in the HEPEVT, HEPMC and LHE formats.
 - [Caravel](https://gitlab.com/caravel-public/caravel) - Caravel is a C++ 17 numerical unitarity framework to explore multi-loop amplitudes in the Standard Model and beyond.
+- [CMSSW](http://cms-sw.github.io/) - CMS is a particle detector that is designed to see a wide range of particles and phenomena produced in high-energy collisions in the LHC. Like a cylindrical onion, different layers of detectors measure the different particles, and use this key data to build up a picture of events at the heart of the collision.
+
+  ![CMSSW](/images/cmssw.png)
+
 - [EOS](https://eos.github.io/doc/index.html) - EOS is a software framework for applications in high-energy physics; in particular flavor physics. It is written in C++20, and provides both a C++20 and a Python3 API. The Python3 API is the recommended interface.
 
   ![EOS](/images/eos.png)
