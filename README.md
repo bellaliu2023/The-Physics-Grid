@@ -13,9 +13,9 @@
 - **Categorized Resources**: We categorize resources using different categories and tags, making it easy for users to search and filter quickly.
 - **Real-Time Updates**: We regularly update and maintain resources to ensure that the information on the platform is always up-to-date and complete.
 
-## Who you are ?
+## Levels
 
-- [**Junior Student**](target-audience/Junior-Student.md)
+- [**Junior High School**](target-audience/Junior-Student.md)
 - [Senior Student](senior-student.md)
 - [Undergraduates](undergraduates.md)
 - [Teacher / Professor](teacher-professor.md)
@@ -23,11 +23,11 @@
 - [Engineer](engineer.md)
 - [Other](other.md)
 
-## Physics Topics
+## Branches of Physics
 
 In this section, we collect various materials related to each discipline from the perspective of physics disciplines, including:
 
-- [**Mechanics**](topics/mechanics.md): Studies the relationship between the motion, forces, and energy of objects. It primarily deals with issues related to mechanics equilibrium, kinematics, and dynamics.
+- [**Mechanics**](branches/mechanics.md): Studies the relationship between the motion, forces, and energy of objects. It primarily deals with issues related to mechanics equilibrium, kinematics, and dynamics.
 - [**Thermodynamics**](thermodynamics.md): Studies the relationship between heat and other forms of energy. It primarily deals with issues related to the macroscopic behavior of thermodynamic systems.
 - [**Electromagnetism**](electromagnetism.md): Studies the relationship between electricity and magnetism. It primarily deals with issues related to the electromagnetic field, Maxwell's equations, and electromagnetism.
 - [**Quantum Mechanics**](quantum-mechanics.md): Studies the relationship between energy and matter. It primarily deals with issues related to the quantum mechanical model of matter and the quantum mechanical description of physical phenomena.
@@ -39,7 +39,7 @@ In this section, we collect various materials related to each discipline from th
 - [**Condensed Matter Physics**](condensed-matter-physics.md): Studies the relationship between the structure and properties of condensed matter. It primarily deals with issues related to the structure of condensed matter, the structure of condensed matter, and the structure of condensed matter.
 - [**Biophysics**](biophysics.md): Studies the relationship between the structure and properties of biological systems. It primarily deals with issues related to the structure of biological systems, the structure of biological systems, and the structure of biological systems.
 - [**Optics**](optics.md): Studies the relationship between light and matter. It primarily deals with issues related to the structure of light, the structure of light, and the structure of light.
-- [**Other**](topics/other.md): Other physics fields.
+- [**Other**](branches/other.md): Other physics fields.
 
 ## Physics Software
 
