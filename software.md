@@ -14,6 +14,7 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Quantum Physics](#quantum-physics)
 - [Astrophysics](#astrophysics)
 - [Geophysics](#geophysics)
+- [Medical Physics](#medical-physics)
 - [High Energy Physics](#high-energy-physics)
 - [Organizations](#organizations)
 
@@ -88,6 +89,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   ![FRAME3DD](/images/frame3dd.webp)
 
+- [freesteam](https://sourceforge.net/projects/freesteam/) - Open source steam property routines in C. Implements the IAPWS-IF97 steam tables from the International Association for the Properties of Water and Steam. Includes two-way property solvers and test suite. Can be used from C/C++, Fortran, Python, LabVIEW, Octave and ASCEND.
+
 - [GNU Ballistics Library](https://sourceforge.net/projects/ballisticslib/) - An optimized C library for numerically solving exterior ballistics problems. It supports standard drag models (Drag Functions G1-G8). The solution method is the common "3 degree of freedom" analysis found in many commercial programs.
 
 - [GNU Exterior Ballistics Computer](https://sourceforge.net/projects/balcomp/) - A graphical interface for solving exterior ballistics problems, based on the excellent GNU exterior ballistics library. This software generates valid 3-DOF solutions to small arms trajectories, including wind and atmospheric corrections.
@@ -99,6 +102,10 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Kinemetry](https://www.aip.de/en/members/davor-krajnovic/kinemetry/) - Kinemetry analyses 2D maps of the moments of the line-of-sight velocity distribution (LOSVD), such as the mean velocity and the velocity dispersion. The method is a generalisation of surface photometry (e.g. [Jedrzejewski 1987](https://ui.adsabs.harvard.edu/abs/1987MNRAS.226..747J/abstract)) to all moments of the LOSVD. It performs harmonic expansion of 2D maps of observed moments (surface brightness, velocity, velocity dispersion, h3, h4...) along the best fitting ellipses (either fixed or free to change along the radii). Its purpose is to robustly quantify maps of the LOSVD moments, describe trends in structures and detect morphological and kinematic sub-components. Kinemetry can also be used for analysis of gas kinematics, in a similar way as classical tilted-ring analysis. This is because kinemetry, in the case of the velocity moment, assumes that motion is along circular orbits within a thin disk. More details about the method can be found in this paper [Krajnović et al. (2006, MNRAS, 366, 787)](https://ui.adsabs.harvard.edu/abs/2006MNRAS.366..787K/abstract).
 
   The software was original written in IDL programming language, which you can download from [here](http://www.davor.krajnovic.org/software/). There is also a python version of the code, which is distributed via this [link](https://cloud.aip.de/index.php/s/ctByK9wHgKEWXLy).
+
+- [Nature](https://sourceforge.net/projects/nature/) - Nature is an open source library for computing thermochemical and kinetic properties of complex gas mixtures. The library supports the CHEMKIN data format and a native script for defining complex gas mixtures. Nature is written in C# and does not depend on any third party tool or library. Nature interoperates natively with any .NET language including the FTN95: Fortran 95 compiler.
+
+  The primary goal of the project is to deliver the open source that provides the foundation for potentially complex CFD solutions capable of carrying computing in the distributed environment and particularly the Cloud computing.
 
 - [Open Dynamics Engine](https://sourceforge.net/projects/opende/) - A free, industrial quality library for simulating articulated rigid body dynamics - for example ground vehicles, legged creatures, and moving objects in VR environments. It's fast, flexible & robust. Built-in collision detection.
 
@@ -123,6 +130,10 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [Towhee](https://sourceforge.net/projects/towhee/) - Towhee is a Monte Carlo molecular simulation code originally designed for the prediction of fluid phase equilibria using atom-based force fields and the Gibbs ensemble with particular attention paid to algorithms addressing molecule conformation sampling.
 
+- [Xoptfoil](https://sourceforge.net/projects/xoptfoil/) - Airfoil optimization using the highly-regarded Xfoil engine for aerodynamic calculations. Starting with a seed airfoil, Xoptfoil uses particle swarm, genetic algorithm and direct search methodologies to perturb the geometry and maximize performance. The user selects a number of operating points over which to optimize, desired constraints, and the optimizer does the rest.
+
+  ![Xoptfoil](/images/xoptfoil.webp)
+
 ### Rigid Bodies and Physics Engines
 
 - [bullet3](https://github.com/bulletphysics/bullet3) - real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning
@@ -141,6 +152,10 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Fluid Mechanics
 
+- [CFDTool](https://sourceforge.net/projects/cfdtool/) - CFDTool is a MATLAB® Computational Fluid Dynamics (CFD) Toolbox for modeling and simulation of fluid flows with coupled heat transfer. Based on FEATool Multiphysics (https://www.featool.com), CFDTool is specifically designed to make fluid dynamics and heat transfer simulations both easy and enjoyable.
+
+  ![CFDTool](/images/cfdtool.jpg)
+
 - [Elmer](https://www.csc.fi/elmer) - Elmer is an open source multiphysical simulation software mainly developed by CSC - IT Center for Science (CSC). Elmer development was started as national collaboration with Finnish Universities, research institutes and industry. After it's open source publication, the use and development of Elmer has become largely international.
 
   Elmer includes physical models of fluid dynamics, structural mechanics, electromagnetics, heat transfer and acoustics, and beyond. These are described by partial differential equations which Elmer solves by the Finite Element Method (FEM). Elmer supports parallel computing. For many problems good scalability over thousands of cores is reached.
@@ -149,6 +164,16 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine for computer graphics applications
 - [fluids](https://github.com/CalebBell/fluids) - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
+- [OpenFOAM](https://www.openfoam.com/) - OpenFOAM is the free, open source CFD software developed primarily by OpenCFD Ltd since 2004. It has a large user base across most areas of engineering and science, from both commercial and academic organisations. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to acoustics, solid mechanics and electromagnetics. More...
+
+  ![OpenFOAM](/images/openfoam.jpg)
+
+  OpenFOAM is professionally released every six months to include customer sponsored developments and contributions from the community. It is independently tested by ESI-OpenCFD's Application Specialists, Development Partners and selected customers, and supported by ESI's worldwide infrastructure, values and commitment.
+
+  Quality assurance is based on rigorous testing. The process of code evaluation, verification and validation includes several hundred daily unit tests, a medium-sized test battery run on a weekly basis, and large industry-based test battery run prior to new version releases. Tests are designed to assess regression behaviour, memory usage, code performance and scalability.
+
+- [PDSTRIP](https://sourceforge.net/projects/pdstrip/) - PDSTRIP is a hydrodynamic strip code for seakeeping. It computes ship motions for monohulls including sailing boats. PDSTRIP has been abandoned by its initiators, who do not wish to be contacted with use questions. The position of maintainer is vacant.
+
 - [pysph](https://github.com/benma/pysph) - SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl
 - [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver
 
@@ -171,7 +196,13 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Sound
 
+- [MRCWA](https://sourceforge.net/projects/mrcwa/) - MRCWA - Multilayer Rigorous Coupled Wave Analysis is a fast, flexible optical grating solver. It calculates an exact solution to the Maxwell equations for the diffraction of light from an optical grating with arbitrary profile and materials.
+
 - [python-acoustics](https://github.com/python-acoustics/python-acoustics) - A Python library aimed at acousticians
+
+- [wavefront](https://sourceforge.net/projects/wavefront/) - Wavefront is a programme for simulating 2D acoustic systems, with a particular emphasis on determining wavefront shapes at the mouths of horns.It accepts CAD drawings in DXF format and produces animated displays of wave propagation as well as exporting various data as text files.It is GPL software and runns on Linux and Windows.
+
+  ![wavefront](/images/wavefront.jpg)
 
 ## Thermodynamics
 
@@ -182,6 +213,10 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [thermopy](https://github.com/guillemborrell/thermopy) - A python library for thermodynamics
 
 ## Electromagnetism
+
+- [ARDP -- Antenna Radiation Diagram Plotter](https://sourceforge.net/projects/ardp/) - Antenna Radiation Diagram Plotter - Polar plots of measured EM emission, with a proper radial axis scaling and span. Three source files (plain text) can be loaded and plotted at the same time. Export to file or clipboard.
+
+  ![ARDP](/images/ardp.jpg)
 
 - [Arbitrary Transmission Line Calculator](https://sourceforge.net/projects/atlc/) - 'atlc' is a CAD package used for analysing and desiging electrical transmission lines of arbitrary cross section. Also for the design of directonal couplers. Some parts are CPU intensive, so multiple CPUs are supported.
 
@@ -214,6 +249,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [scuff-em](https://github.com/HomerReid/scuff-em) - computational physics suite for boundary-element analysis of electromagnetic scattering, fluctuation-induced phenomena, nanophotonics, RF device engineering, electrostatics, and more
 - [spirit](https://github.com/spirit-code/spirit) - Optimizations and Dynamics Framework for atomistic Spin systems
 
+- [Wcalc](https://sourceforge.net/projects/wcalc/) - Wcalc is a tool for the analysis and synthesis of electronic components. Some of the models include coupled microstrip lines, single layer air core solenoid inductors, etc. Wcalc can analyze the electrical parameters based on the physical dimensions a
+
 ## Optics
 
 - [euclider](https://github.com/Limeth/euclider) - A higher-dimensional "non-euclidean" ray tracing prototype written in Rust
@@ -241,11 +278,18 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   ![Gwyddion](/images/gwyddion.webp)
 
+- [IFEFFIT](https://sourceforge.net/projects/ifeffit/) - IFEFFIT (Interactive XAFS Analysis) is a library and set of interactive programs for the analysis of x-ray
+  absorption fine-structure (XAFS) data. IFEFFIT combines state-of-the-art analysis algorithms with graphical display of XAFS data, and general data manipulation.
+
 - [I.S.A.A.C.S.](https://sourceforge.net/projects/isaacs/) - I.S.A.A.C.S. Interactive Structure Analysis of Amorphous and Crystalline Systems is a cross-platform software developed to analyze the structural characteristics of three-dimensional models built by computer simulations.
 
   ![I.S.A.A.C.S.](/images/isaacs2.png)
 
 - [lightpipes](https://github.com/opticspy/lightpipes) - Simulations of optical phenomena where diffraction is essential
+
+- [MieConScat](https://sourceforge.net/projects/mieconscat/) - MieConScat is a GUI/Console program for generating MIE SCATtering data as a table of cross sections. It can generate scattering cross sections over specified angular ranges and total absorption cross sections.
+
+  It was initially developed to aid work with optical particle counters (OPC) especially when CONverting data between cross section and diameter space. These methods are described in Rosenberg et al. 2012, Particle sizing calibration with refractive index correction for light scattering optical particle counters and impacts upon PCASP and CDP data collected during the Fennec campaign and CDP data collected during the Fennec campaign, http://www.atmos-meas-tech.net/5/1147/2012/amt-5-1147-2012.html
 
 - [Monte Carlo eXtreme (MCX)](https://sourceforge.net/projects/mcx/) - MCX is a Monte Carlo simulation software for static or time-resolved photon transport in 3D media. It uses GPU-based massively parallel computing techniques and is extremely fast compared to the traditional single-threaded CPU-based simulations.
 
@@ -261,6 +305,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [opticspy](https://github.com/Sterncat/opticspy) - A python module for optics applications
 - [poppy](https://github.com/mperrin/poppy) - Physical Optics Propagation in Python
+- [PROPER Optical Propagation Library](https://sourceforge.net/projects/proper-library/) - PROPER is a library of routines for the propagation of wavefronts through an optical system using Fourier-based methods. It was developed at the Jet Propulsion Laboratory for modeling stellar coronagraphs, but it can be applied to other optical systems were diffraction propagation is of concern. It is currently available for IDL (Interactive Data Language), Matlab and Python (3.x). It includes routines for generating complex apertures and obscurations and aberrations (Zernike & PSD-defined). It includes a model of a deformable mirror for wavefront control. The routines perform near and far field propagation with automatic selection of propagators.
+
 - [PyMca](pymca.sourceforge.net) - PyMca is a collection of Python tools to assist on common data analysis problems. When first released (in 2004), its main motivation was X-Ray Fluorescence (XRF) Analysis, field for which is among the most complete solutions available.
 
   Synchotron radiation XRF is closely associated to microscopy. To properly achieve its objectives, PyMca had to incorporate more than just 1D visualization and XRF spectrum modelling. PyMca has evolved into a set of tools to provide close-to-the-source data visualization and diagnostic capabilities.
@@ -303,6 +349,10 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 - [Psi4](https://github.com/psi4/psi4) - Open-source Quantum Chemistry
 - [pypdt](https://bitbucket.org/andybuckley/pypdt) - Pythonic access to high energy particle data tables and ID codes
+- [QMForge](https://www.qmforge.net/) - QMForge reads output from various quantum mechanical calculations and provides tools for analyzing these results. Specifically, population (Mulliken and C-squared), fragment, and charge decomposition analyses are available.
+
+  ![QMForge](/images/qmforge.webp)
+
 - [QMsolve](https://github.com/quantum-visualizations/qmsolve) - A Python module for solving and visualizing the Schrödinger equation.
 - [quantum-python-lectures](https://github.com/tommyogden/quantum-python-lectures) - A series of self-study lectures on using Python for scientific computing at the graduate level in atomic physics and quantum optics.
 - [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Library for the numerical simulation of closed as well as open quantum systems
@@ -315,6 +365,10 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 ## Astrophysics
 
 ### General Cosmology Resources
+
+- [Aciqra](https://sourceforge.net/projects/aciqra/) - Aciqra is a virtual planetarium and sky mapping program which tracks celestial bodies including planets, deep sky objects and stars to an accuracy of a fraction of a degree for thousands of years into both the future and the past. It includes the 2.5 million stars of the Tycho-2 catalog supplemented by data of 120,000 stars from the Hipparcos catalog, 13,000 deep space objects from the NGC and IC catalogs and a large number of asteroids and comets from the Minor Planet Center. The program is platform-independent and can be made to work on most modern computers that support OpenGL.
+
+  ![Aciqra](/images/aciqra.jpg)
 
 - [CalPriorSNIa](https://github.com/valerio-marra/CalPriorSNIa) - Effective calibration prior on the absolute magnitude of Type Ia supernovae
   priorMB.nb quickly computes the effective calibration prior on the absolute magnitude M_B of Type Ia supernovae that corresponds to a given determination of H_0. See Camarena & Marra [[arXiv:1906.11814](https://arxiv.org/abs/1906.11814)] and [[arXiv:2101.08641](https://arxiv.org/abs/2101.08641)] for more details.
@@ -735,7 +789,21 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [em](https://github.com/geoscixyz/em) - Electromagnetic methods in geophysics - open educational resources
 - [Madagascar](https://www.reproducibility.org/) - Madagascar is a software package for geophysical data processing and reproducible numerical experiments. The package mission is to provide a convenient environment for researchers working with digital image and data processing in geophysics and related fields. [[Github](https://github.com/ahay/src)]
 
+- [openGPR](https://sourceforge.net/projects/opengpr/) - openGPR is a framework for the management, processing and 2D/3D-visualization of ground penetrating radar (GPR, georadar) data. It interoperates with existing tools like Seismic Unix, with a special focus on georadar applications.
+
 - [simpeg](https://github.com/simpeg/simpeg) - Simulation and Parameter Estimation in Geophysics - A python package for simulation and gradient based parameter estimation in the context of geophysical applications
+
+## Medical Physics
+
+- [Gnaural](https://sourceforge.net/projects/gnaural/) - A programmable audio generator intended as an aural aid to meditation, implementing the binaural beat principle as described in Gerald Oster's Oct. 1973 Scientific American article "Auditory Beats in the Brain."
+
+  ![Gnaural](/images/gnaural.webp)
+
+- [IQWorks](https://sourceforge.net/projects/iqworks/) - IQWorks is a project to provide Medical Physicists with automated image analysis software for use with DICOM test images, such as CT, mammography and digital radiography.
+
+- [OpenEMR](https://www.open-emr.org/) - OpenEMR is an open source medical practice management application (EHR EMR PMS) featuring fully integrated electronic health records, scheduling, electronic billing, internationalization, free support, a vibrant community, and a whole lot more.
+
+  ![OpenEMR](/images/openemr.png)
 
 ## High Energy Physics
 
