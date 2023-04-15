@@ -4,9 +4,9 @@
 
 [[English]](README.md) [[中文]](README_zh.md)
 
-**The Physics Grid** is an opensource collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently.
+**The Physics Grid** is an opensource collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently. 
 
-**Features**
+## Features
 
 - **Open Platform**: We welcome anyone to participate in this project and work together to build and improve this platform.
 - **Aggregated Resources**: We are committed to aggregating physics-related project materials, software, organizations, courses, and more from around the world, making it easy for users to find the resources they need on a single platform.
@@ -15,17 +15,17 @@
 
 ## Levels
 
+If you are a student who needs help while learning physics, information in this section may offer effective help to you.
+
 - [**Junior High School**](target-audience/Junior-Student.md)
-- [Senior Student](senior-student.md)
-- [Undergraduates](undergraduates.md)
-- [Teacher / Professor](teacher-professor.md)
-- [Researcher](researcher.md)
-- [Engineer](engineer.md)
-- [Other](other.md)
+- [**Senior High School**](senior-student.md)
+- [**University**](undergraduates.md)
+
+
 
 ## Branches of Physics
 
-In this section, we collect various materials related to each discipline from the perspective of physics disciplines, including:
+In this section, we collect various materials related to each discipline from the perspective of physics disciplines. If you are looking for further and more professional information about physics, this section may help.
 
 - [**Mechanics**](branches/mechanics.md): Studies the relationship between the motion, forces, and energy of objects. It primarily deals with issues related to mechanics equilibrium, kinematics, and dynamics.
 - [**Thermodynamics**](thermodynamics.md): Studies the relationship between heat and other forms of energy. It primarily deals with issues related to the macroscopic behavior of thermodynamic systems.
@@ -91,9 +91,15 @@ Overall, the 'Physics Conferences' section is a valuable resource for physicists
 
 [Details](conferences.md)
 
+## Legendary Physicists
+
+The 'Legendary Physicists' section is a collection of physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
+
+[Details](details/legendary-physicists.md)
+
 ## Physics Books,Journals and Magazines
 
-The 'Physics Books & Magazines' section is a collection of recommended books and magazines related to physics. This section is designed to help users find useful resources for studying physics, and to stay up-to-date with the latest research and developments in the field.
+The 'Physics Books & Magazines' section is a collection of recommended books and magazines related to physics. This section is designed to help users find useful resources for studying physics, to stay up-to-date with the latest research and developments in the field, and to offer some entertaining readings to physics enthusiasts.
 
 [Details](books.md)
 
