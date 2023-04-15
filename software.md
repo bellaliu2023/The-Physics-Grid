@@ -260,7 +260,7 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) - A community developed python package for plasma physics in the very early stages of development.
 - [PyRPL](https://sourceforge.net/projects/pyrpl/) - The Red Pitaya is a commercial, affordable FPGA board with fast analog inputs and outputs. This makes it useful for quantum optics experiments, in particular as a digital feedback controller for analog systems. Based on the open source software provided by the board manufacturer, PyRPL (Python RedPitaya Lockbox) implements many devices that are needed for optics experiments with the Red Pitaya. PyRPL implements various digital signal processing (DSP) modules (see features below). It allows to arbitrarily interconnect the available DSP modules and retrieve signal values on timescales below 1 ms. The graphical user interface (GUI) provides a realtime display of the various measurement instruments and allows the easy configuration of DSP signal chains and feedback controllers. At the highest abstraction level, arbitrary feedback sequences can be defined to fulfill tasks as complex as approaching and locking a resonance of a high-finesse Fabry-Perot cavity (tested up to finesse=100,000).
 
-  ![PyRPL](pyrpl.webp)
+  ![PyRPL](images/pyrpl.webp)
 
 - [radis](https://github.com/radis/radis) - A nonequilibrium Radiative Solver for infrared molecular spectra
 - [scattpy](https://github.com/ScattPy/scikits.scattpy) - Light Scattering Methods for Python
