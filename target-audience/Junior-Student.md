@@ -2,16 +2,20 @@
 
 This section will be suitable for students who have just embarked on a journey of exploring physics. We will introduce basic physical knowledge as well as the origin of Natural Science to you in this section. There will also be some books you can read and competitions you can take part in given. 
 
-## Catalogue
+## **Catalogue**
 - [Fundamental acoustics](#fundamental-acoustics)
+   
+    The way the sound is produced; the conditions under which the sound propagates; the factors that determine the characteristics of a music; ultrasonic; infrasonic; 
 - [Fundamental thermology](#fundamental-theremology)
+
+    Energy; temperature; heat; power; change of state; 
 - [Fundamental optics](#fundamental-optics)
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental mechanics](#fundamental-mechanics)
 - [The Origin of Natural Science](#the-origin-of-natural-science)
 - [Competitions](#competitions)
 
-## Fundamental acoustics
+## **Fundamental acoustics**
 
 As for fundamental acoustics, we will illustrate basic knowledge about **sounds**.
 
@@ -34,7 +38,11 @@ In addition, there are many sounds that cannot be heard by normal human ears. Be
 Ultrasound is widely used in life. Learning from bats, radar locates by transmitting and receiving ultrasonic waves. Doctors also use special instruments to emit ultrasound waves to break up stones in the body. Infrasound waves are often accompanied by natural disasters. It is capable of transmitting considerable distances and causing harm to the human body.Generally speaking, when normal people speak, the frequency usually falls between 150~2000HZ.
 
 The so-called scale in music, The frequency of each octave is twice as different (the alto DO Iis about 262Hz, which is twice that of 131HZ of bass DO). Each semitone rate increases by 21/12x (about 1.0595x) in the respective scales.
-## Fundamental theromology
+
+## **Fundamental theromology**
+
+
+
 ## Fundamental optics
 ## Fundamental electromagnetics
 ## Fundamental mechanics

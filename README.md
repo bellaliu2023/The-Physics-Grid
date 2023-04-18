@@ -9,30 +9,30 @@
 
 [[English]](README.md) [[中文]](README_zh.md)
 
-**The Physics Grid** is an opensource collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently.
+**The Physics Grid** is an opensource collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently. 
 
-**Features**
+## Features
 
 - **Open Platform**: We welcome anyone to participate in this project and work together to build and improve this platform.
 - **Aggregated Resources**: We are committed to aggregating physics-related project materials, software, organizations, courses, and more from around the world, making it easy for users to find the resources they need on a single platform.
 - **Categorized Resources**: We categorize resources using different categories and tags, making it easy for users to search and filter quickly.
 - **Real-Time Updates**: We regularly update and maintain resources to ensure that the information on the platform is always up-to-date and complete.
 
-## Who you are ?
+## Levels
 
-- [**Junior Student**](target-audience/Junior-Student.md)
-- [Senior Student](senior-student.md)
-- [Undergraduates](undergraduates.md)
-- [Teacher / Professor](teacher-professor.md)
-- [Researcher](researcher.md)
-- [Engineer](engineer.md)
-- [Other](other.md)
+If you are a student who needs help while learning physics, information in this section may offer effective help to you.
 
-## Physics Topics
+- [**Junior High School**](target-audience/Junior-Student.md)
+- [**Senior High School**](senior-student.md)
+- [**University**](undergraduates.md)
 
-In this section, we collect various materials related to each discipline from the perspective of physics disciplines, including:
 
-- [**Mechanics**](topics/mechanics.md): Studies the relationship between the motion, forces, and energy of objects. It primarily deals with issues related to mechanics equilibrium, kinematics, and dynamics.
+
+## Branches of Physics
+
+In this section, we collect various materials related to each discipline from the perspective of physics disciplines. If you are looking for further and more professional information about physics, this section may help.
+
+- [**Mechanics**](branches/mechanics.md): Studies the relationship between the motion, forces, and energy of objects. It primarily deals with issues related to mechanics equilibrium, kinematics, and dynamics.
 - [**Thermodynamics**](thermodynamics.md): Studies the relationship between heat and other forms of energy. It primarily deals with issues related to the macroscopic behavior of thermodynamic systems.
 - [**Electromagnetism**](electromagnetism.md): Studies the relationship between electricity and magnetism. It primarily deals with issues related to the electromagnetic field, Maxwell's equations, and electromagnetism.
 - [**Quantum Mechanics**](quantum-mechanics.md): Studies the relationship between energy and matter. It primarily deals with issues related to the quantum mechanical model of matter and the quantum mechanical description of physical phenomena.
@@ -44,7 +44,7 @@ In this section, we collect various materials related to each discipline from th
 - [**Condensed Matter Physics**](condensed-matter-physics.md): Studies the relationship between the structure and properties of condensed matter. It primarily deals with issues related to the structure of condensed matter, the structure of condensed matter, and the structure of condensed matter.
 - [**Biophysics**](biophysics.md): Studies the relationship between the structure and properties of biological systems. It primarily deals with issues related to the structure of biological systems, the structure of biological systems, and the structure of biological systems.
 - [**Optics**](optics.md): Studies the relationship between light and matter. It primarily deals with issues related to the structure of light, the structure of light, and the structure of light.
-- [**Other**](topics/other.md): Other physics fields.
+- [**Other**](branches/other.md): Other physics fields.
 
 ## Physics Software
 
@@ -96,9 +96,15 @@ Overall, the 'Physics Conferences' section is a valuable resource for physicists
 
 [Details](conferences.md)
 
+## Legendary Physicists
+
+The 'Legendary Physicists' section is a collection of physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
+
+[Details](details/legendary-physicists.md)
+
 ## Physics Books,Journals and Magazines
 
-The 'Physics Books & Magazines' section is a collection of recommended books and magazines related to physics. This section is designed to help users find useful resources for studying physics, and to stay up-to-date with the latest research and developments in the field.
+The 'Physics Books & Magazines' section is a collection of recommended books and magazines related to physics. This section is designed to help users find useful resources for studying physics, to stay up-to-date with the latest research and developments in the field, and to offer some entertaining readings to physics enthusiasts.
 
 [Details](books.md)
 
