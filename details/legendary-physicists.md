@@ -26,11 +26,18 @@ This section is a collection of physicists who had or have made outstanding cont
 
 ## **Atomic Nuclear Physics** 
 
+
+## **Particle Physics** 
+
 - [Meson]()
 - [Muon-neutrino]()
 - [Quark Model]()
 - [Parity violation]()
-
-## **Particle Physics** 
+- [Standard Model]()
 
 ## **Other Modern Physics**
+
+-[Condensed matter physics]()
+-[astrophysics]()
+-[cosmology]()
+-[The theory of everything]()
