@@ -1,4 +1,9 @@
 ![The Physics Grid](images/logo.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo.png">
+  <img alt="The Physics Grid Logo" src="images/logo.png">
+</picture>
 
 ## What is The Physics Grid?
 
