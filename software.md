@@ -21,6 +21,12 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ## General
 
+- [DataMelt](https://datamelt.org/) - DataMelt is a free software for numeric computation, mathematics, statistics, symbolic calculations, data analysis and data visualization. This multiplatform program combines the simplicity of scripting languages, such as Python, Ruby, Groovy (and others), with the power of hundreds of Java packages.
+
+  jHepWork was a name of the DataMelt program in 2005-20013
+
+  ![DataMelt](/images/datamelt.png)
+
 - [FEATool Multiphysics](https://www.featool.com/) - FEATool Multiphysics (https://www.featool.com) is a fully integrated, flexible and easy to use physics and finite element FEM simulation toolbox for MATLAB. Developed with ease of use in mind, everyone is able to set up and perform complex multiphysics simulations in a simple GUI without learning any coding, programming, or scripting.
 
   ![FEATool Multiphysics](/images/featool-multi-physics-simulation-toolbox.webp)
@@ -106,6 +112,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Gravity](#gravity)
 
 ### Kinematics
+
+- [AC Engine Calculator](https://sourceforge.net/projects/ac-engine-calculator/) - Engine Calculator is intended to solve 3 simple calculations: detect the frequency (Hertz), rotations per minute (RPM) and the number of poles of an alternated current motor. One of those may be found with the two others.
 
 - [CAMPARI](https://campari.sourceforge.net/) - CAMPARI is a joint package for performing and analyzing molecular simulations, in particular of systems of biological relevance. It focuses on a wide availability of algorithms for (advanced) sampling and is capable of combining Monte Carlo and molecular dynamics in seamless fashion. CAMPARI offers the user a very high level of control over all implemented features.
 
@@ -240,6 +248,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [AnalyzeNNLS](https://sourceforge.net/projects/analyzennls/) - Users load multiecho MRI data and draw ROIs. AnalyzeNNLS creates a T2 distribution from the averaged decay data. Regional fractions and geometric T2 times can be determined. Please reference: Bjarnason TA, Mitchell JR. JMR 206:200-4 (2010).
 
+- [cphcttoolbox](https://pypi.org/project/cphcttoolbox/) - Copenhagen Computed Tomography Toolbox is a collection of applications and libraries for flexible and efficient CT reconstruction. The toolbox apps generally take a set of projections (X-ray intensity measurements) and filter and back project them in order to recreate the image or volume that the projections represent. The project includes both mostly informative CPU implementations and highly efficient GPU implementations.
+
 - [IF97](https://sourceforge.net/projects/if97/) - Steam tables for industrial use according to the international standard for the properties of water and steam, the IAPWS-IF97 formulation and the international standards for transport and other properties.
 
   Hummeling Engineering BV develops engineering software in the fields of thermodynamics, mechanics, hydrodynamics, and digital signal processing.
@@ -258,6 +268,15 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Virtual Reflectometer](https://sourceforge.net/projects/virtualreflectometer/) - With Virtual Reflectometer (VR), you can simulate the basic alignment scans of a basic X ray reflectometer (diffractometer) with a Goebel mirror using ray tracing.
   With this program, you can characterize reflectometers and get a reflectometer-dependent overillumination correction for X Ray Reflectivity (XRR) scans.
   The pogram serves as an educational tool for explaining alignment and for a proper overillumination correction of XRR data.
+
+- [water_hammer_simulation](https://sourceforge.net/projects/water-hammer-simulation/) - With differents numerical methods this application simulate the water hammer phenomenon.
+
+  **features**
+
+  - Calculate pressure, hydraulic head and velocity as function of time in a simple configuration.
+  - Use differents numerical methods.
+  - Can see animation!
+  - Export results as tables.
 
 - [webgl-ripples](https://github.com/m-ender/webgl-ripples) - A physically realistic real-time simulation of (transversal) 2D waves in
 
@@ -299,6 +318,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Arbitrary Transmission Line Calculator](https://sourceforge.net/projects/atlc/) - 'atlc' is a CAD package used for analysing and desiging electrical transmission lines of arbitrary cross section. Also for the design of directonal couplers. Some parts are CPU intensive, so multiple CPUs are supported.
 
 - [DigitalSimulator](https://sourceforge.net/projects/digisimulator/) - The DigitalSimulator is your Virtual Electronics Lab, allowing you to design, simulate and output your digital circuit board designs.
+
+- [DIMTree](https://sourceforge.net/projects/dimtree/) - DIMTree is Tree View Browser for DIM system. The DIM is CERN designed Distributed Information Manager system, see http://dim.web.cern.ch/. DIM uses to create distributed DAQ and experiment control systems. DIMTree is browser for DIM which provides Tree View to browse DIM Servers, his published Services and it's data content. It's useful test/monitor/debug tool for DIM users.
 
 - [ElectricFieldSimulation](https://github.com/manucorporat/ElectricFieldSimulation) - An experimental example of how to use OpenGL for physical simulations
 - [Elk](https://elk.sourceforge.io/) - An all-electron full-potential linearised augmented-planewave (FP-LAPW) code. Designed to be as developer friendly as possible so that new developments in the field of density functional theory (DFT) can be added quickly and reliably.
@@ -348,6 +369,21 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Wcalc](https://sourceforge.net/projects/wcalc/) - Wcalc is a tool for the analysis and synthesis of electronic components. Some of the models include coupled microstrip lines, single layer air core solenoid inductors, etc.
 
 ## Optics
+
+- [AR65view](https://ar65view.sourceforge.net/) - The Java-Programm ar65view.jar is intended to analyse and manipulate the photoemission data measured by the ARPES experiments AR65 and WESPHOA. Both are part of the workgroup EES by Prof. Manzke at the Department of Physics, Humboldt University to Berlin, Germany. The program is written in Java 1.5 and runs therefore under Windows as well as Linux and Mac OS
+
+  ![AR65view](/images/ar65view.png)
+
+  Features
+
+  - Opens the \_.1 files of EAC Software for Omicron AR65 files.
+  - Opens the EAC_STEP files with right energy from the same type of files (stepper motor program version).
+  - Opens the \_.VIR files of the WESPHOA spectrometer.
+  - Detect and erase spikes from the spectra.
+  - Smoothing of the spectra, using the Savizky-Golay algorythm.
+  - Remove the 'Shirley background' from inelasic scattered electrons.
+  - Normalizing the peak height to a standard of 10000.
+  - Export of modified spectra data to clipboard.
 
 - [euclider](https://github.com/Limeth/euclider) - A higher-dimensional "non-euclidean" ray tracing prototype written in Rust
 - [GaussianBeam](https://sourceforge.net/projects/gaussianbeam/) - GaussianBeam computes the profile propagation of a Gaussian laser beam through a set of lenses.
@@ -457,6 +493,14 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 ## Quantum Physics
 
 - [artiq](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments
+- [C++QED](https://sourceforge.net/projects/cppqed/) - C++QED is an application-programming framework for simulating open quantum dynamics in general. It has demonstrated the ability to simulate full Master equation of up to several thousand, and quantum trajectories of up to several hundred thousand dimensions.
+
+  The basic idea is to allow users to build arbitrarily complex interacting quantum systems out of free subsystems and interactions (elements), and simulate their time evolution with a number of available time-evolution drivers.
+
+  C++QEDv2 specifies a small grammar to describe composite quantum systems. Apart from providing a number of elements out of the box, there are tools which facilitate the implementation of new elements. These are being added continuously, as the need arises.
+
+  The principal concept of the design of C++QEDv2 is that all information available at compile time should be processed as such, with the help of TMP. The framework is very sensitive to performance both in computer resources and coding/design.
+
 - [flavio](https://github.com/flav-io/flavio) - flavour phenomenology in the Standard model and beyond
 - [hepdata](https://github.com/HEPData/hepdata) - the high energy physics data repository
 - [Insensitive](https://sourceforge.net/projects/insensitive/) - Insensitive (Incredible Nuclear Spin EvolutioN SImulation Tool Intended for Visual Education) is an application to simulate the NMR experiment based on the quantum mechanical density matrix formalism. It is available for Mac OS X 10.6 and above and iOS 5.1.1 and above. Please refer to the paper published in Concepts In Magnetic Resonance, 2011, 38A (2), 17-24.
@@ -505,11 +549,17 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   ![Aciqra](/images/aciqra.jpg)
 
+- [AGBStarViewer](https://sourceforge.net/projects/agbstarviewer/) - AGBStarViewer is an astronomical SW which was developed as a part of my Master Thesis at the University of Vienna. It is designed to compare star spectra and obtain best fits of many hundreds spectra.
+
+- [AIRE](https://sourceforge.net/projects/aire/) - AIRE (Astrophysical Integrated Research Environment) is a set of computing facilities initiated by Tsinghua Center for Astrophysics , which aims to aid astrophysicists collect, store and analyze data.
+
 - [BAS - Astrolab](http://www.alchymy.com/ConquestOfSpace/) - Open source tool to assist with study of Astronomy, Astrophysics and Cosmology. To include usefull data and calculation of common equations used in the basic study of these subjects.
 
 - [CalPriorSNIa](https://github.com/valerio-marra/CalPriorSNIa) - Effective calibration prior on the absolute magnitude of Type Ia supernovae
   priorMB.nb quickly computes the effective calibration prior on the absolute magnitude M_B of Type Ia supernovae that corresponds to a given determination of H_0. See Camarena & Marra [[arXiv:1906.11814](https://arxiv.org/abs/1906.11814)] and [[arXiv:2101.08641](https://arxiv.org/abs/2101.08641)] for more details.
 - [CCL](https://github.com/LSSTDESC/CCL) - The Core Cosmology Library (CCL) is a standardized library of routines to calculate basic observables used in cosmology. It will be the standard analysis package used by the LSST Dark Energy Science Collaboration (DESC).
+- [ChiantiPy](https://sourceforge.net/projects/chiantipy/) - ChiantiPy is a Python package for the CHIANTI atomic database for astrophysical spectroscopy. It provides access to the database and the ability to calculate various physical quantities for the interpretation of astrophysical spectra.
+
 - [Colossus](https://bdiemer.bitbucket.io/colossus/) - Colossus is a python toolkit for calculations pertaining to cosmology, the large-scale structure of the universe, and the properties of dark matter halos. The name is an acronym for COsmology, haLO and large-Scale StrUcture toolS.
 - [CosmoloPy](http://roban.github.io/CosmoloPy/) - CosmoloPy is a package of cosmology routines built on NumPy/SciPy. Capabilities include: various cosmological densities, cosmological distance measures, galaxy luminosity functions (Schecter functions), conversion in and out of the AB magnitude system, pre-defined sets of cosmological parameters (e.g. from WMAP), perturbation theory and the power spectrum and reionization of the IGM.
 - [CosmoTransitions](https://github.com/clwainwright/CosmoTransitions) - CosmoTransitions is a package for analyzing finite or zero-temperature cosmological phase transitions driven by single or multiple scalar fields. It is written and maintained by Carroll L. Wainwright (a.k.a. “Max”) (clwainwri@gmail.com)
@@ -954,6 +1004,12 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Particle physics and Nuclear physics
 
+- [Accelerator Markup Language](https://sourceforge.net/projects/accelerator-ml/) - The Accelerator Markup Language (AML) / Universal Accelerator Parser (UAP) project will develop an XML based format for describing high energy particle accelerators along with associated software to convert lattice files to a standard internal struct
+
+- [ACCORD](https://sourceforge.net/projects/accord/) - ACCORD is a C library for composition of scanning electron or helium-ion microscope images with correction of drift. It produces significantly more accurate images than the traditional imaging techniques and also provides drift trajectories.
+
+- [AnharmoniCAOS](https://sourceforge.net/projects/anharmonica/) - Given dynamical coefficients and/or derivatives of the ionic potential with respect to normal (harmonic) vibrational modes, compute anharmonic energies and electric dipole-permitted transitions and intensities using nearly-degenerate perturbation theory (i.e. properly accounting for Fermi and Darling-Dennison resonances).
+
 - [ARTIMAGEN](https://sourceforge.net/projects/artimagen/) - The Artificial SEM Image Generator (ARTIMAGEN) is a library that generates artificial scanning electron microscope (SEM) and helium-ion microscope images of various samples, including gold-on-carbon resolution sample, or some semiconductor features.
 
 - [Atomes](https://sourceforge.net/projects/atomes/) - Atomes is a Free (Open Source) cross-platform software licensed under the terms
@@ -971,6 +1027,12 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
   Dr. Sébastien Le Roux works at the Institut de Physique et Chimie des Matériaux de Strasbourg.
 
 - [ATOMKI Common Data Acquisition](https://sourceforge.net/projects/at-cda/) - Nuclear physics data acquisition system. The suit of applications can be used to collect data from physics experiments using CAMAC/CAEN/VME devices. The system is quite specialized, but the code can still be useful for others doing something similar...
+
+- [AuroreNR](https://sourceforge.net/projects/aurorenr/) - Software developed for the analysis of Neutron Reflectivity data.
+
+- [CMSSW](http://cms-sw.github.io/) - CMSSW is a collection of software used wherever CMS is needed. CMS is a particle detector that is designed to see a wide range of particles and phenomena produced in high-energy collisions in the LHC. CMSSW has one executable, cmsRun and many plug-in modules.
+
+  ![CMSSW](/images/cmssw.png)
 
 - [DIANNA](https://sourceforge.net/projects/dianna/) - DIANNA (Diffraction Analysis of Nanopowders) is a free software developed to simulate atomic models of structures from an ensemble of nanoparticles and to calculate their whole X-ray powder diffraction patterns and the radial distribution function. The main objects of investigation are the particles whose coherent scattering domains do not exceed several nm. DIANNA is based on the ab initio method using the Debye scattering equation. This method makes it possible to obtain information on the atomic structure, shape and size of nanoparticles. It can be applied also to non-periodic materials or coherently ordered structures.
 
@@ -1000,9 +1062,6 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [Alpaca](https://alpaca.hepforge.org/) - Alpaca is a Fortran based Monte Carlo event generator for ALP production in coherent proton-nucleus (and electron-nucleus) collisions. Arbitrary user-defined histograms and cuts may be made, as well as unweighted events in the HEPEVT, HEPMC and LHE formats.
 - [Caravel](https://gitlab.com/caravel-public/caravel) - Caravel is a C++ 17 numerical unitarity framework to explore multi-loop amplitudes in the Standard Model and beyond.
-- [CMSSW](http://cms-sw.github.io/) - CMS is a particle detector that is designed to see a wide range of particles and phenomena produced in high-energy collisions in the LHC. Like a cylindrical onion, different layers of detectors measure the different particles, and use this key data to build up a picture of events at the heart of the collision.
-
-  ![CMSSW](/images/cmssw.png)
 
 - [EOS](https://eos.github.io/doc/index.html) - EOS is a software framework for applications in high-energy physics; in particular flavor physics. It is written in C++20, and provides both a C++20 and a Python3 API. The Python3 API is the recommended interface.
 
