@@ -75,6 +75,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   ![VASPKIT](/images/vaspkit.png)
 
+- [Zephyr](https://sourceforge.net/projects/zephyr/) - Zephyr is a script-driven experiment automation program that works various measurement instruments and actuators. It supports instruments from Agilent, Eco Physics, ICS Electronics, Keithley, Omega, Teledyne and other manufacturers. The script language is XML-based. Syntax highlighting is available.
+
 ## Algorithms
 
 - [Ani3D](https://sourceforge.net/projects/ani3d/) - Ani3D provides portable libraries for each step in the numerical solution of systems of PDEs with variable tensorial coefficients: (1) unstructured adaptive mesh generation, (2) metric-based mesh adaptation, (3) finite element discretization and interpolation, (4) algebraic solvers.
@@ -89,6 +91,7 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   Based on several hardware options it supports a commercially available DSP hardware and provided also Open Source Code for all the low level signal processing tasks and instrument controls in a most flexible and adaptable manner.
 
+- [Matrix Product State (MPS) Simulations]()
 - [Open Source MPS (OSMPS)](https://sourceforge.net/projects/openmps/) - Open Source MPS (OSMPS) is a collection of numerical routines for performing tensor network algorithms to simulate entangled, 1D many-body quantum systems. Our applications reach from ground state and excited states for statics to the dynamics of time-dependent Hamiltonians. We offer various time evolution methods with an emphasis on the support of long-range interactions through the matrix product state formalism. For more algorithms, see the list of features below.
 - [QSAS](https://sourceforge.net/projects/qsas/) - Analysis and display software targeted at space physics data.
 - [Quantities](https://sourceforge.net/projects/quantity/) - Quantities provides an interface to the use of numbers which are associated with a dimension and a unit (physical quantities) in computer calculations (quantity calculus) just like C++ built-in types.
@@ -129,6 +132,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [Kinemetry](https://www.aip.de/en/members/davor-krajnovic/kinemetry/) - Kinemetry analyses 2D maps of the moments of the line-of-sight velocity distribution (LOSVD), such as the mean velocity and the velocity dispersion. The method is a generalisation of surface photometry (e.g. [Jedrzejewski 1987](https://ui.adsabs.harvard.edu/abs/1987MNRAS.226..747J/abstract)) to all moments of the LOSVD. It performs harmonic expansion of 2D maps of observed moments (surface brightness, velocity, velocity dispersion, h3, h4...) along the best fitting ellipses (either fixed or free to change along the radii). Its purpose is to robustly quantify maps of the LOSVD moments, describe trends in structures and detect morphological and kinematic sub-components. Kinemetry can also be used for analysis of gas kinematics, in a similar way as classical tilted-ring analysis. This is because kinemetry, in the case of the velocity moment, assumes that motion is along circular orbits within a thin disk. More details about the method can be found in this paper [Krajnović et al. (2006, MNRAS, 366, 787)](https://ui.adsabs.harvard.edu/abs/2006MNRAS.366..787K/abstract).
 
   The software was original written in IDL programming language, which you can download from [here](http://www.davor.krajnovic.org/software/). There is also a python version of the code, which is distributed via this [link](https://cloud.aip.de/index.php/s/ctByK9wHgKEWXLy).
+
+- [libstatmech](https://sourceforge.net/projects/libstatmech/) - A C toolkit for computing the statistical mechanics of fermions and bosons.
 
 - [Nature](https://sourceforge.net/projects/nature/) - Nature is an open source library for computing thermochemical and kinetic properties of complex gas mixtures. The library supports the CHEMKIN data format and a native script for defining complex gas mixtures. Nature is written in C# and does not depend on any third party tool or library. Nature interoperates natively with any .NET language including the FTN95: Fortran 95 compiler.
 
@@ -223,6 +228,16 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Mechanical Waves
 
+- [Acoustic Research Tool (ART)](https://sourceforge.net/projects/artool/) - ART is a flexible simulation framework for wind instruments. It includes a growing library of modelling elements. So far bore discontinuities, branches, tone holes, cylindrical and conical tubes, Bessel horns and bent tubes are available for frequency domain modelling.
+
+  ![ART](/images/artool.jpeg)
+
+  In the time domain generic bidirectional propagation elements, scattering elements, fractional delays, convolution with reflection functions and general z-domain networks are available and can be described using MuParserX expressions. Cylindrical and conical ducts can also be defined based on their geometry.
+
+  Available models and their parameters can be enumerated and combined to form simulators for complex acoustical structures. Parameters can be specified symbolically by expressions containing other parameter values or global variables.
+
+  Dependencies between parameters are resolved at run time. However, MuParserX expressions are compiled at design time. Zero-delay loops are detected and reported.
+
 - [AnalyzeNNLS](https://sourceforge.net/projects/analyzennls/) - Users load multiecho MRI data and draw ROIs. AnalyzeNNLS creates a T2 distribution from the averaged decay data. Regional fractions and geometric T2 times can be determined. Please reference: Bjarnason TA, Mitchell JR. JMR 206:200-4 (2010).
 
 - [IF97](https://sourceforge.net/projects/if97/) - Steam tables for industrial use according to the international standard for the properties of water and steam, the IAPWS-IF97 formulation and the international standards for transport and other properties.
@@ -235,7 +250,15 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 - [iTides](https://sourceforge.net/projects/itides/) - With the support of the NSF and ONR over the past few years we have developed a MATLAB tool that calculates the internal wave field generated by barotropic tidal flow of a nonlinearly stratified fluid past any arbitrary two-dimensional topography of finite extent.
 - [pyrocko](https://github.com/pyrocko/pyrocko) - A seismology toolkit for Python
+- [SasView](https://www.sasview.org/) - SasView is a Small Angle Scattering (SAS) analysis package for the analysis of 1D and 2D scattering data directly in inverse space. The focus was originally on neutron data (SANS) but has been used for X-ray’s as well and includes a tool for determining a slit resolution for the SAXSess instrument. SansView also includes PrView to invert SAS data to P(r), a resolution calculator, and a scattering length density calculator among others tools. A simple plugin mechanism is available for users to add custom models.
+
+  This project was initiated by the NSF funded DANSE project, DMR-0520547, SANS sub-project at the University of Tennessee Knoxville. Acknowledgement of that original funding would be appreciated in any publications that make use of the software.
+
 - [sw4](https://github.com/geodynamics/sw4) - 3-D seismic modeling
+- [Virtual Reflectometer](https://sourceforge.net/projects/virtualreflectometer/) - With Virtual Reflectometer (VR), you can simulate the basic alignment scans of a basic X ray reflectometer (diffractometer) with a Goebel mirror using ray tracing.
+  With this program, you can characterize reflectometers and get a reflectometer-dependent overillumination correction for X Ray Reflectivity (XRR) scans.
+  The pogram serves as an educational tool for explaining alignment and for a proper overillumination correction of XRR data.
+
 - [webgl-ripples](https://github.com/m-ender/webgl-ripples) - A physically realistic real-time simulation of (transversal) 2D waves in
 
 - [wxProdOp](https://sourceforge.net/projects/wxprodop/) - The program does nmr product operator calculations for one, two, three and four spins. Receiver phase cycling is possible in conjunction with pulse phase cycling to simulate coherence pathway selection. An extensive manual and help files are included. Currently running under Linux and Windows.
@@ -244,6 +267,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ### Sound
 
+- [jjicalc - Java Just Intonation Calculator](https://sourceforge.net/projects/jjicalc/) - This is a Java Just Intonation Calculator. It allows users on many platforms to calculate and hear just tunings. It will support saving and opening tunigs and opening spreadsheet documents and allow users to send tunings to their synthesizers, via MIDI
+
 - [MRCWA](https://sourceforge.net/projects/mrcwa/) - MRCWA - Multilayer Rigorous Coupled Wave Analysis is a fast, flexible optical grating solver. It calculates an exact solution to the Maxwell equations for the diffraction of light from an optical grating with arbitrary profile and materials.
 
 - [python-acoustics](https://github.com/python-acoustics/python-acoustics) - A Python library aimed at acousticians
@@ -251,6 +276,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [wavefront](https://sourceforge.net/projects/wavefront/) - Wavefront is a programme for simulating 2D acoustic systems, with a particular emphasis on determining wavefront shapes at the mouths of horns.It accepts CAD drawings in DXF format and produces animated displays of wave propagation as well as exporting various data as text files.It is GPL software and runns on Linux and Windows.
 
   ![wavefront](/images/wavefront.jpg)
+
+- [XLDS](https://sourceforge.net/projects/xlds/) - A portable loudspeaker design system supporting measurement, modeling, simulation and optimization of boxes, filters and systems.
 
 ## Thermodynamics
 
@@ -280,6 +307,20 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [gprMax](https://github.com/gprMax/gprMax) - Simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)
 - [GridLAB-D](https://sourceforge.net/projects/gridlab-d/) - GridLAB-D is a new power system simulation tool that provides valuable information to users who design and operate electric power transmission and distribution systems, and to utilities that wish to take advantage of the latest smart grid technology. It incorporates advanced modeling techniques with high-performance algorithms to deliver the latest in end-use load modeling technology integrated with three-phase unbalanced power flow, and retail market systems. Historically, the inability to effectively model and evaluate smart grid technologies has been a barrier to adoption; GridLAB-D is designed to address this problem.
 
+- [Hex - Hydrogen-Electron Collisions](https://sourceforge.net/projects/hecs/) - A computer code for simulation of electron-hydrogen scattering. Contains three (more or less) finished sub-programs:
+
+  (a) “hex-ecs” which solves the Schrödinger equation in the B-spline basis,
+
+  (b) “hex-dwba” which computes scattering variables for high energies using the distorted wave Born approximation of the first order and finally
+
+  (c) “hex-db” which is a user interface to a plain SQLite database, where the intermediate results are being stored, and which is used to extract derived quantities like a cross section from it.
+
+  Several more solvers are being developed right now - namely the second order of Born approximation for use in Born subtraction and the intermediate energy regime, and the relativistic variant of ECS for solution of (n,l,j,m,σ) ⟶ (n',l',j',m',σ') transitions.
+
+- [Jljp](https://sourceforge.net/projects/jljp/) - **Calculates the voltage across a liquid junction between two solutions** Liquid junction potential calculator. It's a tool for scientists and engineers who have to do with electrochemistry and electrokinetics. When two solutions containing ions are put into contact, possibly through a porous diaphragm, a voltage develops across them. The calculation of the voltage is not trivial. The program is written in Java. Includes classes that can be included in other programs, together with graphical interfaces (also as an applet).
+
+  An analogous project written in C# can be found here: https://github.com/swharden/JLJP
+
 - [MaxFEM](https://sourceforge.net/projects/maxfem/) - MaxFem is an open software package for electromagnetic simulation by using finite element methods. The package can solve problems in electrostatics, direct current, magnetostatics and eddy-currents.
 
   ![MaxFEM](/images/maxfem.webp)
@@ -298,8 +339,8 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [scikit-rf](https://github.com/scikit-rf/scikit-rf) - RF and Microwave Engineering Scikit
 - [scikit-spectra](https://github.com/hugadams/scikit-spectra) - A python pandas-based toolkit for explorative spectroscopy, in particular UVVis spectroscopic data
 - [scuff-em](https://github.com/HomerReid/scuff-em) - computational physics suite for boundary-element analysis of electromagnetic scattering, fluctuation-induced phenomena, nanophotonics, RF device engineering, electrostatics, and more
+- [SEM2DPACK](https://sourceforge.net/projects/sem2d/) - A spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics.
 - [spirit](https://github.com/spirit-code/spirit) - Optimizations and Dynamics Framework for atomistic Spin systems
-
 - [SWAT-EM](https://sourceforge.net/projects/swat-em/) - SWAT-EM is a software for designing and analyzing of windings systems for electrical machines. Currently supported are rotating field windings (permanent-magnet motors, induction motors, synchronout reluctance motors) with any number of phases. This can be distributed full pitch winding, distributed fractional slot winding or tooth-coil winding.
 
   ![SWAT-EM](/images/swat-em.webp)
@@ -345,6 +386,9 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
   ![I.S.A.A.C.S.](/images/isaacs2.png)
 
 - [jOcular](https://sourceforge.net/projects/jocular/) - Optical Design Software for optical systems comprised of light sources, lenses, apertures, prisms, imagers, photometers, etc. Simulate light through the system and compute images and intensities at various locations in the design.
+- [JPIV](https://eguvep.github.io/jpiv/) - JPIV is a platform independent, graphical stand-alone application for Particle Image Velocimetry (PIV) written in Java. PIV is an optical technique for measuring fluid flow velocities.
+
+  ![JPIV](/images/jpiv.jpg)
 
 - [Laser Kids](https://sourceforge.net/projects/laserkids/) - Welcome to the home of homemade lasers and to the braniac laboratory. This site is devoted to the homemade lasers. And guides where it is described how to build them step by step. Any laser described in the guides can be build from scratch using only the common accessible resources. You won't need rare crystals, optics, mirrors or anything like this. On the other hand all lasers here are the demo of the concept. (Rather) cheap, quick-and-dirty mockups. Feel free to make for them proper housing and shining handles. My task is simple - to show that lasers ARE simple. Not less not more.
 
@@ -438,7 +482,17 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   It is adapted (by the same authors) from code that was originally supplied on a CD with the first edition of the book [1] and is now made available under the GPL3 license. In brief, we encourage everyone to use the software in your studies and research, to study and modify the source-code and to share it widely. However, you are not permitted to include any of our code in a closed-source project.
 
+- [Quantum Toolkit](https://qcplusplus.sourceforge.net/) - Quantum Mechanical Toolkit And 3D Viewer for C++. Allows Data Visualisation via Images, Surfaces and Volume plots using OpenGL, as well as rapid development Quantum Mechanical Simulations. Uses the Blitz++, VTK Visualisation and Qt Libraries.
+
+- [Quantum Information Toolkit](https://sourceforge.net/projects/qit/) - Quantum Information Toolkit is a comprehensive, easy-to-use interactive numerical toolkit for quantum information and computing, available for both MATLAB and Python.
+
+  ![Quantum Information Toolkit](/images/qit.jpg)
+
+- [quantx](https://sourceforge.net/projects/quantx/) - Educational software for studying quantum mechanics. This is the 3rd incarnation of QUANTX software created for Physics Department of Novosibirsk State University. The first version of this software was used in 1985-1991, and the second one was in use since 1991 till 2011. This 3rd version should be useful for universities of Russia and CIS. Translation into English is underway.
+
 - [ROOT](https://github.com/root-project/root) - A data processing and analysis framework, mainly used in high-energy physics
+- [RSchr-5](https://sourceforge.net/projects/rschr-5/) - RSchr-5 calculates the smallest eigenvalues of the one-electron Schrödinger equation.The solved problem is defined on the finite domain, which is a box. The problem is solved with the zero Dirichlet boundary conditions.The implemented algorithm uses Finite Element Method with B-splines as basis functions. Disctretization leads to generalized eigenvalue problem.Program RSchr-5 solves the generalized eigenvalue problem by algorithms implemented in SLEPc amd PETSc libraries. It uses Krylov-Schur algorithm from SLEPc library.The program is implemented in C++.The implementation is based on Message Passing Interface (MPI).
+
 - [scikit-hep](https://github.com/scikit-hep/scikit-hep) - Toolkit of interfaces and tools for high energy physics (HEP)
 
 - [WavePacket](https://sourceforge.net/projects/matlab.wavepacket.p/) - WavePacket is a program package for numerical simulation of quantum-mechanical wavepacket dynamics of distinguishable particles. It can be used to solve single or coupled time-independent or time-dependent (linear) Schrödinger and Liouville-von Neumann-equations, partly also classical or quantum-classical Liouville equations. Optionally accounting for the interaction with external electric fields within the semiclassical dipole approximation, WavePacket can be used to simulate modern experiments involving ultrashort light pulses in photo-induced physics or chemistry, including quantum optimal control. Allowing for visualization of dynamics 'on the fly', WavePacket is easy to use .
@@ -870,8 +924,14 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
 ## Geophysics
 
+- [AGLAEMap](https://sourceforge.net/projects/aglaemap/) - Programs for visualization, handling and quantification of PIXE maps at the AGLAE facility
+
+  ![AGLAEMap](/images/aglaemap.webp)
+
 - [burnman](https://github.com/geodynamics/burnman) - a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments
 - [em](https://github.com/geoscixyz/em) - Electromagnetic methods in geophysics - open educational resources
+- [GPLib++](https://sourceforge.net/projects/gplib/) - Geophysical Library is a C++-library to handle geophysical data. At the moment the focus is on magnetotelluric and seismic data. It also includes a genetic algorithm for data inversion, signal processing and statistics routines.
+
 - [Madagascar](https://www.reproducibility.org/) - Madagascar is a software package for geophysical data processing and reproducible numerical experiments. The package mission is to provide a convenient environment for researchers working with digital image and data processing in geophysics and related fields. [[Github](https://github.com/ahay/src)]
 
 - [openGPR](https://sourceforge.net/projects/opengpr/) - openGPR is a framework for the management, processing and 2D/3D-visualization of ground penetrating radar (GPR, georadar) data. It interoperates with existing tools like Seismic Unix, with a special focus on georadar applications.
@@ -909,6 +969,12 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   Atomes is developed by Dr. Sébastien Le Roux, research engineer for the CNRS
   Dr. Sébastien Le Roux works at the Institut de Physique et Chimie des Matériaux de Strasbourg.
+
+- [ATOMKI Common Data Acquisition](https://sourceforge.net/projects/at-cda/) - Nuclear physics data acquisition system. The suit of applications can be used to collect data from physics experiments using CAMAC/CAEN/VME devices. The system is quite specialized, but the code can still be useful for others doing something similar...
+
+- [DIANNA](https://sourceforge.net/projects/dianna/) - DIANNA (Diffraction Analysis of Nanopowders) is a free software developed to simulate atomic models of structures from an ensemble of nanoparticles and to calculate their whole X-ray powder diffraction patterns and the radial distribution function. The main objects of investigation are the particles whose coherent scattering domains do not exceed several nm. DIANNA is based on the ab initio method using the Debye scattering equation. This method makes it possible to obtain information on the atomic structure, shape and size of nanoparticles. It can be applied also to non-periodic materials or coherently ordered structures.
+
+  ![DIANNA](/images/dianna.webp)
 
 - [iradina](https://sourceforge.net/projects/iradina/) - Simulation of ion beam irradiation
 
