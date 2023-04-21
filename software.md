@@ -71,6 +71,10 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 
   ![pyPENELOPE](/images/pypenelope.jpg)
 
+- [REDUCE](https://reduce-algebra.sourceforge.io/) - REDUCE is a portable general-purpose computer algebra system. It is a system for doing scalar, vector and matrix algebra by computer, which also supports arbitrary precision numerical approximation and interfaces to gnuplot to provide graphics. It can be used interactively for simple calculations (as illustrated in the screenshot below) but also provides a full programming language, with a syntax similar to other modern programming languages. REDUCE supports alternative user interfaces including Run-REDUCE, TeXmacs and GNU Emacs.
+
+  ![REDUCE](/images/reduce.png)
+
 - [The Physics Classroom](https://www.physicsclassroom.com/) - We've had a phrase in our heads for a long time that sums up our mission: "serving students, teachers and classrooms." Every resource on our website has been fueled by the passion to put a tool in the hands of a student or a teacher to help them more effectively learn or teach physics. The Physics Classroom has numerous tools to address both in-the-classroom and at-home needs of students, teachers, and "classrooms".
 
 - [Tracker](https://physlets.org/tracker/) - Tracker is a free video analysis and modeling tool built on the Open Source Physics (OSP) Java framework. It is designed to be used in physics education.Tracker video modeling is a powerful way to combine videos with computer modeling.
