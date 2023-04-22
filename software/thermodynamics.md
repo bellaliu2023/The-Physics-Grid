@@ -1,0 +1,16 @@
+# Thermodynamics
+
+Thermodynamics is a branch of physics that deals with heat, work, and temperature, and their relation to energy, entropy, and the physical properties of matter and radiation. The behavior of these quantities is governed by the four laws of thermodynamics which convey a quantitative description using measurable macroscopic physical quantities, but may be explained in terms of microscopic constituents by statistical mechanics. Thermodynamics applies to a wide variety of topics in science and engineering, especially physical chemistry, biochemistry, chemical engineering and mechanical engineering, but also in other complex fields such as meteorology.
+
+Historically, thermodynamics developed out of a desire to increase the efficiency of early steam engines, particularly through the work of French physicist Sadi Carnot (1824) who believed that engine efficiency was the key that could help France win the Napoleonic Wars. Scots-Irish physicist Lord Kelvin was the first to formulate a concise definition of thermodynamics in 1854 which stated, "Thermo-dynamics is the subject of the relation of heat to forces acting between contiguous parts of bodies, and the relation of heat to electrical agency." German physicist and mathematician Rudolf Clausius restated Carnot's principle known as the Carnot cycle and gave so the theory of heat a truer and sounder basis. His most important paper, "On the Moving Force of Heat", published in 1850, first stated the second law of thermodynamics. In 1865 he introduced the concept of entropy. In 1870 he introduced the virial theorem, which applied to heat.
+
+The initial application of thermodynamics to mechanical heat engines was quickly extended to the study of chemical compounds and chemical reactions. Chemical thermodynamics studies the nature of the role of entropy in the process of chemical reactions and has provided the bulk of expansion and knowledge of the field. Other formulations of thermodynamics emerged. Statistical thermodynamics, or statistical mechanics, concerns itself with statistical predictions of the collective motion of particles from their microscopic behavior. In 1909, Constantin Carathéodory presented a purely mathematical approach in an axiomatic formulation, a description often referred to as geometrical thermodynamics.
+
+Reference: [Wikipedia](https://en.wikipedia.org/wiki/Thermodynamics)
+
+- [cantera](https://github.com/Cantera/cantera) - A chemical kinetics, thermodynamics, and transport tool suite
+- [CoolProp](https://github.com/CoolProp/CoolProp) - Thermophysical properties for the masses
+- [HOT: Thermodynamic tools for Matlab](https://sourceforge.net/projects/hot-tdb/) - HOT is a package of Matlab and Octave compatible functions that manage thermodynamic data for a wide range of species. Functions calculate almost all the most common thermodynamic quantities of mixtures.
+- [RMG-Py](https://github.com/ReactionMechanismGenerator/RMG-Py) - Python version of the amazing Reaction Mechanism Generator
+- [thermo](https://github.com/CalebBell/thermo) - Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL)
+- [thermopy](https://github.com/guillemborrell/thermopy) - A python library for thermodynamics
