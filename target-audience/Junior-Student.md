@@ -44,6 +44,18 @@ The so-called scale in music, The frequency of each octave is twice as different
 
 
 ## Fundamental optics
+
+As for fundamental optics, we will illustrate basic knowledge about **light** and **lens**.
+
+Light is an electromagnetic wave whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#Density.md) of the medium, which is opposite of sound waves. 
+
+Light travels in a straight line. This feature is widely used in human technologies, for example, the scope of the sniper rifle is made using this principle. However, light may change its direction when it meets a different medium. There are two basic ways to change the direction of light: **[Reflection](#reflection)** and **[Refraction](#refraction)**.
+
+### Reflection
+
+### Refraction
+
+
 ## Fundamental electromagnetics
 ## Fundamental mechanics
 ## The Origin of Natural Science
