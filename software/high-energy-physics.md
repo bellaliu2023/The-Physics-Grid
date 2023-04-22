@@ -174,7 +174,7 @@
 
 - [UmUTracker](https://sourceforge.net/projects/umutracker/) - We present a versatile and fast MATLAB program (UmUTracker) that automatically detects and tracks particles by analyzing long video sequences acquired by either light microscopy or digital holography microscopy (DHM). Our program finds the 2D particle center position using an isosceles triangle transform and the axial position by a fast implementation of Rayleigh-Sommerfeld numerical reconstruction algorithm using a one dimensional radial intensity profile.
 
-  ![UmUTracker](umutracker.webp)
+  ![UmUTracker](/images/umutracker.webp)
 
 ## Direct Detection
 
