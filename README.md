@@ -8,7 +8,7 @@
 
 [[English]](README.md) [[中文]](README_zh.md)
 
-**The Physics Grid** is an opensource collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently. 
+**The Physics Grid** is an opensource collaboration platform aimed at aggregating all physics-related project materials, software, organizations, and courses. We aim to provide physicists with a convenient resource center to help them learn, research, and teach more efficiently.
 
 ## Features
 
@@ -24,8 +24,6 @@ If you are a student who needs help while learning physics, information in this 
 - [**Junior High School**](target-audience/Junior-Student.md)
 - [**Senior High School**](senior-student.md)
 - [**University**](undergraduates.md)
-
-
 
 ## Branches of Physics
 
@@ -49,17 +47,16 @@ In this section, we collect various materials related to each discipline from th
 
 In this section, we have collected various software and tools related to physics, including:
 
-- [Mechanics](software.md#mechanics)
-- [Waves and Acoustics](software.md#waves-and-acoustics)
-- [Thermodynamics](software.md#thermodynamics)
-- [Electromagnetism](software.md#electromagnetism)
-- [Optics](software.md#optics)
-- [Relativity](software.md#relativity)
-- [Quantum Physics](software.md#quantum-physics)
-- [Astrophysics](software.md#astrophysics)
-- [Geophysics](software.md#geophysics)
-- [Organizations](software.md#organizations)
-- [Other](software.md#other)
+- [Mechanics](software/mechanics.md)
+- [Waves and Acoustics](software/waves-and-acoustics.md)
+- [Thermodynamics](software/thermodynamics.md)
+- [Electromagnetism](software/electromagnetism.md)
+- [Optics](software/optics.md)
+- [Relativity](software/relativity.md)
+- [Quantum Physics](software/quantum-physics.md)
+- [Astrophysics](software/astrophysics.md)
+- [Geophysics](software/geophysics.md)
+- [High Energy Physics](software/high-energy-physics.md)
 
 ## Physics Organizations
 
