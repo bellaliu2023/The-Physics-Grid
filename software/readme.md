@@ -32,7 +32,7 @@ A collaborative list of awesome software for exploring Physics concepts. Feel fr
 - [ORNL](https://github.com/ORNL) - Oak Ridge National Laboratory
 - [SLAC](https://github.com/SLAC) - Stanford Linear Accelerator Center
 
-# Thanks
+## Thanks
 
 - [Will Bierbower](https://github.com/wbierbower) - https://github.com/wbierbower/awesome-physics
 - [Nikolina Sarcevic](https://github.com/nikosarcevic) - https://github.com/nikosarcevic/HEP-ASTRO-COSMO
