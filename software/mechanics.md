@@ -16,6 +16,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/Mechanics)
 - [Rigid Bodies and Physics Engines](#rigid-bodies-and-physics-engines)
 - [Fluid Mechanics](#fluid-mechanics)
 - [Gravity](#gravity)
+- [Molecular Dynamics](#molecular-dynamics)
 
 ## Kinematics
 
@@ -134,3 +135,15 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/Mechanics)
 - [Gravisim](https://github.com/bcamp1/Gravisim) - A universal gravity simulator written using rust_sdl2
 - [GWtool](https://sourceforge.net/projects/gwtool/) - GWtool: simple tools for working with gravitational waves
 - [pycbc](https://github.com/ligo-cbc/pycbc) - Analyze gravitational-wave data, find signals, and study their parameters
+
+## Molecular Dynamics
+
+- [GROMACS](https://www.gromacs.org/) - A free and open-source software suite for high-performance molecular dynamics and output analysis.
+- [LAMMPS](https://lammps.sandia.gov) - a device that generates light, heat, or therapeutic radiation; something that illumines the mind or soul.
+- [NAMD](https://www.ks.uiuc.edu/Research/namd/) - NAMD, recipient of a 2002 Gordon Bell Award, a 2012 Sidney Fernbach Award, and a 2020 Gordon Bell Prize, is a parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems. Based on Charm++ parallel objects, NAMD scales to hundreds of cores for typical simulations and beyond 500,000 cores for the largest simulations. NAMD uses the popular molecular graphics program VMD for simulation setup and trajectory analysis, but is also file-compatible with AMBER, CHARMM, and X-PLOR. NAMD is distributed free of charge with source code. You can build NAMD yourself or download binaries for a wide variety of platforms. Our tutorials show you how to use NAMD and VMD for biomolecular modeling.
+
+- [PyMOL](https://pymol.org/) - PyMOL is a user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.
+
+  ![PyMOL](/images/pymol.png)
+
+- [VMD](https://www.ks.uiuc.edu/Research/vmd/) - VMD is a molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting. VMD supports computers running MacOS X, Unix, or Windows, is distributed free of charge, and includes source code.
