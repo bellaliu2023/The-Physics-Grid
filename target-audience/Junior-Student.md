@@ -49,12 +49,33 @@ As for fundamental optics, we will illustrate basic knowledge about **light** an
 
 Light is an electromagnetic wave whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#Density.md) of the medium, which is opposite of sound waves. 
 
-Light travels in a straight line. This feature is widely used in human technologies, for example, the scope of the sniper rifle is made using this principle. However, light may change its direction when it meets a different medium. There are two basic ways to change the direction of light: **[Reflection](#reflection)** and **[Refraction](#refraction)**.
+Light travels in a straight line. This feature is widely used in human technologies, for example, the scope of the sniper rifle is made using this principle. However, light may change its direction when it meets a different medium. There are two basic ways to change the direction of light: **[Reflection](#reflection)** and **[Refraction](#refraction)**.Light can also create an **[Image](#image)**.
 
 ### Reflection
 
+The reflection of light can be **specular** (like a mirror) or **diffuse** (energy is retained but images are lost, but the law of reflection is still obeyed), depending on the nature of the interface.
+
+- **Specular**  When a ray reflects on a smooth interface, it is called a specular reflection. 
+![Reflection](/images/reflection.png)
+
+    In the schematic, a beam of light PO hits a vertical mirror at point O, and the reflected light is OQ. Make an imaginary straight line perpendicular to the mirror at point O, called a **normal**. With normals, we can measure the angle of incidence i and reflection r. The law of reflection is expressed that i=r, in other words, the angle of reflection is equal to the angle of incidence, and at the same time the rays are reflected, the incident rays, the normals are in the same plane, and the reflected rays and the incident rays are divided on both sides of the normal.When incident light strikes the plane in the direction of the normal, the reflected light rays also shoot back in the direction of the normal.
+
+    The principle of planar mirror imaging is related to the phenomenon of reflection.
+
+    ![Mirror](/images/Mirror.png)
+
+    Whether it is a flat mirror or a non-planar mirror (concave mirror or convex mirror), the light will obey the law of reflection and be reflected by the face mirror, and the reflected light can form vision in the retina after entering the eye.
+
+    On a flat mirror, when a parallel beam hits the mirror, the beam is reflected in parallel, and the image is the same as what the eye sees. The image formed by the plane mirror is located where there is no actual object or light, so it forms a **[virtual image](#image)**.
+
+- **Diffuse** When light hits the surface of a (non-metallic) material, it bounces off in all directions, either because of very small irregularities inside the material (e.g., grain boundaries of polycrystalline materials, cell or fiber boundaries of organic materials), or because of the roughness of the surface of the material, resulting in a large number of reflections. Therefore, an "image" is not formed. This is called diffuse.
+    
+    Most of the light that objects send to our eyes is due to diffuse reflections on their surfaces, so this is the main mechanism for our naked eye observation.
+
 ### Refraction
 
+### Image
+Lights form images. When an image is able to be presented on a screen, it is called a **real image**. If not, it is called a **virtual image**. Real images are formed when light rays truly strike on the screen. Virtual images are formed when a reflection or a refraction changes the direction of a light, but our brain consider the direction of the light unchanged while dealing with the visual signals from the retina and form the visual image where there isn't a real item. 
 
 ## Fundamental electromagnetics
 ## Fundamental mechanics
