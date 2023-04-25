@@ -19,6 +19,8 @@
 
 - [jQuantum](https://sourceforge.net/projects/jquantum/) - jQuantum is a Java program to simulate a quantum computer, to design quantum circuits, and to visualize the execution of quantum algorithms. Another main purpose, however, is to create images in your head, and thereby - understanding.
 
+- [Kwant](https://kwant-project.org/) - Kwant is a free (open source) Python package for numerical calculations on tight-binding models with a strong focus on quantum transport. It is designed to be flexible and easy to use. Thanks to the use of innovative algorithms, Kwant is often faster than other available codes, even those entirely written in the low level FORTRAN and C/C++ languages.
+
 - [particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 - [Psi4](https://github.com/psi4/psi4) - Open-source Quantum Chemistry
 - [pypdt](https://bitbucket.org/andybuckley/pypdt) - Pythonic access to high energy particle data tables and ID codes
@@ -29,7 +31,6 @@
 - [QMsolve](https://github.com/quantum-visualizations/qmsolve) - A Python module for solving and visualizing the Schrödinger equation.
 - [quantum-python-lectures](https://github.com/tommyogden/quantum-python-lectures) - A series of self-study lectures on using Python for scientific computing at the graduate level in atomic physics and quantum optics.
 - [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Library for the numerical simulation of closed as well as open quantum systems
-- [qutip](https://github.com/qutip/qutip) - Quantum Toolbox in Python
 - [Quantum Wells, Wires and Dots](https://sourceforge.net/projects/qwwad/) - This software accompanies the textbook "Quantum Wells, Wires and Dots" (4th Edition), Paul Harrison and Alex Valavanis, Wiley, Chichester (2015).
 
   It is adapted (by the same authors) from code that was originally supplied on a CD with the first edition of the book [1] and is now made available under the GPL3 license. In brief, we encourage everyone to use the software in your studies and research, to study and modify the source-code and to share it widely. However, you are not permitted to include any of our code in a closed-source project.
@@ -40,7 +41,10 @@
 
   ![Quantum Information Toolkit](/images/qit.jpg)
 
+- [Quantum ESPRESSO](https://www.quantum-espresso.org/) - Is an integrated suite of Open-Source computer codes for electronic-structure calculations and materials modeling at the nanoscale. It is based on density-functional theory, plane waves, and pseudopotentials.
+
 - [quantx](https://sourceforge.net/projects/quantx/) - Educational software for studying quantum mechanics. This is the 3rd incarnation of QUANTX software created for Physics Department of Novosibirsk State University. The first version of this software was used in 1985-1991, and the second one was in use since 1991 till 2011. This 3rd version should be useful for universities of Russia and CIS. Translation into English is underway.
+- [qutip](https://github.com/qutip/qutip) - Quantum Toolbox in Python
 
 - [ROOT](https://github.com/root-project/root) - A data processing and analysis framework, mainly used in high-energy physics
 - [RSchr-5](https://sourceforge.net/projects/rschr-5/) - RSchr-5 calculates the smallest eigenvalues of the one-electron Schrödinger equation.The solved problem is defined on the finite domain, which is a box. The problem is solved with the zero Dirichlet boundary conditions.The implemented algorithm uses Finite Element Method with B-splines as basis functions. Disctretization leads to generalized eigenvalue problem.Program RSchr-5 solves the generalized eigenvalue problem by algorithms implemented in SLEPc amd PETSc libraries. It uses Krylov-Schur algorithm from SLEPc library.The program is implemented in C++.The implementation is based on Message Passing Interface (MPI).
