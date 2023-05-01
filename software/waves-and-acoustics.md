@@ -61,6 +61,10 @@
 
 - [openpbso](https://github.com/jhwang7628/openpbso) - openpbso is a C++ open-source library for physics-based sound. We provide functionalities to synthesize rigid-body sound models such as those built by the [KleinPAT algorithm](https://graphics.stanford.edu/projects/kleinpat/) (KleinPAT preprocessing tools not included).
 
+- [Polar Pattern Plotter](https://github.com/drscotthawley/PolarPatternPlotter) - Polar Pattern Plotter is an iOS app for measuring sound directivy patterns for loudspeakers and microphones. The iOS binary is available for free download on the [App Store](https://appsto.re/us/Mfvadb.i).
+
+  ![PolarPatternPlotter](https://camo.githubusercontent.com/33b3197ffd6fc82aa8e0bc71d2af3ab4057955c8ebb57544dfe72b3c949423be/687474703a2f2f7777772e73636f74746861776c65792e636f6d2f7070702f73637265656e73686f745f7265616c5f736d35372e6a7067)
+
 - [python-acoustics](https://github.com/python-acoustics/python-acoustics) - A Python library aimed at acousticians
 
 - [wavefront](https://sourceforge.net/projects/wavefront/) - Wavefront is a programme for simulating 2D acoustic systems, with a particular emphasis on determining wavefront shapes at the mouths of horns.It accepts CAD drawings in DXF format and produces animated displays of wave propagation as well as exporting various data as text files.It is GPL software and runns on Linux and Windows.
