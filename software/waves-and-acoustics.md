@@ -59,6 +59,8 @@
 
 - [MRCWA](https://sourceforge.net/projects/mrcwa/) - MRCWA - Multilayer Rigorous Coupled Wave Analysis is a fast, flexible optical grating solver. It calculates an exact solution to the Maxwell equations for the diffraction of light from an optical grating with arbitrary profile and materials.
 
+- [openpbso](https://github.com/jhwang7628/openpbso) - openpbso is a C++ open-source library for physics-based sound. We provide functionalities to synthesize rigid-body sound models such as those built by the [KleinPAT algorithm](https://graphics.stanford.edu/projects/kleinpat/) (KleinPAT preprocessing tools not included).
+
 - [python-acoustics](https://github.com/python-acoustics/python-acoustics) - A Python library aimed at acousticians
 
 - [wavefront](https://sourceforge.net/projects/wavefront/) - Wavefront is a programme for simulating 2D acoustic systems, with a particular emphasis on determining wavefront shapes at the mouths of horns.It accepts CAD drawings in DXF format and produces animated displays of wave propagation as well as exporting various data as text files.It is GPL software and runns on Linux and Windows.
