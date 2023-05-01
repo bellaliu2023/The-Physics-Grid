@@ -11,7 +11,7 @@
 
   In the time domain generic bidirectional propagation elements, scattering elements, fractional delays, convolution with reflection functions and general z-domain networks are available and can be described using MuParserX expressions. Cylindrical and conical ducts can also be defined based on their geometry.
 
-  Available models and their parameters can be enumerated and combined to form simulators for complex acoustical structures. Parameters can be specified symbolically by expressions containing other parameter values or global variables.
+  Available models and their parameters can be enumerated and combined to form simulators for complex acoustical structures. Parameters can be specified symbolically by containing other parameter values or global variables.
 
   Dependencies between parameters are resolved at run time. However, MuParserX expressions are compiled at design time. Zero-delay loops are detected and reported.
 
@@ -55,6 +55,8 @@
 
 ## Sound
 
+- [HelixSoundPhysics](https://github.com/Helix128/HelixSoundPhysics) - Simple approximated dynamic sound physics (occlusion and reverb) for Unity. This package does not come with any audio tracks (i will make a simpler footstep demo later).In order to use the demo scene you must download and set the audio track in the audio source.
+
 - [jjicalc - Java Just Intonation Calculator](https://sourceforge.net/projects/jjicalc/) - This is a Java Just Intonation Calculator. It allows users on many platforms to calculate and hear just tunings. It will support saving and opening tunigs and opening spreadsheet documents and allow users to send tunings to their synthesizers, via MIDI
 
 - [MRCWA](https://sourceforge.net/projects/mrcwa/) - MRCWA - Multilayer Rigorous Coupled Wave Analysis is a fast, flexible optical grating solver. It calculates an exact solution to the Maxwell equations for the diffraction of light from an optical grating with arbitrary profile and materials.
@@ -66,6 +68,10 @@
   ![PolarPatternPlotter](https://camo.githubusercontent.com/33b3197ffd6fc82aa8e0bc71d2af3ab4057955c8ebb57544dfe72b3c949423be/687474703a2f2f7777772e73636f74746861776c65792e636f6d2f7070702f73637265656e73686f745f7265616c5f736d35372e6a7067)
 
 - [python-acoustics](https://github.com/python-acoustics/python-acoustics) - A Python library aimed at acousticians
+
+- [talk-physics-of-sounds](https://github.com/iblech/talk-physics-of-sounds) - The physics of sounds: experiments with basic Linux tools
+
+- [Wave](https://github.com/william-herring/wave) - Wave is an app for viewing sound in waveforms (commonly known as sound waves) and constructing soundwaves with a visual editor. It also features educational resources and online capabilities such as publication of waves for others to use.
 
 - [wavefront](https://sourceforge.net/projects/wavefront/) - Wavefront is a programme for simulating 2D acoustic systems, with a particular emphasis on determining wavefront shapes at the mouths of horns.It accepts CAD drawings in DXF format and produces animated displays of wave propagation as well as exporting various data as text files.It is GPL software and runns on Linux and Windows.
 
