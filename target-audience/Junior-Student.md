@@ -74,6 +74,8 @@ The reflection of light can be **specular** (like a mirror) or **diffuse** (ener
 
 ### Refraction
 
+
+
 ### Image
 Lights form images. When an image is able to be presented on a screen, it is called a **real image**. If not, it is called a **virtual image**. Real images are formed when light rays truly strike on the screen. Virtual images are formed when a reflection or a refraction changes the direction of a light, but our brain consider the direction of the light unchanged while dealing with the visual signals from the retina and form the visual image where there isn't a real item. 
 

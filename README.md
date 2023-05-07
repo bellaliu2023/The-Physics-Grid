@@ -104,6 +104,12 @@ The 'Physics Books & Magazines' section is a collection of recommended books and
 
 [Details](books.md)
 
+## Physics Movies & Documentaries
+
+The 'Physics Movies' section is a collection of movies and documentaries about physics studies and lives of the great physicists. This section helps us better understand physics through the objective authenticity of documentaries. 
+
+[Details](details/movies.md)
+
 ## Physics News & Events
 
 The 'Physics News' section is a collection of the latest news and developments in the field of physics. This section provides users with a quick overview of recent discoveries, breakthroughs, and other important news in the field, allowing them to stay up-to-date with the latest developments.
