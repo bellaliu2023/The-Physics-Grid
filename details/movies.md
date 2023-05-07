@@ -70,7 +70,7 @@ Electricity is one of nature's most breathtaking forces. The film will take us i
 
     English
 
-**[Watch it now](www.bbc.co.uk/programmes/p00kjq6d)**
+**[Watch it now](https://www.bbc.co.uk/programmes/p00kjq6d)**
 
 ## **Discovery Science** (2010)
 
@@ -83,7 +83,7 @@ The show verifies various natural and scientific laws through experiments, which
 
     Japanese
 
-**[Watch it now](www.nhk.com)**
+**[Watch it now](https://www.nhk.com)**
 
 
 ## **Journey to the Edge of the Universe** (2008)
@@ -102,7 +102,7 @@ The film takes us from the moon, the closest moon to Earth, and guides us all th
 
     East Greenlandic, English
 
-**[Watch it now](www.imdb.com/title/tt1363109/)**    
+**[Watch it now](https://www.imdb.com/title/tt1363109/)**    
 
 
 ## **E=mc²: Einstein's Big Idea** (2005)
@@ -121,7 +121,7 @@ The film dramatizes the story of Albert Einstein's discovery of the connection b
 
     English
 
-**[Watch it now](www.imdb.com/title/tt0807520/)**
+**[Watch it now](https://www.imdb.com/title/tt0807520/)**
 
 ## **Light Fantastic** (2004)
 
