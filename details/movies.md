@@ -29,7 +29,7 @@ This film is a documentary on the life and work of Nobel Prize-winning physicist
 
 ## **The Fabric of the Cosmos** (2011)
 
-![The Fabric of the cosmos](/images/movies/cosmos.webp)
+![The Fabric of the cosmos](/images/movies/cosmos.png)
 
 From Newton's mechanical epiphany due to apples to Einstein's theory of relativity, to quantum mechanics, string theory... Based on the book of the same name, the film introduces the audience to the concepts of time, space and the universe.
 
