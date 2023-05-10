@@ -2,6 +2,8 @@
 
 The Nobel Prize in Physics has been awarded 116 times to 222 Nobel Prize laureates between 1901 and 2022. John Bardeen is the only laureate who has been awarded the Nobel Prize in Physics twice, in 1956 and 1972. This means that a total of 221 individuals have received the Nobel Prize in Physics.
 
+https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
+
 ## **2023**
 
 The Nobel Prize in Physics 2023 has not been awarded yet. It will be announced on Tuesday 3 October, 11:45 CEST at the earliest.
