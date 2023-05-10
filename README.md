@@ -96,7 +96,7 @@ Overall, the 'Physics Conferences' section is a valuable resource for physicists
 
 The 'Legendary Physicists' section is a collection of physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
 
-[Details](details/legendary-physicists.md)
+- [Nobel Prizes in Physics](physicists/nobel-prizes.md)
 
 ## Physics Books,Journals and Magazines
 
@@ -106,7 +106,7 @@ The 'Physics Books & Magazines' section is a collection of recommended books and
 
 ## Physics Movies & Documentaries
 
-The 'Physics Movies' section is a collection of movies and documentaries about physics studies and lives of the great physicists. This section helps us better understand physics through the objective authenticity of documentaries. 
+The 'Physics Movies' section is a collection of movies and documentaries about physics studies and lives of the great physicists. This section helps us better understand physics through the objective authenticity of documentaries.
 
 [Details](details/movies.md)
 
