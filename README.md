@@ -126,9 +126,11 @@ The 'Physics News' section is a collection of the latest news and developments i
 
 The competitions cover a wide range of physics fields, from fundamental physics to applied physics, with different competition projects. including:
 
-- **International Physics Olympiad (IPhO)**: Held annually, high school students from different countries participate.
+- [**International Physics Olympiad (IPhO)**](http://www.ipho-new.org/): Held annually, high school students from different countries participate.
 
-- **International Physics Competition for University Students (IPhCUS)**: Held every two years, university students from different countries participate.
+- [**International Physics Competition for University Students (IPhCUS)**](http://www.uphysicsc.com/): Held every two years, university students from different countries participate.
+
+- **The USA Physics Olympiad (USAPhO)**: The United States Physics Olympiad (USAPhO) is a high school physics competition run by the [American Association of Physics Teachers](https://aapt.org/) and the [American Institute of Physics](https://www.aip.org/) to select the team to represent the United States at the [International Physics Olympiad (IPhO)](http://www.ipho-new.org/). The team is selected through a series of exams testing their problem solving abilities. The top 20 finalists are invited to a rigorous study camp at the University of Maryland to prepare for the IPhO.
 
 - **China Undergraduate Physics Tournament (CUPT)**: Held annually, university students from China participate.
 
