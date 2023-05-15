@@ -32,7 +32,7 @@ Based on the statistics of all the Nobel Prize winners in physics over the years
 | Italy          | 6                      |
 | Switzerland    | 6                      |
 
----
+# Former Nobel Prize Physicists
 
 The Nobel Prize in Physics has been awarded 116 times to 222 Nobel Prize laureates between 1901 and 2022. John Bardeen is the only laureate who has been awarded the Nobel Prize in Physics twice, in 1956 and 1972. This means that a total of 221 individuals have received the Nobel Prize in Physics.
 

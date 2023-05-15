@@ -92,11 +92,17 @@ Overall, the 'Physics Conferences' section is a valuable resource for physicists
 
 [Details](conferences.md)
 
-## Legendary Physicists
+## Physicists
 
-The 'Legendary Physicists' section is a collection of physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
+The 'Physicists' section is a collection of famous physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
 
-- [Nobel Prizes in Physics](physicists/nobel-prizes.md)
+- [Nobel Prize Physicists](physicists/nobel-prizes.md)
+
+## [Physics Awards](https://en.wikipedia.org/wiki/List_of_physics_awards)
+
+This list of physics awards is an index to articles about notable awards for physics. The list includes lists of awards by the American Physical Society of the United States, and of the Institute of Physics of the United Kingdom, followed by a list organized by region and country of the organization that gives the award. Awards are not necessarily restricted to people from the country of the award giver.
+
+This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
 
 ## Physics Books,Journals and Magazines
 
