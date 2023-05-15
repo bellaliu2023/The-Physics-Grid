@@ -92,11 +92,17 @@ Overall, the 'Physics Conferences' section is a valuable resource for physicists
 
 [Details](conferences.md)
 
-## Legendary Physicists
+## Physicists
 
-The 'Legendary Physicists' section is a collection of physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
+The 'Physicists' section is a collection of famous physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
 
-- [Nobel Prizes in Physics](physicists/nobel-prizes.md)
+- [Nobel Prize Physicists](physicists/nobel-prizes.md)
+
+## [Physics Awards](https://en.wikipedia.org/wiki/List_of_physics_awards)
+
+This list of physics awards is an index to articles about notable awards for physics. The list includes lists of awards by the American Physical Society of the United States, and of the Institute of Physics of the United Kingdom, followed by a list organized by region and country of the organization that gives the award. Awards are not necessarily restricted to people from the country of the award giver.
+
+This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
 
 ## Physics Books,Journals and Magazines
 
@@ -120,9 +126,11 @@ The 'Physics News' section is a collection of the latest news and developments i
 
 The competitions cover a wide range of physics fields, from fundamental physics to applied physics, with different competition projects. including:
 
-- **International Physics Olympiad (IPhO)**: Held annually, high school students from different countries participate.
+- [**International Physics Olympiad (IPhO)**](http://www.ipho-new.org/): Held annually, high school students from different countries participate.
 
-- **International Physics Competition for University Students (IPhCUS)**: Held every two years, university students from different countries participate.
+- [**International Physics Competition for University Students (IPhCUS)**](http://www.uphysicsc.com/): Held every two years, university students from different countries participate.
+
+- **The USA Physics Olympiad (USAPhO)**: The United States Physics Olympiad (USAPhO) is a high school physics competition run by the [American Association of Physics Teachers](https://aapt.org/) and the [American Institute of Physics](https://www.aip.org/) to select the team to represent the United States at the [International Physics Olympiad (IPhO)](http://www.ipho-new.org/). The team is selected through a series of exams testing their problem solving abilities. The top 20 finalists are invited to a rigorous study camp at the University of Maryland to prepare for the IPhO.
 
 - **China Undergraduate Physics Tournament (CUPT)**: Held annually, university students from China participate.
 
