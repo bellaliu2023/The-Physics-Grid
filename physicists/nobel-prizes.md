@@ -4,18 +4,18 @@ Based on the statistics of all the Nobel Prize winners in physics over the years
 
 ## Affiliation at the time of the award (TOP 10)
 
-| Organization                                | Number of Nobel Prizes |
-| ------------------------------------------- | ---------------------- |
-| California Institute of Technology          | 9                      |
-| Princeton University                        | 9                      |
-| Stanford University                         | 9                      |
-| Harvard University                          | 9                      |
-| University of Cambridge                     | 8                      |
-| University of California, Berkeley          | 8                      |
-| Massachusetts Institute of Technology (MIT) | 8                      |
-| P.N. Lebedev Physical Institute             | 6                      |
-| University of Chicago                       | 5                      |
-| Bell Laboratories                           | 5                      |
+| Organization                                | Country        | Number of Nobel Prizes |
+| ------------------------------------------- | -------------- | ---------------------- |
+| California Institute of Technology          | USA            | 9                      |
+| Princeton University                        | USA            | 9                      |
+| Stanford University                         | USA            | 9                      |
+| Harvard University                          | USA            | 9                      |
+| University of Cambridge                     | United Kingdom | 8                      |
+| University of California, Berkeley          | USA            | 8                      |
+| Massachusetts Institute of Technology (MIT) | USA            | 8                      |
+| P.N. Lebedev Physical Institute             | Russia         | 6                      |
+| University of Chicago                       | USA            | 5                      |
+| Bell Laboratories                           | USA            | 5                      |
 
 ## Country of birth (TOP 10)
 
