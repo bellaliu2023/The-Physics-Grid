@@ -74,7 +74,13 @@ The reflection of light can be **specular** (like a mirror) or **diffuse** (ener
 
 ### Refraction
 
+![refraction-in-water](/images/440px-Pencil_in_a_bowl_of_water.svg.png)
 
+Refraction occurs when light passes through the surface of the water, such as the pencil in the picture, obliquely inserted in the water, partially under the surface of the water, then the object appears to bend at the surface of the water, because the light bends when entering the air from the water. When the light reaches the eye, the human eye thinks that he is walking in a straight line and pushes back and forth (line of sight), and the two lines of sight (the dotted line in the picture) meet higher than the actual location where the light is generated, which causes the pencil to appear taller and the water visually shallower than it actually is.
+
+Refraction is also responsible for the rainbow and the splitting of light into color spectra after passing through the prism. Glass has a high refractive index relative to air, so when a beam of white light enters a substance from the air, its refractive index will change due to different frequencies, because different colors correspond to different frequencies, they will be refracted at different angles at the junction and thus separated, in other words, the composition of different colors in white light will be refracted at different angles, and the phenomenon of dispersion occurs.
+
+The refractive index of air is related to its density, so it changes with air temperature and pressure. Due to the lower air pressure at high altitudes and the smaller refractive index, light refracts to the surface when traveling long distances through the atmosphere, which makes stars close to the horizon appear to be slightly offset, and allows us to see the sun first at sunrise, even if it has not risen geometrically above the horizon.Changes in temperature near the surface can lead to other optical phenomena , such as mirages or complex mirages.
 
 ### Image
 Lights form images. When an image is able to be presented on a screen, it is called a **real image**. If not, it is called a **virtual image**. Real images are formed when light rays truly strike on the screen. Virtual images are formed when a reflection or a refraction changes the direction of a light, but our brain consider the direction of the light unchanged while dealing with the visual signals from the retina and form the visual image where there isn't a real item. 
