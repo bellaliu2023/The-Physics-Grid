@@ -10,6 +10,8 @@ This section will be suitable for students who have just embarked on a journey o
 
     Energy; temperature; heat; power; change of state; 
 - [Fundamental optics](#fundamental-optics)
+
+    The features of light; reflection; refraction; the meaning of image;
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental mechanics](#fundamental-mechanics)
 - [The Origin of Natural Science](#the-origin-of-natural-science)
