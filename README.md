@@ -152,7 +152,7 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
 ## License
 
-This project is licensed under the CC-BY-SA-4.0 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC0-1.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact Us
 
