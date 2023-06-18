@@ -45,11 +45,11 @@ The so-called scale in music, The frequency of each octave is twice as different
 
 
 
-## Fundamental optics
+## **Fundamental optics**
 
 As for fundamental optics, we will illustrate basic knowledge about **light** and **lens**.
 
-Light is an electromagnetic wave whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#Density.md) of the medium, which is opposite of sound waves. 
+Light is an electromagnetic wave whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#density) of the medium, which is opposite of sound waves. 
 
 Light travels in a straight line. This feature is widely used in human technologies, for example, the scope of the sniper rifle is made using this principle. However, light may change its direction when it meets a different medium. There are two basic ways to change the direction of light: **[Reflection](#reflection)** and **[Refraction](#refraction)**.Light can also create an **[Image](#image)**.
 
@@ -87,7 +87,25 @@ The refractive index of air is related to its density, so it changes with air te
 ### Image
 Lights form images. When an image is able to be presented on a screen, it is called a **real image**. If not, it is called a **virtual image**. Real images are formed when light rays truly strike on the screen. Virtual images are formed when a reflection or a refraction changes the direction of a light, but our brain consider the direction of the light unchanged while dealing with the visual signals from the retina and form the visual image where there isn't a real item. 
 
-## Fundamental electromagnetics
-## Fundamental mechanics
-## The Origin of Natural Science
-## Competitions
+## **Fundamental electromagnetics**
+## **Fundamental mechanics**
+
+As for fundamental mechanics, we will illustrate basic knowledge about [density](#density), [velocity](#velocity), [forces](#force), [gravity](#gravity), [buoyancy](#buoyancy) and [friction](#friction). 
+
+### Density
+
+Density refers to the mass per unit volume of a substance, often denoted by the Greek letter ρ or the English letter D. Mathematically, density is defined as the quotient of mass divided by volume. That is, the ratio of the mass to the volume of an object.
+
+**ρ=m/V**
+
+where ρ is density, m is mass, and V is volume.
+
+The unit of density in the SI system of units is kg/m3, and other commonly used units are g/cm3, and t/m3 commonly used in engineering.
+
+Density reflects a property of the substance itself, which can therefore be affected by external factors. Generally speaking, the main physical quantities that affect the density of substances are pressure and temperature. Gas density is significantly affected by pressure and temperature, usually the density of gas only gives standard conditions or normal temperature and pressure, and the density under other conditions can be calculated by the equation of state of the gas (such as the ideal gas equation of state or van der Waals equation). The density of a liquid depends mainly on the composition of the liquid and is less affected by temperature (but sometimes it cannot be ignored). High pressures also have a significant impact. The density of solids varies by temperature and pressure similar to that of liquids, and is generally less pronounced.
+
+In addition, there are other physical factors that may affect the density of matter, such as magnetic fields, electric fields, etc. As a whole of nature, extreme pressures can cause the density of matter in some celestial bodies to differ greatly from the usual density.
+
+
+## **The Origin of Natural Science**
+## **Competitions**
