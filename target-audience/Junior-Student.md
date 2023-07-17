@@ -108,4 +108,11 @@ In addition, there are other physical factors that may affect the density of mat
 
 
 ## **The Origin of Natural Science**
+
+Natural science is the science that studies organic or inorganic things and phenomena in nature. Natural sciences include astronomy, physics, chemistry, environmental science, earth science, biology, medicine, public health, dentistry, pharmacy, atmospheric science, life science, zoology, botany, agriculture, etc.
+
+It is generally believed that the ancient Greeks Thales and Aristotle were the founders of natural science, and Galileo Galilei was the initiator of introducing experiments into natural science. Before the 18th century, natural science and philosophy in Europe were almost inseparable. Philosophers are also natural scientists, as are famous philosophers such as René Descartes, Gottfried Wilhelm Leibniz, and John Locke. In the early days of the development of natural science, the systematic study of natural objects or classifications was called natural history.
+
+[Details](https://en.wikipedia.org/wiki/History_of_science)
 ## **Competitions**
+
