@@ -87,6 +87,11 @@ The refractive index of air is related to its density, so it changes with air te
 ### Image
 Lights form images. When an image is able to be presented on a screen, it is called a **real image**. If not, it is called a **virtual image**. Real images are formed when light rays truly strike on the screen. Virtual images are formed when a reflection or a refraction changes the direction of a light, but our brain consider the direction of the light unchanged while dealing with the visual signals from the retina and form the visual image where there isn't a real item. 
 
+### Mirror
+A mirror is an item with a smooth surface and the ability to reflect light, the most common mirror is a flat mirror, often used by people to organize the appearance. In science, mirrors are also often used in telescopes, lasers, industrial instruments and other instruments.
+
+
+
 ## **Fundamental electromagnetics**
 ## **Fundamental mechanics**
 
