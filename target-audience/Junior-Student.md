@@ -90,7 +90,17 @@ Lights form images. When an image is able to be presented on a screen, it is cal
 ### Mirror
 A mirror is an item with a smooth surface and the ability to reflect light, the most common mirror is a flat mirror, often used by people to organize the appearance. In science, mirrors are also often used in telescopes, lasers, industrial instruments and other instruments.
 
+Whether it is a flat mirror or a non-planar mirror (concave mirror or convex mirror), the light will obey the law of reflection and be reflected by the face mirror, and the reflected light can form vision in the retina after entering the eye.
 
+On a flat mirror, when a parallel beam hits the mirror, the beam is reflected in parallel, and the image is the same as what the eye sees. The image formed by the plane mirror is located where there is no actual object or light, so it forms a virtual image.
+
+Curved mirrors are mirrors that reflect light from curved surfaces, and are divided into convex mirrors (convex outward) and concave mirrors (sunken inward). The surface shape of most curved mirrors is part of a spherical surface, but there are also optical devices that use other shapes. The most common aspheric shape is a parabolic mirror.
+
+- A **convex or divergent mirror** is a curved mirror that reflects light from a surface towards a light source. A collimated (parallel) beam of light is reflected by a convex mirror and diverges because the normal at each point on the mirror surface is in a different direction.
+
+    The image is always a virtual image (light does not really pass through the image), a reduced (smaller) positive image. This feature makes convex mirrors very useful: everything on the mirror looks smaller, so the image can be "compressed" to cover a larger field of view than a flat mirror. The passenger side mirror in a car is a typical convex mirror. In some countries, these mirrors are also required to be marked with a safety warning: "The actual object is closer than seen" to alert the driving of the impact of distortion of the convex mirror on distance judgment. The optical path diagram is as follows.
+
+    ![convex-or-divergent-mirror](/images/tumianjing.png)
 
 ## **Fundamental electromagnetics**
 ## **Fundamental mechanics**
