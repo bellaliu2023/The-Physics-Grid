@@ -14,6 +14,8 @@ This section will be suitable for students who have just embarked on a journey o
     The features of light; reflection; refraction; the meaning of image; mirrors; lenses; 
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental mechanics](#fundamental-mechanics)
+
+    Density; weight; Newton's three laws of motion; 
 - [The Origin of Natural Science](#the-origin-of-natural-science)
 - [Competitions](#competitions)
 
@@ -105,7 +107,18 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 ## **Fundamental electromagnetics**
 ## **Fundamental mechanics**
 
-As for fundamental mechanics, we will illustrate basic knowledge about [density](#density), [velocity](#velocity), [forces](#force), [gravity](#gravity), [buoyancy](#buoyancy) and [friction](#friction). 
+As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), [forces](#force) such as [buoyancy](#buoyancy) and [friction](#friction), and [Newton's three laws of motion](#newton's-three-laws-of-motion). 
+
+### Weight
+
+Weight is the gravitational [force](#force). As a kind of force, weight is a vector quantity, which means it has both magnetude and direction.Gravity varies with **depth** and **latitude**.
+
+**W=mg**
+
+where W is weight, m is mass and g is the gravitational field strength. The gravitational field strength on Earth is approximately 9.8N/kg. 
+
+When we use a balance to measure the mass of an object, the balance is actually measuring the weight but displays the mass.
+
 
 ### Density
 
@@ -120,6 +133,7 @@ The unit of density in the SI system of units is kg/m3, and other commonly used 
 Density reflects a property of the substance itself, which can therefore be affected by external factors. Generally speaking, the main physical quantities that affect the density of substances are pressure and temperature. Gas density is significantly affected by pressure and temperature, usually the density of gas only gives standard conditions or normal temperature and pressure, and the density under other conditions can be calculated by the equation of state of the gas (such as the ideal gas equation of state or van der Waals equation). The density of a liquid depends mainly on the composition of the liquid and is less affected by temperature (but sometimes it cannot be ignored). High pressures also have a significant impact. The density of solids varies by temperature and pressure similar to that of liquids, and is generally less pronounced.
 
 In addition, there are other physical factors that may affect the density of matter, such as magnetic fields, electric fields, etc. As a whole of nature, extreme pressures can cause the density of matter in some celestial bodies to differ greatly from the usual density.
+
 
 
 ## **The Origin of Natural Science**
