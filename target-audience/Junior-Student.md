@@ -14,7 +14,7 @@ This section will be suitable for students who have just embarked on a journey o
     The features of light; reflection; refraction; the meaning of image; mirrors; lenses; 
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental mechanics](#fundamental-mechanics)
-
+    Weight; density; velocity; 
     Density; weight; Newton's three laws of motion; 
 - [The Origin of Natural Science](#the-origin-of-natural-science)
 - [Competitions](#competitions)
@@ -45,6 +45,13 @@ The so-called scale in music, The frequency of each octave is twice as different
 
 ## **Fundamental theromology**
 
+As for fundamental thermology, we will explain basic knowledge about **energy** and **Molecular Thermal Theory**.
+
+### Energy
+
+Energy (ancient Greek ἐνέργεια energeia, meaning "activity, operation") is an indirectly observed physical quantity in physics. It is often seen as the ability of one physical system to [do work](#work) on other physical systems. Since work is defined as a force acting over a distance, energy is always equivalent to the ability to block a force along a certain length.
+
+The total energy contained in an object is based on its mass, and energy, like mass, does not come out of nothing or disappear for no reason. Energy, like mass, is a scalar quantity. In the International System of Units (SI), the unit of energy is joules, but in some fields it is customary to use other units such as "kilowatt-hours" or simply "kilowatt-hours" (i.e. one kilowatt-hour) and kilocalories and electron volts, which are also units of work.
 
 
 ## **Fundamental optics**
@@ -107,7 +114,7 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 ## **Fundamental electromagnetics**
 ## **Fundamental mechanics**
 
-As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), [forces](#force) such as [buoyancy](#buoyancy) and [friction](#friction), and [Newton's three laws of motion](#newton's-three-laws-of-motion). 
+As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), [forces](#force) such as [buoyancy](#buoyancy) and [friction](#friction), [Newton's three laws of motion](#newton's-three-laws-of-motion) and [work](#work). 
 
 ### Weight
 
@@ -134,7 +141,29 @@ Density reflects a property of the substance itself, which can therefore be affe
 
 In addition, there are other physical factors that may affect the density of matter, such as magnetic fields, electric fields, etc. As a whole of nature, extreme pressures can cause the density of matter in some celestial bodies to differ greatly from the usual density.
 
+### Velocity
 
+Velocity is a physical quantity that describes how fast or slow an object is moving, and in what direction it is moving.
+
+The velocity of an object is the rate of change of its position with respect to the frame of reference and is a function of time. The speed is equivalent to the specification of the object's velocity and direction of motion (e.g., 60 kilometers per hour to the north).
+
+Velocity is a basic concept in kinematics, a branch of classical mechanics that describes the motion of an object. If the velocity, direction, or both are changed, the velocity of the object changes and it is said to be accelerating.
+
+Velocity is a physical vector quantity; both amplitude and direction are required to define it. The absolute scalar value (magnitude) of velocity is called velocity and is a coherently derived unit whose quantity is measured in SI (metric) in meters per second (m/s) or as the SI base unit of (m⋅s-1). For example, "5 meters per second" is a scalar quantity, while "5 meters per second in the east" is a vector.
+
+Velocity is defined as the rate of change of a position with respect to time and can also be referred to as instantaneous velocity to emphasize the difference from average velocity. The average velocity of an object over a period of time t is the ratio of its displacement r to the time interval during that time:
+
+**v=r/t**
+
+The instantaneous velocity of an object at a given moment is defined as the rate of change of the position vector over time:
+
+**v=dr/dt**
+
+The velocity of an object is usually mentioned in physics as its instantaneous velocity. The unit of speed in the International System of Units is meters per second, the international symbol is m/s, and the Chinese symbol is meters per second. In the framework of relativity, the upper limit of an object's velocity is the speed of light.
+
+In everyday life, "velocity" and "velocity" are used interchangeably, but the two correspond to different concepts in physics: velocity is a scalar quantity (only magnitude, no direction), and its dimension is distance divided by time; Velocity is a vector quantity (with direction) and its dimension is bit removed with time. For example, if a car is traveling due north at a rate of 60 km/h, its velocity is a vector of magnitude equal to 60 km/h and pointing to true north. The instantaneous velocity of an object is equal to the magnitude of the instantaneous velocity, whereas the average velocity is not necessarily equal to the magnitude of the average velocity.
+
+### Work
 
 ## **The Origin of Natural Science**
 
