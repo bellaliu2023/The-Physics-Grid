@@ -15,7 +15,7 @@ This section will be suitable for students who have just embarked on a journey o
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental mechanics](#fundamental-mechanics)
     Weight; density; velocity; 
-    Density; weight; Newton's three laws of motion; 
+    Density; weight; Newton's three laws of motion; work
 - [The Origin of Natural Science](#the-origin-of-natural-science)
 - [Competitions](#competitions)
 
