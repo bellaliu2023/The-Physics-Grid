@@ -114,7 +114,7 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 ## **Fundamental electromagnetics**
 ## **Fundamental mechanics**
 
-As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), [forces](#force) such as [buoyancy](#buoyancy) and [friction](#friction), [Newton's three laws of motion](#newton's-three-laws-of-motion) and [work](#work). 
+As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), forces such as [buoyancy](#buoyancy) and [friction](#friction), [Newton's three laws of motion](#newton's-three-laws-of-motion) and [work](#work). 
 
 ### Weight
 
@@ -163,6 +163,19 @@ The velocity of an object is usually mentioned in physics as its instantaneous v
 
 In everyday life, "velocity" and "velocity" are used interchangeably, but the two correspond to different concepts in physics: velocity is a scalar quantity (only magnitude, no direction), and its dimension is distance divided by time; Velocity is a vector quantity (with direction) and its dimension is bit removed with time. For example, if a car is traveling due north at a rate of 60 km/h, its velocity is a vector of magnitude equal to 60 km/h and pointing to true north. The instantaneous velocity of an object is equal to the magnitude of the instantaneous velocity, whereas the average velocity is not necessarily equal to the magnitude of the average velocity.
 
+### Newton's Three Laws of Motion
+
+- **Newton's 1st Law of Motion**
+
+    Newton's first law of motion states that if the **external force** exerted on an object is zero, the speed of motion of the object does not change. According to this law, assuming that no external force is applied or the sum of the applied external forces is zero, then the object in motion always remains in a state of uniform linear motion, and the object at rest always remains at rest. The property exhibited by an object that maintains an unchanging state of motion is called **inertia**. Newton's first law, also known as the "law of inertia", is only established in an inertial frame of reference, also known as a "Newtonian frame of reference".
+
+    From the first law, the following can be inferred:
+
+    A stationary object remains stationary unless an external force is applied to it.
+
+    An object in motion does not change its velocity unless an external force is applied to the object. Note that velocity is a vector quantity, and the magnitude and direction of the velocity of the object do not change.
+
+    According to the first law, it is possible to determine whether there is an external force acting on the object by measuring whether the velocity of the object changes, but the first law does not give the magnitude of the external force, nor does it give the source of the external force, it only attributes the change in the velocity of the object to the exertion of the external force on the object. From another point of view, the motion of an object can only be changed because of the exertion of an external force on the object, otherwise, the motion of the object will remain the same forever, which means that the object has a certain property of laziness to change the state of motion, which is called the inertia of the object.
 ### Work
 
 ## **The Origin of Natural Science**
