@@ -176,6 +176,39 @@ In everyday life, "velocity" and "velocity" are used interchangeably, but the tw
     An object in motion does not change its velocity unless an external force is applied to the object. Note that velocity is a vector quantity, and the magnitude and direction of the velocity of the object do not change.
 
     According to the first law, it is possible to determine whether there is an external force acting on the object by measuring whether the velocity of the object changes, but the first law does not give the magnitude of the external force, nor does it give the source of the external force, it only attributes the change in the velocity of the object to the exertion of the external force on the object. From another point of view, the motion of an object can only be changed because of the exertion of an external force on the object, otherwise, the motion of the object will remain the same forever, which means that the object has a certain property of laziness to change the state of motion, which is called the inertia of the object.
+
+- **Newton's 2nd Law of Motion**
+
+    Newton's second law of motion states that the external force experienced by an object is equal to the first derivative of momentum versus time (the first differential value). Newton's second law can also be expressed as the product of mass and acceleration when the mass of an object does not change in motion.
+
+    Newton's second law states that the external force exerted on an object is equal to the time-varying rate of the momentum of the object:
+
+    **F=dp/dt**
+   
+    where p is momentum and t is time. Since momentum is equal to mass multiplied by velocity, Newton's second law can be expressed as follows: the external force experienced by the object is equal to the product of mass and acceleration, and acceleration is in the same direction as the external force. Expressed in equations,
+
+    **F=ma**
+
+    where F is the external force, m is the mass, and a is the acceleration.
+
+    According to the second law, if the mass of an object is constant, the acceleration of the object is proportional to the external force exerted, and the acceleration of the object is inversely proportional to the mass, assuming that the external force on the object is constant.
+
+    Suppose an external force is applied to an object, since the acceleration of the object is only related to the external force and mass, in any case, the object with the same mass will exhibit the same acceleration:
+
+    **a=F/m**
+
+    - ***Inertial frame of reference***: To know the acceleration of an object at a certain moment, the displacement of the object as a result of time must be measured from a stationary object (or an object moving in a straight line at a uniform velocity), while the stationary object (or an object moving in a straight line with uniform velocity) must remain in motion from an inertial frame of reference if the external force is zero, which means that the entire physical system must be measured from the inertial frame of reference. Therefore, Newton's second law assumes in advance that the acceleration of an object is a numerical value measured from an inertial frame of reference.
+    - ***Conservation of mass***: Classical mechanics has a hidden assumption, the conservation of mass, which is also known as Newton's zero-law of motion. Newton did not directly propose this law. The zeroth law of motion states that the mass of an object is conserved, independent of velocity, and independent of the force exerted on the object. When several objects interact, there may be a transfer of mass from one object to another, but the total mass remains the same.
+    - ***Determinism***: Newton's second law is a law of determinism. Assuming that the mass, initial position, and initial velocity of an object are known quantities, Newton's second law can be applied to calculate the position and velocity of an object at any time in its trajectory from the external forces applied to it.
+
+- **Newton's 3rd Law of Motion**
+
+    In classical mechanics, Newton's third law of motion states that when two objects interact with each other, the forces exerted on each other are **equal in magnitude**, **opposite in direction**, and **acting on the same straight line**. The forces will inevitably appear in pairs: one of them is called the "acting force"; The other force is called "reaction force" (Latin translation of actio and reactio), also known as "resistance"; The magnitude of the two forces is equal and the direction is opposite. The distinction between them is purely arbitrary; Any force can be considered as an acting force, and its corresponding force naturally becomes a concomitant reaction force. This pairing force and reaction force is called a "pairing force". Newton's third law of motion originally described the relationship between action and reaction, i.e., action equals reaction.
+
+    The third law is *not* a general law of nature, it only applies to certain forces, such as mental forces. Both electrostatic force and gravitational force are mental forces, so the third law can be used for mechanical analysis. Any force that involves the velocity of an object is not a mental force and cannot be analyzed using the third law, for example, the force of interaction between two moving electric charges is not a mental force, and the gravitational force of two moving objects interacting with each other is not a mental force, and the third law does not apply to these forces.
+
+[Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Third_law)
+
 ### Work
 
 ## **The Origin of Natural Science**
