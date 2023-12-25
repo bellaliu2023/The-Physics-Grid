@@ -207,7 +207,7 @@ In everyday life, "velocity" and "velocity" are used interchangeably, but the tw
 
     The third law is *not* a general law of nature, it only applies to certain forces, such as mental forces. Both electrostatic force and gravitational force are mental forces, so the third law can be used for mechanical analysis. Any force that involves the velocity of an object is not a mental force and cannot be analyzed using the third law, for example, the force of interaction between two moving electric charges is not a mental force, and the gravitational force of two moving objects interacting with each other is not a mental force, and the third law does not apply to these forces.
 
-[Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Third_law)
+[Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
 
 ### Work
 
