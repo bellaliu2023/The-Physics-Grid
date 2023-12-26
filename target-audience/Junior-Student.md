@@ -238,3 +238,14 @@ It is generally believed that the ancient Greeks Thales and Aristotle were the f
 [Details](https://en.wikipedia.org/wiki/History_of_science)
 ## **Competitions**
 As for competitions, we will introduce some physics competitions suitable for junior students who are willing to improve themselves.
+
+### The International Physics Olympiad
+
+The International Physics Olympiad (IPhO) is a physics competition for middle school students, as a kind of international science Olympiad, the International Physics Olympiad is held once a year. The first edition was held in Warsaw, Poland in 1967.
+
+There is one team from each country, consisting of 5 student players and 2 team leaders, and observers can also accompany the team. Students will compete individually to answer theoretical and experimental questions. Students who excel in their performance may receive gold, silver, bronze medals or honorable mentions.
+
+The competition will be held for at least two days and five hours each. The first day consists of three theoretical questions, which must be spread across four areas taught in secondary school (mechanics, thermodynamics, electrodynamics, and quantum mechanics) for a total score of 30 points. The other day is to answer one or two experimental questions with a total score of 20 points. The questions of the competition focused on testing the creativity and understanding of physics rather than the skill and speed of mathematical calculations. There will be at least one day off between the two days. Participants must be secondary school students who have not received tertiary education and are under the age of 21 at the end of the competition. Generally speaking, the team consists of five students, one team leader and one deputy team leader.
+
+Olympiad medals and honours are awarded according to the following rules: Gold medals are awarded to the top 8% of participants. The conditions for the silver medal are the best 25% (minus the gold medalist) of the participants. The conditions for the bronze medal are the best 50% (minus the gold and silver medalists) of the participants. The best 67% (minus the gold, silver and bronze medalists) will receive medals. All participants will receive a badge. The contestant with the highest overall score, the highest female overall score, the highest theoretical paper, and the highest experimental paper will receive a special prize.
+
