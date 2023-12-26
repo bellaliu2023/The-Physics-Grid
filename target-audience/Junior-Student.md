@@ -237,4 +237,4 @@ It is generally believed that the ancient Greeks Thales and Aristotle were the f
 
 [Details](https://en.wikipedia.org/wiki/History_of_science)
 ## **Competitions**
-
+As for competitions, we will introduce some physics competitions suitable for junior students who are willing to improve themselves.
