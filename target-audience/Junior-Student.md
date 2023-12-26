@@ -6,7 +6,7 @@ This section will be suitable for students who have just embarked on a journey o
 - [Fundamental acoustics](#fundamental-acoustics)
    
     The way the sound is produced; the conditions under which the sound propagates; the factors that determine the characteristics of a music; ultrasonic; infrasonic; 
-- [Fundamental thermology](#fundamental-theremology)
+- [Fundamental thermology](#fundamental-thermology)
 
     Energy; temperature; heat; power; change of state; 
 - [Fundamental optics](#fundamental-optics)
@@ -43,7 +43,7 @@ Ultrasound is widely used in life. Learning from bats, radar locates by transmit
 
 The so-called scale in music, The frequency of each octave is twice as different (the alto DO Iis about 262Hz, which is twice that of 131HZ of bass DO). Each semitone rate increases by 21/12x (about 1.0595x) in the respective scales.
 
-## **Fundamental theromology**
+## **Fundamental thermology**
 
 As for fundamental thermology, we will explain basic knowledge about **energy** and **Molecular Thermal Theory**.
 
@@ -210,6 +210,24 @@ In everyday life, "velocity" and "velocity" are used interchangeably, but the tw
 [Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
 
 ### Work
+
+Work, also called mechanical work, is a physical quantity in physics that represents the accumulation of **force** to **displacement**, and refers to the **[energy](#energy) transition** from one physical system to another, especially the transfer of energy under the action of a force that moves an object in the direction of the force. Similar to mechanical energy, work is also a scalar quantity, and the SI unit is **joules**.
+
+Even if there is force, no work may be done. For example, in a uniform circular motion, the centripetal force does not do work because there is no change in the kinetic energy of the object doing circular motion. In the same way, a book on the table, although the table is supportive of the book, does not do work because it is not displaced.
+
+According to the kinetic energy theorem, if an external force acts on an object to increase its kinetic energy from Ek0 to Ek, then the mechanical work done by this force is:
+
+**W=△Ek=Ek-Ek0=½m(v²-v0²)**
+
+where m is the mass of the object and v is the velocity of the object.
+
+Mechanical work is the internal product of force and displacement:
+
+**W=Fd**
+
+If the angle between force and displacement is less than the right angle, then the mechanical work is positive, also known as the force doing positive work. If the angle between force and displacement is greater than the right angle, then the mechanical work is negative, or the force does negative work, or the object overcomes the force to do the work.
+
+If the direction of the force is perpendicular to the direction of displacement, then this force does not do work.
 
 ## **The Origin of Natural Science**
 
