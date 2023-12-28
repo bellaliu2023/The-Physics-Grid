@@ -45,7 +45,7 @@ The so-called scale in music, The frequency of each octave is twice as different
 
 ## **Fundamental thermology**
 
-As for fundamental thermology, we will explain basic knowledge about **energy** and **Molecular Thermal Theory**.
+As for fundamental thermology, we will explain basic knowledge about [energy](#energy), [temperature](#temperature), [heat](#heat), [power](#power) and [changes of states](#change-of-state).
 
 ### Energy
 
@@ -53,6 +53,33 @@ Energy (ancient Greek ἐνέργεια energeia, meaning "activity, operation")
 
 The total energy contained in an object is based on its mass, and energy, like mass, does not come out of nothing or disappear for no reason. Energy, like mass, is a scalar quantity. In the International System of Units (SI), the unit of energy is joules, but in some fields it is customary to use other units such as "kilowatt-hours" or simply "kilowatt-hours" (i.e. one kilowatt-hour) and kilocalories and electron volts, which are also units of work.
 
+System A can transfer energy to system B by simple transfer of matter (because the mass of matter is equivalent to energy). However, if the energy is not transferred by matter but by other means, it will cause a change in system B, because system A does work on system B. This work behaves as if a force acts at a certain distance in a system that receives energy. For example, system A can transfer (radiate) electromagnetic energy to system B, which creates a force on the particles that absorb the radiant energy. Similarly, a system may transfer energy through a collision, in which case the collided object will be subjected to a force over a distance and gain the energy of motion, which is called kinetic energy. Heat can be transferred by radiant energy or directly through the collision of particles between systems in the form of kinetic energy of microscopic particles.
+
+In the process of all energy conversion, the total energy remains the same, because the energy of the total system is transferred between the systems, and when one system loses energy, another system must gain the lost energy, resulting in a balance between loss and gain, so the total energy does not change. This **law of conservation of energy** was proposed at the beginning of the 19th century and applied to any isolated system. According to Noether's theorem, conservation of energy is a natural consequence of the fact that the laws of physics do not change with time.
+
+Although the total energy of a system does not change over time, the value of its energy may vary depending on the frame of reference. For example, a passenger sitting in an airplane has zero kinetic energy relative to the airplane; But relative to the Earth, kinetic energy is not zero.
+
+In the articles of the physical sciences, there are several forms of energy that are defined. These include:
+
+- **[Thermal energy](https://en.wikipedia.org/wiki/Thermal_energy)**, the heat energy in the conduction process is called heat
+- **[Chemical energy](https://en.wikipedia.org/wiki/Chemical_energy)**
+- **[Electrical energy](https://en.wikipedia.org/wiki/Electrical_energy)**
+- **[Radiant energy](https://en.wikipedia.org/wiki/Radiant_energy)**, the energy of electromagnetic radiation
+- **[Nuclear binding energy](https://en.wikipedia.org/wiki/Nuclear_binding_energy)**
+- **[Resilience](https://en.wikipedia.org/wiki/Resilience_(materials_science))**
+- **[Sound energy](https://en.wikipedia.org/wiki/Sound_energy)**
+- **[Mechanical energy](https://en.wikipedia.org/wiki/Mechanical_energy)**
+- **[Potential energy](https://en.wikipedia.org/wiki/Potential_energy)**
+- **[kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy)**
+- **[Bioenergy](https://en.wikipedia.org/wiki/Bioenergy)**
+
+These forms of energy can be broadly divided into two main categories: kinetic energy and potential energy. Other similar forms of energy are a mixture of kinetic energy and potential energy.
+
+### Temperature
+
+Temperature is a physical quantity that indicates how hot or cold an object is, and microscopically it is the intensity of the thermal motion of the molecules of an object. Temperature can only be measured indirectly by certain characteristics of an object as a function of temperature, and the scale used to measure the temperature value of an object is called a temperature scale. It specifies the starting point (zero point) of the temperature reading and the basic unit for measuring the temperature. The theoretical high pole of temperature is the [Planck temperature](https://en.wikipedia.org/wiki/Planck_units#Planck_temperature), while the theoretical low pole is [absolute zero](https://en.wikipedia.org/wiki/Absolute_zero). Both Planck temperature and absolute zero cannot be achieved in a finite number of steps. At present, the most widely used temperature scales in the world are **Celsius (°C)**, **Fahrenheit (°F)**, **thermodynamic (K)** and international practical temperature scales.
+
+Temperature is a manifestation of the average intermolecular kinetic energy within an object. It is worth noting that a small number of molecules or even a system of molecular composition have no temperature significance due to the lack of statistical quantitative requirements.
 
 ## **Fundamental optics**
 
