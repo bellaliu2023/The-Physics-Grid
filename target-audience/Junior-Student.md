@@ -141,7 +141,7 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 ## **Fundamental electromagnetics**
 ## **Fundamental mechanics**
 
-As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), forces such as [buoyancy](#buoyancy) and [friction](#friction), [Newton's three laws of motion](#newton's-three-laws-of-motion) and [work](#work). 
+As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), forces such as [buoyancy](#buoyancy) and [friction](#friction), [Newton's three laws of motion](#newton's-three-laws-of-motion), [pressure](#pressure) and [work](#work). 
 
 ### Weight
 
@@ -235,6 +235,10 @@ In everyday life, "velocity" and "velocity" are used interchangeably, but the tw
     The third law is *not* a general law of nature, it only applies to certain forces, such as mental forces. Both electrostatic force and gravitational force are mental forces, so the third law can be used for mechanical analysis. Any force that involves the velocity of an object is not a mental force and cannot be analyzed using the third law, for example, the force of interaction between two moving electric charges is not a mental force, and the gravitational force of two moving objects interacting with each other is not a mental force, and the third law does not apply to these forces.
 
 [Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+
+### Pressure
+
+
 
 ### Work
 
