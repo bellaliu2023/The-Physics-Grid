@@ -238,7 +238,22 @@ In everyday life, "velocity" and "velocity" are used interchangeably, but the tw
 
 ### Pressure
 
+Pressure (symbol: p or P) is the force applied perpendicular to the surface of an object per unit area over which that force is distributed.[1]: 445  Gauge pressure (also spelled gage pressure)[a] is the pressure relative to the ambient pressure.
 
+Various units are used to express pressure. Some of these derive from a unit of force divided by a unit of area; the SI unit of pressure, the pascal (Pa), for example, is one newton per square metre (N/m2); similarly, the pound-force per square inch (psi, symbol lbf/in2) is the traditional unit of pressure in the imperial and US customary systems. Pressure may also be expressed in terms of standard atmospheric pressure; the atmosphere (atm) is equal to this pressure, and the torr is defined as 1⁄760 of this. Manometric units such as the centimetre of water, millimetre of mercury, and inch of mercury are used to express pressures in terms of the height of column of a particular fluid in a manometer.
+
+Pressure is the amount of force applied perpendicular to the surface of an object per unit area. The symbol for it is "p" or P.[2] The IUPAC recommendation for pressure is a lower-case p.[3] However, upper-case P is widely used. The usage of P vs p depends upon the field in which one is working, on the nearby presence of other symbols for quantities such as power and momentum, and on writing style.
+
+**Formula**
+Mathematically:  **p=F/A**
+where:
+- p is the pressure,
+- F is the magnitude of the normal force,
+- A is the area of the surface on contact.
+
+Pressure is a **scalar quantity**. It relates the vector area element (a vector normal to the surface) with the normal force acting on it. 
+
+[Details](https://en.wikipedia.org/wiki/Pressure)
 
 ### Work
 
