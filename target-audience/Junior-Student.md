@@ -253,6 +253,31 @@ where:
 
 Pressure is a **scalar quantity**. It relates the vector area element (a vector normal to the surface) with the normal force acting on it. 
 
+**Pressure in Liquid**
+
+Properties:
+
+- *Increases with depth*. The deeper a liquid is, the greater the [weight](#weight) above, and so the higher the pressure. 
+- *Acts in all directions*.The liquid pushes on all surfaces it is in contact with.
+
+Formula:
+
+**p=ρgh**
+
+Where p stands for pressure, ρ stands for [density](#density), g stands for gravitational strength field and h stands for height (or depth, in the case of a liquid).
+
+**Pressure in Gas**
+
+Properties: 
+
+- *Acts in all directions*. Particles in a gas move randomly around and collide with the wall of the container, exerting a pressure.
+- *The air pressure decrease as you rise up through the atmosphere*. The atmosphere is denser at lower levels. At sea level, atmospheric pressure is about 105 kPa (= 105000 Pa).
+
+
+![barometer](/images/barometer.jpg)
+
+This is a mercury barometer.It is the first measuring apparatus of the air pressure. The mercury column gets higher as the surrounding air pressure increase. At sea level, 760mm of mercury can be supported. 
+
 [Details](https://en.wikipedia.org/wiki/Pressure)
 
 ### Work
