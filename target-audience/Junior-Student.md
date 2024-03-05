@@ -8,14 +8,14 @@ This section will be suitable for students who have just embarked on a journey o
     The way the sound is produced; the conditions under which the sound propagates; the factors that determine the characteristics of a music; ultrasonic; infrasonic; 
 - [Fundamental thermology](#fundamental-thermology)
 
-    Energy; temperature; heat; power; change of state; 
+    Energy; temperature; heat and heat transfer; power; change of state; 
 - [Fundamental optics](#fundamental-optics)
 
     The features of light; reflection; refraction; the meaning of image; mirrors; lenses; 
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental mechanics](#fundamental-mechanics)
     Weight; density; velocity; 
-    Density; weight; Newton's three laws of motion; work
+    Density; Newton's three laws of motion; work
 - [The Origin of Natural Science](#the-origin-of-natural-science)
 - [Competitions](#competitions)
 
@@ -45,7 +45,7 @@ The so-called scale in music, The frequency of each octave is twice as different
 
 ## **Fundamental thermology**
 
-As for fundamental thermology, we will explain basic knowledge about [energy](#energy), [temperature](#temperature), [heat](#heat), [power](#power) and [changes of states](#change-of-state).
+As for fundamental thermology, we will explain basic knowledge about [energy](#energy), [temperature](#temperature), [heat and heat transfer](#heat-and-heat-transfer), [power](#power) and [changes of states](#change-of-state).
 
 ### Energy
 
@@ -80,6 +80,50 @@ These forms of energy can be broadly divided into two main categories: kinetic e
 Temperature is a physical quantity that indicates how hot or cold an object is, and microscopically it is the intensity of the thermal motion of the molecules of an object. Temperature can only be measured indirectly by certain characteristics of an object as a function of temperature, and the scale used to measure the temperature value of an object is called a temperature scale. It specifies the starting point (zero point) of the temperature reading and the basic unit for measuring the temperature. The theoretical high pole of temperature is the [Planck temperature](https://en.wikipedia.org/wiki/Planck_units#Planck_temperature), while the theoretical low pole is [absolute zero](https://en.wikipedia.org/wiki/Absolute_zero). Both Planck temperature and absolute zero cannot be achieved in a finite number of steps. At present, the most widely used temperature scales in the world are **Celsius (°C)**, **Fahrenheit (°F)**, **thermodynamic (K)** and international practical temperature scales.
 
 Temperature is a manifestation of the average intermolecular kinetic energy within an object. It is worth noting that a small number of molecules or even a system of molecular composition have no temperature significance due to the lack of statistical quantitative requirements.
+
+As for gas, temperature is directly proportional to its [pressure](#pressure) when the volume is constant and inversely proportional to its volume when the pressure is constant.
+
+### Heat and heat transfer
+
+In thermodynamics, heat is the thermal energy transferred between systems due to a [temperature](#temperature) difference.In colloquial use, heat sometimes refers to thermal energy itself. Thermal energy is the kinetic energy of vibrating and colliding atoms in a substance.
+
+*The difference between heat and temperature*: Temperature is a measure of energy while heat is the transferring quantity of energy.
+
+As a form of energy, heat has the unit joule (J) in the International System of Units (SI). In addition, many applied branches of engineering use other, traditional units, such as the British thermal unit (BTU) and the calorie. The standard unit for the rate of heating (the so-called [power](#power)) is the watt (W), defined as one joule per second.
+
+The symbol Q for heat was introduced by Rudolf Clausius and Macquorn Rankine in 1859.
+
+There are three ways to transfer heat:
+
+- **Heat conduction**: The transfer of vibrational energy from one molecule to another, transferring heat energy from high to low temperatures. The thermal conductivity of various materials is different, and the good conductivity performance, such as metal, also includes the movement of free electrons, so the heat transfer speed is fast, and it can be used as a heat exchanger material; Those with poor conductivity, such as asbestos, can be used as thermal insulating materials.
+- **Heat convection**: refers to the heat transfer process caused by the relative displacement between the various parts of the fluid caused by the macroscopic movement of the fluid, and the mixing of hot and cold fluids. The difference in density of the system due to different temperatures is the cause of convection. Convective conduction is faster than direct conduction because it involves the kinetic process.
+- **Heat radiation**: It is the amount of heat dissipated directly through electromagnetic wave radiation, and the conduction velocity depends on the absolute temperature of the heat source, the higher the temperature, the stronger the radiation.
+
+According to the way of heat transfer and process requirements, heat exchangers are designed, and almost all kinds of chemical industries have heat exchange processes, which require various heat exchangers.
+
+### Power
+
+Power is defined as the rate at which [energy](#energy) is converted or used, expressed in terms of the amount of energy per unit of time, that is, the rate at which [work](#work) is done. The international standard unit of power is the watt (W), named after James Watt, the designer of the steam engine in the 18th century. The amount of electrical energy converted into heat and light energy per unit time of the bulb can be expressed in terms of power, and the higher the wattage, the higher the capacity (or electricity) per unit time.
+
+Energy conversion can do work, and power is also the rate at which work is done. When a person climbs a staircase with a heavy object, whether he walks up the stairs slowly or runs up the stairs quickly, the work done on the heavy object is the same, but if its power is considered, running up the stairs will do the same amount of work on the object in a shorter time, so its power is larger. The output power of an electric motor is the product of the torque generated by the motor and the angular velocity of the motor, while the forward power of the vehicle is the product of the traction force on the wheels and the speed of the vehicle.
+
+**Formula**:
+
+- *Average power:* **P=W/t**
+
+    Where P stands for power, W stands for total work done and t stands for the lasting time.
+
+- *Mechanical power:* **P=Fv**
+
+    Where P stands for power, F stands for force and v stands for velocity. This formula is deduced by the formula of work done "**W=Fd**" and the formula of velocity "**v=d/t**".
+
+- *Electrical power:* **P=VI**
+    
+    Where P stands for power, V stands for voltage and I stands for current. This formula is deduced by the formula of electrical work done "**W=VIt**" and the formula of average power "**P=W/t**".
+
+
+
+
 
 ## **Fundamental optics**
 
@@ -178,13 +222,13 @@ Velocity is a basic concept in kinematics, a branch of classical mechanics that 
 
 Velocity is a physical vector quantity; both amplitude and direction are required to define it. The absolute scalar value (magnitude) of velocity is called velocity and is a coherently derived unit whose quantity is measured in SI (metric) in meters per second (m/s) or as the SI base unit of (m⋅s-1). For example, "5 meters per second" is a scalar quantity, while "5 meters per second in the east" is a vector.
 
-Velocity is defined as the rate of change of a position with respect to time and can also be referred to as instantaneous velocity to emphasize the difference from average velocity. The average velocity of an object over a period of time t is the ratio of its displacement r to the time interval during that time:
+Velocity is defined as the rate of change of a position with respect to time and can also be referred to as instantaneous velocity to emphasize the difference from average velocity. The average velocity of an object over a period of time t is the ratio of its displacement d to the time interval during that time:
 
-**v=r/t**
+**v=d/t**
 
 The instantaneous velocity of an object at a given moment is defined as the rate of change of the position vector over time:
 
-**v=dr/dt**
+**v=dd/dt**
 
 The velocity of an object is usually mentioned in physics as its instantaneous velocity. The unit of speed in the International System of Units is meters per second, the international symbol is m/s, and the Chinese symbol is meters per second. In the framework of relativity, the upper limit of an object's velocity is the speed of light.
 
