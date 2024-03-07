@@ -8,7 +8,7 @@ This section will be suitable for students who have just embarked on a journey o
     The way the sound is produced; the conditions under which the sound propagates; the factors that determine the characteristics of a music; ultrasonic; infrasonic; 
 - [Fundamental thermology](#fundamental-thermology)
 
-    Energy; temperature; heat and heat transfer; power; change of state; 
+    Energy; temperature; heat and heat transfer; power; change of state; specific thermal capacity; 
 - [Fundamental optics](#fundamental-optics)
 
     The features of light; reflection; refraction; the meaning of image; mirrors; lenses; 
@@ -45,7 +45,7 @@ The so-called scale in music, The frequency of each octave is twice as different
 
 ## **Fundamental thermology**
 
-As for fundamental thermology, we will explain basic knowledge about [energy](#energy), [temperature](#temperature), [heat and heat transfer](#heat-and-heat-transfer), [power](#power) and [changes of states](#change-of-state).
+As for fundamental thermology, we will explain basic knowledge about [energy](#energy), [temperature](#temperature), [heat and heat transfer](#heat-and-heat-transfer), [power](#power), [changes of states](#change-of-state) and thermal capacity.
 
 ### Energy
 
@@ -122,8 +122,22 @@ Energy conversion can do work, and power is also the rate at which work is done.
     Where P stands for power, V stands for voltage and I stands for current. This formula is deduced by the formula of electrical work done "**W=VIt**" and the formula of average power "**P=W/t**".
 
 
+### Change of states
 
+The state of matter, often referred to as the state of matter, refers to the appearance of different phases of a substance. In the early days, the state of matter was distinguished by its volumetric properties. In the **solid** state, matter has a fixed shape and capacity; Whereas, in the **liquid** state, the substance maintains a fixed capacity but the shape changes with the shape of the container; In the **gaseous** state, the substance expands for diffusion with or without capacity. Recently, scientists have classified molecules by their interrelationships. Solid state means that molecules only *vibrate* in a fixed position because of their mutual suction. In the case of liquids, the distance between the molecules is still relatively close, and there is still a certain attraction between the molecules, so they can only move in a limited range. As for in the gaseous state, the distance between the molecules is farther, so the force of attraction between the molecules is not significant, so the molecules can move at will. The plasma state is a highly ionized gas that appears at high temperatures. However, since the suction force between each other is an ionic force, it has different properties from gases, so the plasma state is considered to be the fourth state of matter. If there is a state of matter that is not composed of molecules but of different forces, we consider a new state of matter. For example: Fermi coagulation and quark-gluon pulp.
 
+![change-of-states](/images/changesofstates.jpg)
+
+This is a diagram of changes of state. 
+
+During the changes of states, the substance usually remains at a **constant temperature**. This is because the particles absorb heat to break down the bonds or release heat to rebuild the bonds. During these progresses, energy is not used to change the temperature. 
+
+**Evaporation**, which is not mentioned in the diagram, is an exception. Different from boiling, evaporation occurs on the surface of a liquid at any temperature. The energetic paticles on the surface of a liquid move through the substance so rapidly that they overcome the attraction between molecules and escape into the air and form the gaseous state. These particles bring most of the energy away so the liquid will cool down if it's not heated. 
+
+***Ways to increase the rate of evaporation:***
+- **Heating**. Heating up a liquid can increase the kinetic energy of the particles on the surface and help them overcome the attraction sooner.
+- **Increase the area of the surface**. Therefore there will be a larger space for evaporation to occur.
+- **Add a draught**. The flowing draught could take away the particles that have just evaporated, preventing them from condensing again to liquid and leaving a larger space for new evaporated particles.
 
 ## **Fundamental optics**
 
