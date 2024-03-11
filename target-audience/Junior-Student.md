@@ -45,7 +45,7 @@ The so-called scale in music, The frequency of each octave is twice as different
 
 ## **Fundamental thermology**
 
-As for fundamental thermology, we will explain basic knowledge about [energy](#energy), [temperature](#temperature), [heat and heat transfer](#heat-and-heat-transfer), [power](#power), [changes of states](#change-of-state) and thermal capacity.
+As for fundamental thermology, we will explain basic knowledge about [energy](#energy), [temperature](#temperature), [heat and heat transfer](#heat-and-heat-transfer), [power](#power), [changes of states](#change-of-state) and [specific-thermal capacity](#specific-thermal-capacity).
 
 ### Energy
 
@@ -138,6 +138,26 @@ During the changes of states, the substance usually remains at a **constant temp
 - **Heating**. Heating up a liquid can increase the kinetic energy of the particles on the surface and help them overcome the attraction sooner.
 - **Increase the area of the surface**. Therefore there will be a larger space for evaporation to occur.
 - **Add a draught**. The flowing draught could take away the particles that have just evaporated, preventing them from condensing again to liquid and leaving a larger space for new evaporated particles.
+
+### Specific Thermal Capacity
+
+The specific thermal capacity (or so-called SHC) of a substance is the amount of energy needed to change the temperature of 1kg of the substance by 1℃. The unit of specific heat capacity is J/(kg*℃) or J/(kg*K).
+
+**Formula**:
+
+**Q=cm△t**
+
+Where Q represents energy needed, m represents mass，c represents SHC and △t represents temperature changed. Both degrees celcius and kelvin are allowed to be the unit of the temperature changed.
+
+*Some frequently-used SHCs:*
+
+**Water**: 4181 J/(kg*℃) (We usually estimate it to 4200 during calculations.)
+
+**Oxygen**: 918 J/(kg*℃)
+
+Lead: 128 J/(kg*℃)
+
+As a common substance with a relatively great specific heat capacity, water is often used in absorb, store and release heat progresses, for example, water inside a heater is heated then tranferred into the room to release the thermal energy stored in it. After most of the thermal energy is released and the water becomes cool, it is transferred away to heat up again and newly heated water will enter the room to build a circulating heating system.
 
 ## **Fundamental optics**
 
