@@ -11,11 +11,11 @@ This section will be suitable for students who have just embarked on a journey o
     Energy; temperature; heat and heat transfer; power; change of state; specific thermal capacity; 
 - [Fundamental optics](#fundamental-optics)
 
-    The features of light; reflection; refraction; the meaning of image; mirrors; lenses; 
+    The features of light; reflection; refraction; image; mirrors; lenses; 
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental mechanics](#fundamental-mechanics)
-    Weight; density; velocity; 
-    Density; Newton's three laws of motion; work
+    
+    Weight; density; velocity; force; moment; momentum; Newton's three laws of motion; pressure; work;
 - [The Origin of Natural Science](#the-origin-of-natural-science)
 - [Competitions](#competitions)
 
@@ -219,7 +219,7 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 ## **Fundamental electromagnetics**
 ## **Fundamental mechanics**
 
-As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), forces such as [buoyancy](#buoyancy) and [friction](#friction), [Newton's three laws of motion](#newton's-three-laws-of-motion), [pressure](#pressure) and [work](#work). 
+As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), [forces](#force), moment, momentum [Newton's three laws of motion](#newton's-three-laws-of-motion), [pressure](#pressure) and [work](#work). 
 
 ### Weight
 
@@ -267,6 +267,15 @@ The instantaneous velocity of an object at a given moment is defined as the rate
 The velocity of an object is usually mentioned in physics as its instantaneous velocity. The unit of speed in the International System of Units is meters per second, the international symbol is m/s, and the Chinese symbol is meters per second. In the framework of relativity, the upper limit of an object's velocity is the speed of light.
 
 In everyday life, "velocity" and "velocity" are used interchangeably, but the two correspond to different concepts in physics: velocity is a scalar quantity (only magnitude, no direction), and its dimension is distance divided by time; Velocity is a vector quantity (with direction) and its dimension is bit removed with time. For example, if a car is traveling due north at a rate of 60 km/h, its velocity is a vector of magnitude equal to 60 km/h and pointing to true north. The instantaneous velocity of an object is equal to the magnitude of the instantaneous velocity, whereas the average velocity is not necessarily equal to the magnitude of the average velocity.
+
+
+
+### Force
+
+Force is the interaction between objects. Force can change the velocity or direction of motion of an object, or deform an object. Force is a vector quantity and has properties of magnitude and direction. According to [Newton's second law](#newtons-three-laws-of-motion), when the velocity of an object is much lower than the speed of light, the force experienced by it is equal to the product of its mass and acceleration. According to the effect of force, force can be divided into thrust, pull, support and resistance; According to the nature of force, force can be divided into elastic force, gravity, friction force and electromagnetic force. The concept of force also includes the moment that changes the speed of the shaft.
+
+
+
 
 ### Newton's Three Laws of Motion
 
