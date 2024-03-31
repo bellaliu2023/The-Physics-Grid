@@ -272,9 +272,23 @@ In everyday life, "velocity" and "velocity" are used interchangeably, but the tw
 
 ### Force
 
-Force is the interaction between objects. Force can change the velocity or direction of motion of an object, or deform an object. Force is a vector quantity and has properties of magnitude and direction. According to [Newton's second law](#newtons-three-laws-of-motion), when the velocity of an object is much lower than the speed of light, the force experienced by it is equal to the product of its mass and acceleration. According to the effect of force, force can be divided into thrust, pull, support and resistance; According to the nature of force, force can be divided into elastic force, gravity, friction force and electromagnetic force. The concept of force also includes the moment that changes the speed of the shaft.
+Force is the interaction between objects. Force can change the velocity or direction of motion of an object, or deform an object. Force is a vector quantity and has properties of magnitude and direction. According to [Newton's second law](#newtons-three-laws-of-motion), when the velocity of an object is much lower than the speed of light, the resultant force experienced by it is equal to the product of its mass and acceleration. According to the effect of force, force can be divided into thrust, pull, support and resistance; According to the nature of force, force can be divided into elastic force, gravity, friction force and electromagnetic force. The concept of force also includes the moment that changes the speed of the shaft.
 
+#### **Hooke's law**
 
+Shapes of objects can be changed by force. As for plastic objects, such as clay, they stays the same shape after the force is removed.As for elastic objects, such as string, they tend to return to their original shapes and therefore exert an elastic force against the force that changed their shapes. Hooke's law illustrates that a material resists with a force proportional to its extension or conpression before elastic limit, which is expressed as:
+
+**F=kx**
+
+where F stands for force that changed the shape of the object, x stands for extension or compression and k stands for the spring constant, or so-called "stiffness".
+
+![Force Extension Graph](/images/force_extension_graph.png)
+
+However, there's a difference between the force-extension graph of adding force and the graph of removing the force.
+
+![loading and unloading graph](/images/strain_33.gif)
+
+This is because the [temperature](#temperature) of the system will increase because of the [work](#work) done to it and make it less stiff.
 
 
 ### Newton's Three Laws of Motion
