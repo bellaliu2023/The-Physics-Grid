@@ -291,6 +291,31 @@ However, there's a difference between the force-extension graph of adding force 
 This is because the [temperature](#temperature) of the system will increase because of the [work](#work) done to it and make it less stiff.
 
 
+#### **Friction**
+
+Friction refers to the force that hinders the relative motion of two rough objects in contact with each other or when there is a tendency to move relative to each other, and is a term in classical mechanics. Broadly speaking, objects are also subjected to frictional forces when they move in liquids and gases.
+
+Friction occurs:
+
+- When an object slides or is about to slide on the surface of another object, the two objects will produce a force on the contact surface that prevents the relative motion, and this force is called friction.
+- Objects at rest or in motion can generate friction on the contact surface.
+- The frictional force is opposite to the direction of the relative motion of the object.
+
+Friction is related to objects rubbing against each other, so the description of friction in physics is not generalized and not as precise as other forces. In fact, it is only when one ignores friction that one can derive the fundamental laws in mechanics.
+
+Friction comes from the adhesion between the contact surfaces of two objects, but the amount of friction has little to do with the size of the contact area.
+
+The frictional force between solid surfaces is divided into state friction and dynamic friction. In engineering, lubricants are used to reduce friction. If two surfaces rubbing against each other are separated by a layer of liquid, then liquid friction can occur between them, and mixed friction can also occur if the liquid is not completely isolated.
+
+- **State Friction**
+
+    When solids do not slide against each other, the friction between the contact surfaces is called static friction, and it has a maximum value called maximum static friction. Generally speaking, the static friction is obtained by the equilibrium equation, and the maximum static friction can be described by the friction law, and it is possible to judge whether the solids slide against each other by judging the magnitude relationship between the obtained static friction and the maximum static friction.
+
+- **Dynamic Friction**
+
+    The dynamic friction is the kinetic friction that resists the motion of an object including moving or sliding. Due to the fact that in real life, friction always occurs since there's no surface that's absolutely smooth, a force must be applied to keep something moving. The key effect of dynamic friction is the [energy](#energy) transferring. This is the principle of drilling wood for fire. The kinetic energy of the spinning wood piece is transferred to another static piece of wood through friction and raises its temperature. The wood eventually started to burn.
+
+
 ### Newton's Three Laws of Motion
 
 - **Newton's 1st Law of Motion**
