@@ -13,9 +13,12 @@ This section will be suitable for students who have just embarked on a journey o
 
     The features of light; reflection; refraction; image; mirrors; lenses; 
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
+- [Fundamental dynamics](#fundamental-dynamics)
+    
+    Velocity; moment; momentum; Newton's three laws of motion; falling&parachuting; circular motions; 
 - [Fundamental mechanics](#fundamental-mechanics)
     
-    Weight; density; velocity; force; moment; momentum; Newton's three laws of motion; pressure; work;
+    Weight; density; force; pressure; work;
 - [The Origin of Natural Science](#the-origin-of-natural-science)
 - [Competitions](#competitions)
 
@@ -217,34 +220,11 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
     ![convex-or-divergent-mirror](/images/tumianjing.png)
 
 ## **Fundamental electromagnetics**
-## **Fundamental mechanics**
 
-As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [velocity](#velocity), [forces](#force), moment, momentum [Newton's three laws of motion](#newton's-three-laws-of-motion), [pressure](#pressure) and [work](#work). 
+## **Fundamental dynamics**
 
-### Weight
+As for fundamental dynamics, we will illustrate basic knowledge about [velocity](#velocity), moment, momentum, [Newton's three laws of motion](#newton's-three-laws-of-motion), [falling & parachuting](#falling--parachuting) and circular motions.
 
-Weight is the gravitational [force](#force). As a kind of force, weight is a vector quantity, which means it has both magnetude and direction.Gravity varies with **depth** and **latitude**.
-
-**W=mg**
-
-where W is weight, m is mass and g is the gravitational field strength. The gravitational field strength on Earth is approximately 9.8N/kg. 
-
-When we use a balance to measure the mass of an object, the balance is actually measuring the weight but displays the mass.
-
-
-### Density
-
-Density refers to the mass per unit volume of a substance, often denoted by the Greek letter ρ or the English letter D. Mathematically, density is defined as the quotient of mass divided by volume. That is, the ratio of the mass to the volume of an object.
-
-**ρ=m/V**
-
-where ρ is density, m is mass, and V is volume.
-
-The unit of density in the SI system of units is kg/m3, and other commonly used units are g/cm3, and t/m3 commonly used in engineering.
-
-Density reflects a property of the substance itself, which can therefore be affected by external factors. Generally speaking, the main physical quantities that affect the density of substances are pressure and temperature. Gas density is significantly affected by pressure and temperature, usually the density of gas only gives standard conditions or normal temperature and pressure, and the density under other conditions can be calculated by the equation of state of the gas (such as the ideal gas equation of state or van der Waals equation). The density of a liquid depends mainly on the composition of the liquid and is less affected by temperature (but sometimes it cannot be ignored). High pressures also have a significant impact. The density of solids varies by temperature and pressure similar to that of liquids, and is generally less pronounced.
-
-In addition, there are other physical factors that may affect the density of matter, such as magnetic fields, electric fields, etc. As a whole of nature, extreme pressures can cause the density of matter in some celestial bodies to differ greatly from the usual density.
 
 ### Velocity
 
@@ -268,52 +248,6 @@ The velocity of an object is usually mentioned in physics as its instantaneous v
 
 In everyday life, "velocity" and "velocity" are used interchangeably, but the two correspond to different concepts in physics: velocity is a scalar quantity (only magnitude, no direction), and its dimension is distance divided by time; Velocity is a vector quantity (with direction) and its dimension is bit removed with time. For example, if a car is traveling due north at a rate of 60 km/h, its velocity is a vector of magnitude equal to 60 km/h and pointing to true north. The instantaneous velocity of an object is equal to the magnitude of the instantaneous velocity, whereas the average velocity is not necessarily equal to the magnitude of the average velocity.
 
-
-
-### Force
-
-Force is the interaction between objects. Force can change the velocity or direction of motion of an object, or deform an object. Force is a vector quantity and has properties of magnitude and direction. According to [Newton's second law](#newtons-three-laws-of-motion), when the velocity of an object is much lower than the speed of light, the resultant force experienced by it is equal to the product of its mass and acceleration. According to the effect of force, force can be divided into thrust, pull, support and resistance; According to the nature of force, force can be divided into elastic force, gravity, friction force and electromagnetic force. The concept of force also includes the moment that changes the speed of the shaft.
-
-#### **Hooke's law**
-
-Shapes of objects can be changed by force. As for plastic objects, such as clay, they stays the same shape after the force is removed.As for elastic objects, such as string, they tend to return to their original shapes and therefore exert an elastic force against the force that changed their shapes. Hooke's law illustrates that a material resists with a force proportional to its extension or conpression before elastic limit, which is expressed as:
-
-**F=kx**
-
-where F stands for force that changed the shape of the object, x stands for extension or compression and k stands for the spring constant, or so-called "stiffness".
-
-![Force Extension Graph](/images/force_extension_graph.png)
-
-However, there's a difference between the force-extension graph of adding force and the graph of removing the force.
-
-![loading and unloading graph](/images/strain_33.gif)
-
-This is because the [temperature](#temperature) of the system will increase because of the [work](#work) done to it and make it less stiff.
-
-
-#### **Friction**
-
-Friction refers to the force that hinders the relative motion of two rough objects in contact with each other or when there is a tendency to move relative to each other, and is a term in classical mechanics. Broadly speaking, objects are also subjected to frictional forces when they move in liquids and gases.
-
-Friction occurs:
-
-- When an object slides or is about to slide on the surface of another object, the two objects will produce a force on the contact surface that prevents the relative motion, and this force is called friction.
-- Objects at rest or in motion can generate friction on the contact surface.
-- The frictional force is opposite to the direction of the relative motion of the object.
-
-Friction is related to objects rubbing against each other, so the description of friction in physics is not generalized and not as precise as other forces. In fact, it is only when one ignores friction that one can derive the fundamental laws in mechanics.
-
-Friction comes from the adhesion between the contact surfaces of two objects, but the amount of friction has little to do with the size of the contact area.
-
-The frictional force between solid surfaces is divided into state friction and dynamic friction. In engineering, lubricants are used to reduce friction. If two surfaces rubbing against each other are separated by a layer of liquid, then liquid friction can occur between them, and mixed friction can also occur if the liquid is not completely isolated.
-
-- **State Friction**
-
-    When solids do not slide against each other, the friction between the contact surfaces is called static friction, and it has a maximum value called maximum static friction. Generally speaking, the static friction is obtained by the equilibrium equation, and the maximum static friction can be described by the friction law, and it is possible to judge whether the solids slide against each other by judging the magnitude relationship between the obtained static friction and the maximum static friction.
-
-- **Dynamic Friction**
-
-    The dynamic friction is the kinetic friction that resists the motion of an object including moving or sliding. Due to the fact that in real life, friction always occurs since there's no surface that's absolutely smooth, a force must be applied to keep something moving. The key effect of dynamic friction is the [energy](#energy) transferring. This is the principle of drilling wood for fire. The kinetic energy of the spinning wood piece is transferred to another static piece of wood through friction and raises its temperature. The wood eventually started to burn.
 
 
 ### Newton's Three Laws of Motion
@@ -361,6 +295,124 @@ The frictional force between solid surfaces is divided into state friction and d
     The third law is *not* a general law of nature, it only applies to certain forces, such as mental forces. Both electrostatic force and gravitational force are mental forces, so the third law can be used for mechanical analysis. Any force that involves the velocity of an object is not a mental force and cannot be analyzed using the third law, for example, the force of interaction between two moving electric charges is not a mental force, and the gravitational force of two moving objects interacting with each other is not a mental force, and the third law does not apply to these forces.
 
 [Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+
+### Falling & Parachuting
+
+The progress of a pilot parachuting could be briefly divided into the following four stages: jumping off a plane, falling, opening a parachute and falling with it continuously. Let's see how the dynamics theories affect and determine this progress.
+
+**Stage 1**
+
+Immediately after the pilot started to fall, the weight of the pilot is much larger than the air resistance the pilot is experiencing. As a result, the direction of the resultant force acting on the pilot should be vertically downwards. According to [Newton's second law of motion](#newtons-three-laws-of-motion), the direction of the acceleration will also be pointing downwards. Therefore the pilot will be accelrating downwards immediately after the fall.
+
+![stage 1](/images/stage1.jpg)
+
+
+**Stage 2**
+
+After the pilot started to fall, the speed of the falling pilot increases due to the downward acceleration. The air resistance increases as the speed increases, making the resultant force acting on the pilot become smaller and so is the acceleration. When the air resistance eventually becomes equal to the weight of the pilot, there will be no acceleration and the pilot reaches terminal velocity.
+
+![stage 2](/images/stage2.jpg)
+
+**Stage 3**
+
+As soon as the pilot opens the parachute, the force of air resistance increases rapidly and the resultant force becomes vertically upward. The upward acceleration caused by the resultant force results in the decreasing falling speed of the pilot.
+
+![stage 3](/images/stage3.jpg)
+
+**Stage 4**
+
+The speed of the falling pilot decreases due to the upward acceleration. The air resistance decreases as the speed decreases and finally becomes equal to the weight of the pilot again. The pilot reaches a new terminal velocity which is much smaller than the first one. The pilot is able to land safely at this speed.
+
+![stage 4](/images/stage4.jpg)
+
+
+The picture below is a velocity-time graph of the whole process.
+
+![v-t graph](/images/graph.jpg)
+
+
+
+## **Fundamental mechanics**
+
+As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [forces](#force), [pressure](#pressure) and [work](#work). 
+
+### Weight
+
+Weight is the gravitational [force](#force). As a kind of force, weight is a vector quantity, which means it has both magnetude and direction.Gravity varies with **depth** and **latitude**.
+
+**W=mg**
+
+where W is weight, m is mass and g is the gravitational field strength. The gravitational field strength on Earth is approximately 9.8N/kg. 
+
+When we use a balance to measure the mass of an object, the balance is actually measuring the weight but displays the mass.
+
+
+### Density
+
+Density refers to the mass per unit volume of a substance, often denoted by the Greek letter ρ or the English letter D. Mathematically, density is defined as the quotient of mass divided by volume. That is, the ratio of the mass to the volume of an object.
+
+**ρ=m/V**
+
+where ρ is density, m is mass, and V is volume.
+
+The unit of density in the SI system of units is kg/m3, and other commonly used units are g/cm3, and t/m3 commonly used in engineering.
+
+Density reflects a property of the substance itself, which can therefore be affected by external factors. Generally speaking, the main physical quantities that affect the density of substances are pressure and temperature. Gas density is significantly affected by pressure and temperature, usually the density of gas only gives standard conditions or normal temperature and pressure, and the density under other conditions can be calculated by the equation of state of the gas (such as the ideal gas equation of state or van der Waals equation). The density of a liquid depends mainly on the composition of the liquid and is less affected by temperature (but sometimes it cannot be ignored). High pressures also have a significant impact. The density of solids varies by temperature and pressure similar to that of liquids, and is generally less pronounced.
+
+In addition, there are other physical factors that may affect the density of matter, such as magnetic fields, electric fields, etc. As a whole of nature, extreme pressures can cause the density of matter in some celestial bodies to differ greatly from the usual density.
+
+
+
+
+### Force
+
+Force is the interaction between objects. Force can change the velocity or direction of motion of an object, or deform an object. Force is a vector quantity and has properties of magnitude and direction. According to [Newton's second law](#newtons-three-laws-of-motion), when the velocity of an object is much lower than the speed of light, the resultant force experienced by it is equal to the product of its mass and acceleration. According to the effect of force, force can be divided into thrust, pull, support and resistance; According to the nature of force, force can be divided into elastic force, gravity, friction force and electromagnetic force. The concept of force also includes the moment that changes the speed of the shaft.
+
+In this section, we will also introduce some theory of [elasticity](#hookes-law) and [friction](#friction).
+
+#### **Hooke's law**
+
+Shapes of objects can be changed by force. As for plastic objects, such as clay, they stays the same shape after the force is removed.As for elastic objects, such as string, they tend to return to their original shapes and therefore exert an elastic force against the force that changed their shapes. Hooke's law illustrates that a material resists with a force proportional to its extension or conpression before elastic limit, which is expressed as:
+
+**F=kx**
+
+where F stands for force that changed the shape of the object, x stands for extension or compression and k stands for the spring constant, or so-called "stiffness".
+
+![Force Extension Graph](/images/force_extension_graph.png)
+
+However, there's a difference between the force-extension graph of adding force and the graph of removing the force.
+
+![loading and unloading graph](/images/strain_33.gif)
+
+This is because the [temperature](#temperature) of the system will increase because of the [work](#work) done to it and make it less stiff.
+
+
+#### **Friction**
+
+Friction refers to the force that hinders the relative motion of two rough objects in contact with each other or when there is a tendency to move relative to each other, and is a term in classical mechanics. Broadly speaking, objects are also subjected to frictional forces when they move in liquids and gases.
+
+Friction occurs:
+
+- When an object slides or is about to slide on the surface of another object, the two objects will produce a force on the contact surface that prevents the relative motion, and this force is called friction.
+- Objects at rest or in motion can generate friction on the contact surface.
+- The frictional force is opposite to the direction of the relative motion of the object.
+
+Friction is related to objects rubbing against each other, so the description of friction in physics is not generalized and not as precise as other forces. In fact, it is only when one ignores friction that one can derive the fundamental laws in mechanics.
+
+Friction comes from the adhesion between the contact surfaces of two objects, but the amount of friction has little to do with the size of the contact area.
+
+The frictional force between solid surfaces is divided into state friction and dynamic friction. In engineering, lubricants are used to reduce friction. If two surfaces rubbing against each other are separated by a layer of liquid, then liquid friction can occur between them, and mixed friction can also occur if the liquid is not completely isolated.
+
+- **State Friction**
+
+    When solids do not slide against each other, the friction between the contact surfaces is called static friction, and it has a maximum value called maximum static friction. Generally speaking, the static friction is obtained by the equilibrium equation, and the maximum static friction can be described by the friction law, and it is possible to judge whether the solids slide against each other by judging the magnitude relationship between the obtained static friction and the maximum static friction.
+
+- **Dynamic Friction**
+
+    The dynamic friction is the kinetic friction that resists the motion of an object including moving or sliding. Due to the fact that in real life, friction always occurs since there's no surface that's absolutely smooth, a force must be applied to keep something moving. The key effect of dynamic friction is the [energy](#energy) transferring. This is the principle of drilling wood for fire. The kinetic energy of the spinning wood piece is transferred to another static piece of wood through friction and raises its temperature. The wood eventually started to burn.
+
+
+
 
 ### Pressure
 
