@@ -223,7 +223,7 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 
 ## **Fundamental dynamics**
 
-As for fundamental dynamics, we will illustrate basic knowledge about [velocity](#velocity), moment, momentum, [Newton's three laws of motion](#newton's-three-laws-of-motion), [falling & parachuting](#falling--parachuting) and circular motions.
+As for fundamental dynamics, we will illustrate basic knowledge about [velocity](#velocity), [acceleration](#acceleration), [momentum](#momentum), moments, [Newton's three laws of motion](#newton's-three-laws-of-motion), [falling & parachuting](#falling--parachuting) and [circular motions](#circular-motion).
 
 
 ### Velocity
@@ -247,6 +247,37 @@ The instantaneous velocity of an object at a given moment is defined as the rate
 The velocity of an object is usually mentioned in physics as its instantaneous velocity. The unit of speed in the International System of Units is meters per second, the international symbol is m/s, and the Chinese symbol is meters per second. In the framework of relativity, the upper limit of an object's velocity is the speed of light.
 
 In everyday life, "velocity" and "velocity" are used interchangeably, but the two correspond to different concepts in physics: velocity is a scalar quantity (only magnitude, no direction), and its dimension is distance divided by time; Velocity is a vector quantity (with direction) and its dimension is bit removed with time. For example, if a car is traveling due north at a rate of 60 km/h, its velocity is a vector of magnitude equal to 60 km/h and pointing to true north. The instantaneous velocity of an object is equal to the magnitude of the instantaneous velocity, whereas the average velocity is not necessarily equal to the magnitude of the average velocity.
+
+
+### Acceleration
+
+
+Acceleration is a physical quantity in physics, a vector quantity, mainly used in classical physics, generally represented by the letter **a**, in the International System of Units is meters per square second (m/s²). Acceleration is the rate of change of the [velocity](#velocity) vector with respect to time, describing how fast or slow the direction and magnitude of the velocity change.
+
+In classical mechanics, [Newton's second law](#newtons-three-laws-of-motion) states that force is proportional to acceleration, also known as the "law of acceleration". Assuming that the resultant external force exerted on the object is zero, the acceleration is zero and the velocity is constant. Since momentum is the product of mass and velocity, [momentum](#momentum) is conserved at this time.
+
+To put it simply, velocity describes how the position changes, whereas acceleration describes how the velocity changes. For example, if an object is thrown horizontally forward, its velocity is initially straight forward, but due to [weight](#weight) it begins to fall downward at the same time as it is forward, i.e. its velocity changes. Here it is mainly the gravitational acceleration due to the gravitational force of the earth that changes the velocity of the object.
+
+Acceleration is vectorive, i.e., it needs to describe an acceleration in terms of magnitude and direction at the same time. If a force is applied to the left or right, i.e., a different acceleration is applied to an object moving forward on a smooth horizontal plane, the velocity of the object changes (including speed and direction). However, even if the speed is the same, the acceleration to the left and the acceleration to the right obviously have different effects. Similarly, the magnitude of the applied force is different, the acceleration caused by the difference is different, and the final result is also different, which can also be seen from the addition of vectors. As a vector, the superposition and decomposition of acceleration follow the parallelogram and triangle laws, respectively.
+
+Specifically, acceleration describes the rate of change of velocity over time. It is important to note that since velocity is also a vector, the magnitude of the velocity of an object with non-zero acceleration (called speed) does not necessarily change, in fact, if the acceleration remains perpendicular to the velocity, the magnitude of the velocity does not change, while the direction changes all the time. The most common condition in life is [circular motion](#circular-motion).
+
+The average acceleration could be represented by the following equation:
+
+**a=(v-u)/t**
+
+or 
+
+**ā=Δv/Δt**
+
+where a stands for average acceleration, v stands for final velocity, u stands for initial velocity and t stands for the time experienced.
+
+[Details](https://en.wikipedia.org/wiki/Acceleration#Instantaneous_acceleration)
+
+
+### Momentum
+
+Momentum could be simply considered as how difficult it is to stop a moving object. Generally speaking, the momentum of an object refers to the tendency of the object to remain in motion in the direction of its motion. Momentum is actually a corollary of [Newton's first law](#newtons-three-laws-of-motion). Momentum is a vector quantity that goes in the same direction as [velocity](#velocity). Momentum is also a conserved quantity, which is expressed as the immutability of the sum of momentum within a closed system. In classical mechanics, the conservation of momentum is implicit in Newton's laws, but it is still true in special relativity, and (generalized) momentum is also true in [electrodynamics](/branches/Electromagnesium.md), [quantum mechanics](/branches/QuantumMechanics.md), and general [relativity](/branches/Relativity.md).
 
 
 
@@ -330,6 +361,41 @@ The picture below is a velocity-time graph of the whole process.
 
 ![v-t graph](/images/graph.jpg)
 
+
+
+### Circular motion
+
+![Circular motion diagram](/images/OIP.jfif)
+
+
+In physics, circular motion refers to a motion in which the trajectory is a circle or part of a circle.
+
+Examples of circular motion are: the motion of an artificial satellite with a circular orbit, the motion of an electron perpendicular to a uniform magnetic field, and so on.
+
+The circular motion of a particle can be decomposed in two directions: the **tangent** of the track and the **normal** of the track.
+
+The tangential component of the acceleration of a particle is called tangential acceleration. The tangential acceleration changes the linear velocity of the particle along the orbit without changing the direction. The component of the acceleration in the normal becomes the normal acceleration. Since the normal acceleration is always directed towards the center of the circle in a circular motion, this acceleration is also known as **centripetal acceleration**. The centripetal acceleration changes the direction of the velocity of the particle and does not change the magnitude.
+
+A motion with a tangent acceleration of zero magnitude is called a uniform circular motion.
+
+For uniform circular motion, the following equation and component equation are met:
+
+- **θ=ωt**
+
+- **v=rω**
+
+- **a=rω²**
+
+- **ω=2π/T**
+
+where v is the linear velocity, a is the centripetal acceleration, T is the period,
+ω is the angular velocity (unit: rad/s).
+
+According to the formulas mentioned above, we can deduce new formulas to represent the centripetal acceleration a, for example **a=v²/r** and **a=vω**. These new equations will help us calculate the values in the real problem more quickly.
+
+[More about angular velocity](https://en.wikipedia.org/wiki/Angular_velocity)
+
+[More about circular motion](https://en.wikipedia.org/wiki/Circular_motion)
 
 
 ## **Fundamental mechanics**
