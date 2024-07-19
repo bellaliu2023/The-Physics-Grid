@@ -15,7 +15,7 @@ This section will be suitable for students who have just embarked on a journey o
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental dynamics](#fundamental-dynamics)
     
-    Velocity; moment; momentum; Newton's three laws of motion; falling&parachuting; circular motions; 
+    Velocity; acceleration; moment; momentum; Newton's three laws of motion; falling&parachuting; circular motions; 
 - [Fundamental mechanics](#fundamental-mechanics)
     
     Weight; density; force; pressure; work;
@@ -46,6 +46,8 @@ Ultrasound is widely used in life. Learning from bats, radar locates by transmit
 
 The so-called scale in music, The frequency of each octave is twice as different (the alto DO Iis about 262Hz, which is twice that of 131HZ of bass DO). Each semitone rate increases by 21/12x (about 1.0595x) in the respective scales.
 
+[Back to catalogue](#catalogue)
+
 ## **Fundamental thermology**
 
 As for fundamental thermology, we will explain basic knowledge about [energy](#energy), [temperature](#temperature), [heat and heat transfer](#heat-and-heat-transfer), [power](#power), [changes of states](#change-of-state) and [specific-thermal capacity](#specific-thermal-capacity).
@@ -73,10 +75,12 @@ In the articles of the physical sciences, there are several forms of energy that
 - **[Sound energy](https://en.wikipedia.org/wiki/Sound_energy)**
 - **[Mechanical energy](https://en.wikipedia.org/wiki/Mechanical_energy)**
 - **[Potential energy](https://en.wikipedia.org/wiki/Potential_energy)**
-- **[kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy)**
+- **[Kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy)**
 - **[Bioenergy](https://en.wikipedia.org/wiki/Bioenergy)**
 
 These forms of energy can be broadly divided into two main categories: kinetic energy and potential energy. Other similar forms of energy are a mixture of kinetic energy and potential energy.
+
+[Back to catalogue](#catalogue)
 
 ### Temperature
 
@@ -85,6 +89,8 @@ Temperature is a physical quantity that indicates how hot or cold an object is, 
 Temperature is a manifestation of the average intermolecular kinetic energy within an object. It is worth noting that a small number of molecules or even a system of molecular composition have no temperature significance due to the lack of statistical quantitative requirements.
 
 As for gas, temperature is directly proportional to its [pressure](#pressure) when the volume is constant and inversely proportional to its volume when the pressure is constant.
+
+[Back to catalogue](#catalogue)
 
 ### Heat and heat transfer
 
@@ -103,6 +109,8 @@ There are three ways to transfer heat:
 - **Heat radiation**: It is the amount of heat dissipated directly through electromagnetic wave radiation, and the conduction velocity depends on the absolute temperature of the heat source, the higher the temperature, the stronger the radiation.
 
 According to the way of heat transfer and process requirements, heat exchangers are designed, and almost all kinds of chemical industries have heat exchange processes, which require various heat exchangers.
+
+[Back to catalogue](#catalogue)
 
 ### Power
 
@@ -124,6 +132,8 @@ Energy conversion can do work, and power is also the rate at which work is done.
     
     Where P stands for power, V stands for voltage and I stands for current. This formula is deduced by the formula of electrical work done "**W=VIt**" and the formula of average power "**P=W/t**".
 
+[Back to catalogue](#catalogue)
+
 
 ### Change of states
 
@@ -141,6 +151,8 @@ During the changes of states, the substance usually remains at a **constant temp
 - **Heating**. Heating up a liquid can increase the kinetic energy of the particles on the surface and help them overcome the attraction sooner.
 - **Increase the area of the surface**. Therefore there will be a larger space for evaporation to occur.
 - **Add a draught**. The flowing draught could take away the particles that have just evaporated, preventing them from condensing again to liquid and leaving a larger space for new evaporated particles.
+
+[Back to catalogue](#catalogue)
 
 ### Specific Thermal Capacity
 
@@ -162,6 +174,8 @@ Lead: 128 J/(kg*℃)
 
 As a common substance with a relatively great specific heat capacity, water is often used in absorb, store and release heat progresses, for example, water inside a heater is heated then tranferred into the room to release the thermal energy stored in it. After most of the thermal energy is released and the water becomes cool, it is transferred away to heat up again and newly heated water will enter the room to build a circulating heating system.
 
+[Back to catalogue](#catalogue)
+
 ## **Fundamental optics**
 
 As for fundamental optics, we will illustrate basic knowledge about **light** and **lens**.
@@ -169,6 +183,7 @@ As for fundamental optics, we will illustrate basic knowledge about **light** an
 Light is an electromagnetic wave whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#density) of the medium, which is opposite of sound waves. 
 
 Light travels in a straight line. This feature is widely used in human technologies, for example, the scope of the sniper rifle is made using this principle. However, light may change its direction when it meets a different medium. There are two basic ways to change the direction of light: **[Reflection](#reflection)** and **[Refraction](#refraction)**.Light can also create an **[Image](#image)**.
+
 
 ### Reflection
 
@@ -191,6 +206,8 @@ The reflection of light can be **specular** (like a mirror) or **diffuse** (ener
     
     Most of the light that objects send to our eyes is due to diffuse reflections on their surfaces, so this is the main mechanism for our naked eye observation.
 
+[Back to catalogue](#catalogue)
+
 ### Refraction
 
 ![refraction-in-water](/images/440px-Pencil_in_a_bowl_of_water.svg.png)
@@ -201,8 +218,12 @@ Refraction is also responsible for the rainbow and the splitting of light into c
 
 The refractive index of air is related to its density, so it changes with air temperature and pressure. Due to the lower air pressure at high altitudes and the smaller refractive index, light refracts to the surface when traveling long distances through the atmosphere, which makes stars close to the horizon appear to be slightly offset, and allows us to see the sun first at sunrise, even if it has not risen geometrically above the horizon.Changes in temperature near the surface can lead to other optical phenomena , such as mirages or complex mirages.
 
+[Back to catalogue](#catalogue)
+
 ### Image
 Lights form images. When an image is able to be presented on a screen, it is called a **real image**. If not, it is called a **virtual image**. Real images are formed when light rays truly strike on the screen. Virtual images are formed when a reflection or a refraction changes the direction of a light, but our brain consider the direction of the light unchanged while dealing with the visual signals from the retina and form the visual image where there isn't a real item. 
+
+[Back to catalogue](#catalogue)
 
 ### Mirror
 A mirror is an item with a smooth surface and the ability to reflect light, the most common mirror is a flat mirror, often used by people to organize the appearance. In science, mirrors are also often used in telescopes, lasers, industrial instruments and other instruments.
@@ -218,6 +239,8 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
     The image is always a virtual image (light does not really pass through the image), a reduced (smaller) positive image. This feature makes convex mirrors very useful: everything on the mirror looks smaller, so the image can be "compressed" to cover a larger field of view than a flat mirror. The passenger side mirror in a car is a typical convex mirror. In some countries, these mirrors are also required to be marked with a safety warning: "The actual object is closer than seen" to alert the driving of the impact of distortion of the convex mirror on distance judgment. The optical path diagram is as follows.
 
     ![convex-or-divergent-mirror](/images/tumianjing.png)
+
+ [Back to catalogue](#catalogue)   
 
 ## **Fundamental electromagnetics**
 
@@ -248,6 +271,8 @@ The velocity of an object is usually mentioned in physics as its instantaneous v
 
 In everyday life, "velocity" and "velocity" are used interchangeably, but the two correspond to different concepts in physics: velocity is a scalar quantity (only magnitude, no direction), and its dimension is distance divided by time; Velocity is a vector quantity (with direction) and its dimension is bit removed with time. For example, if a car is traveling due north at a rate of 60 km/h, its velocity is a vector of magnitude equal to 60 km/h and pointing to true north. The instantaneous velocity of an object is equal to the magnitude of the instantaneous velocity, whereas the average velocity is not necessarily equal to the magnitude of the average velocity.
 
+[Back to catalogue](#catalogue)
+
 
 ### Acceleration
 
@@ -274,11 +299,54 @@ where a stands for average acceleration, v stands for final velocity, u stands f
 
 [Details](https://en.wikipedia.org/wiki/Acceleration#Instantaneous_acceleration)
 
+[Back to catalogue](#catalogue)
+
 
 ### Momentum
 
 Momentum could be simply considered as how difficult it is to stop a moving object. Generally speaking, the momentum of an object refers to the tendency of the object to remain in motion in the direction of its motion. Momentum is actually a corollary of [Newton's first law](#newtons-three-laws-of-motion). Momentum is a vector quantity that goes in the same direction as [velocity](#velocity). Momentum is also a conserved quantity, which is expressed as the immutability of the sum of momentum within a closed system. In classical mechanics, the conservation of momentum is implicit in Newton's laws, but it is still true in special relativity, and (generalized) momentum is also true in [electrodynamics](/branches/Electromagnesium.md), [quantum mechanics](/branches/QuantumMechanics.md), and general [relativity](/branches/Relativity.md).
 
+When an object moves in any one frame of reference, it has momentum in that particular frame of reference. It is important to note that momentum is a reference frame determinant. That is, the same object has definite momentum in one frame of reference, but it is possible to have different momentum in another.
+
+The value of an object's momentum depends on the value of two physical quantities: the mass and velocity of the moving object in the frame of reference.
+
+Momentum is expressed as:
+
+**p=mv**
+
+where p stands for momentum, m stands for mass and v stands for velocity. The unit of momentum is kg·m/s.
+
+Momentum has a special property: it remains constant as long as it is in a **closed system**, even when objects collide. Whereas, the [kinetic energy](#energy) will only be conserved in an [elastic collision](#elastic-collision). Therefore, the conservation of momentum can be used to calculate the unknown velocity after the collision.
+
+In physics, this particular property is used to solve the problem of two objects that collide. Because momentum is always constant, the sum of momentum before the collision must be equal to the sum of momentum after the collision:
+
+**m₁v₁+m₂v₂=m₁v₁'+m₂v₂'**
+
+It is important to note that at this time v is a vector.
+
+In general, we can calculate the velocity of an object after or before a collision by simply knowing the velocity of the object before (or after) the collision. There are two types of collisions, in both of which momentum is conserved:
+
+- In an **elastic collision**, the kinetic energy remains constant; 
+
+- In an **inelastic collision**, the kinetic energy is not kept constant.
+
+#### **Elastic collision**
+
+A good example of an elastic collision is a collision between two gas molecules in an ideal gas. When two gas molecules collide, the sum of kinetic energy and momentum before and after the collision remains the same.
+
+#### **The law of conservation of momentum**
+
+Momentum is a conserved quantity. The law of conservation of momentum is expressed as follows: If a system is not subjected to external forces or the sum of the external forces is zero, then the total momentum of all objects in the system remains constant. One of its corollaries is that in the absence of external force intervention, the center of mass of any system will remain in uniform linear motion or at rest. The law of conservation of momentum can be deduced from the translational symmetry of mechanical energy versus space.
+
+In a closed system (in the absence of external forces) the total momentum will be a conserved quantity, which is implicit in [Newton's first law of motion](#newtons-three-laws-of-motion).
+
+Because momentum is a vector quantity, after the bullet is fired from the gun that was stationary at first, although both the bullet and the gun are in motion, because the momentum of the bullet is the opposite of the momentum of the gun, they cancel each other out, so that the sum of the momentum in the system formed by the bullet and the gun is still zero.
+
+If the net force outside the system is zero, then the interaction force of the particles in the system is also zero (which can be regarded as Newton's third law, the principle of force reaction), so the change in momentum is zero, so the momentum is conserved. 
+
+The law of conservation of momentum is universal and applies to macroscopic and microscopic systems and reference frames.
+
+[Back to catalogue](#catalogue)
 
 
 ### Newton's Three Laws of Motion
@@ -327,6 +395,8 @@ Momentum could be simply considered as how difficult it is to stop a moving obje
 
 [Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
 
+[Back to catalogue](#catalogue)
+
 ### Falling & Parachuting
 
 The progress of a pilot parachuting could be briefly divided into the following four stages: jumping off a plane, falling, opening a parachute and falling with it continuously. Let's see how the dynamics theories affect and determine this progress.
@@ -361,7 +431,7 @@ The picture below is a velocity-time graph of the whole process.
 
 ![v-t graph](/images/graph.jpg)
 
-
+[Back to catalogue](#catalogue)
 
 ### Circular motion
 
@@ -397,6 +467,8 @@ According to the formulas mentioned above, we can deduce new formulas to represe
 
 [More about circular motion](https://en.wikipedia.org/wiki/Circular_motion)
 
+[Back to catalogue](#catalogue)
+
 
 ## **Fundamental mechanics**
 
@@ -404,13 +476,15 @@ As for fundamental mechanics, we will illustrate basic knowledge about [weight](
 
 ### Weight
 
-Weight is the gravitational [force](#force). As a kind of force, weight is a vector quantity, which means it has both magnetude and direction.Gravity varies with **depth** and **latitude**.
+Weight is the gravitational [force](#force). As a kind of force, weight is a vector quantity, which means it has both magnetude and direction. Gravity varies with **depth** and **latitude**.
 
 **W=mg**
 
 where W is weight, m is mass and g is the gravitational field strength. The gravitational field strength on Earth is approximately 9.8N/kg. 
 
 When we use a balance to measure the mass of an object, the balance is actually measuring the weight but displays the mass.
+
+[Back to catalogue](#catalogue)
 
 
 ### Density
@@ -427,7 +501,7 @@ Density reflects a property of the substance itself, which can therefore be affe
 
 In addition, there are other physical factors that may affect the density of matter, such as magnetic fields, electric fields, etc. As a whole of nature, extreme pressures can cause the density of matter in some celestial bodies to differ greatly from the usual density.
 
-
+[Back to catalogue](#catalogue)
 
 
 ### Force
@@ -478,7 +552,7 @@ The frictional force between solid surfaces is divided into state friction and d
     The dynamic friction is the kinetic friction that resists the motion of an object including moving or sliding. Due to the fact that in real life, friction always occurs since there's no surface that's absolutely smooth, a force must be applied to keep something moving. The key effect of dynamic friction is the [energy](#energy) transferring. This is the principle of drilling wood for fire. The kinetic energy of the spinning wood piece is transferred to another static piece of wood through friction and raises its temperature. The wood eventually started to burn.
 
 
-
+[Back to catalogue](#catalogue)
 
 ### Pressure
 
@@ -524,6 +598,8 @@ This is a mercury barometer.It is the first measuring apparatus of the air press
 
 [Details](https://en.wikipedia.org/wiki/Pressure)
 
+[Back to catalogue](#catalogue)
+
 ### Work
 
 Work, also called mechanical work, is a physical quantity in physics that represents the accumulation of **force** to **displacement**, and refers to the **[energy](#energy) transition** from one physical system to another, especially the transfer of energy under the action of a force that moves an object in the direction of the force. Similar to mechanical energy, work is also a scalar quantity, and the SI unit is **joules**.
@@ -544,6 +620,8 @@ If the angle between force and displacement is less than the right angle, then t
 
 If the direction of the force is perpendicular to the direction of displacement, then this force does not do work.
 
+[Back to catalogue](#catalogue)
+
 ## **The Origin of Natural Science**
 
 Natural science is the science that studies organic or inorganic things and phenomena in nature. Natural sciences include astronomy, physics, chemistry, environmental science, earth science, biology, medicine, public health, dentistry, pharmacy, atmospheric science, life science, zoology, botany, agriculture, etc.
@@ -551,6 +629,9 @@ Natural science is the science that studies organic or inorganic things and phen
 It is generally believed that the ancient Greeks Thales and Aristotle were the founders of natural science, and Galileo Galilei was the initiator of introducing experiments into natural science. Before the 18th century, natural science and philosophy in Europe were almost inseparable. Philosophers are also natural scientists, as are famous philosophers such as René Descartes, Gottfried Wilhelm Leibniz, and John Locke. In the early days of the development of natural science, the systematic study of natural objects or classifications was called natural history.
 
 [Details](https://en.wikipedia.org/wiki/History_of_science)
+
+[Back to catalogue](#catalogue)
+
 ## **Competitions**
 As for competitions, we will introduce some physics competitions suitable for junior students who are willing to improve themselves.
 
@@ -564,3 +645,4 @@ The competition will be held for at least two days and five hours each. The firs
 
 Olympiad medals and honours are awarded according to the following rules: Gold medals are awarded to the top 8% of participants. The conditions for the silver medal are the best 25% (minus the gold medalist) of the participants. The conditions for the bronze medal are the best 50% (minus the gold and silver medalists) of the participants. The best 67% (minus the gold, silver and bronze medalists) will receive medals. All participants will receive a badge. The contestant with the highest overall score, the highest female overall score, the highest theoretical paper, and the highest experimental paper will receive a special prize.
 
+[Back to catalogue](#catalogue)
