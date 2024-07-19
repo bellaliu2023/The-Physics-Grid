@@ -15,7 +15,7 @@ This section will be suitable for students who have just embarked on a journey o
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental dynamics](#fundamental-dynamics)
     
-    Velocity; acceleration; moment; momentum; Newton's three laws of motion; falling&parachuting; circular motions; 
+    Velocity; acceleration; momentum; moment; Newton's three laws of motion; falling&parachuting; circular motions; 
 - [Fundamental mechanics](#fundamental-mechanics)
     
     Weight; density; force; pressure; work;
@@ -266,7 +266,7 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 
 ## **Fundamental dynamics**
 
-As for fundamental dynamics, we will illustrate basic knowledge about [velocity](#velocity), [acceleration](#acceleration), [momentum](#momentum), moments, [Newton's three laws of motion](#newton's-three-laws-of-motion), [falling & parachuting](#falling--parachuting) and [circular motions](#circular-motion).
+As for fundamental dynamics, we will illustrate basic knowledge about [velocity](#velocity), [acceleration](#acceleration), [momentum](#momentum), [moment](#moment), [Newton's three laws of motion](#newton's-three-laws-of-motion), [falling & parachuting](#falling--parachuting) and [circular motions](#circular-motion).
 
 
 ### Velocity
@@ -368,6 +368,25 @@ The law of conservation of momentum is universal and applies to macroscopic and 
 
 [Back to catalogue](#catalogue)
 
+### Moment
+
+[Forces](#force) that act on an object that has a fixed point may make the object rotate. Moments are the turning effect of an object. Moment could be clockwise or anti-clockwise. When more than one force acts in the same direction, their overall turning effect is just the sum of their moments.
+
+The moment of a force is given by:
+
+**moment=F·d**
+
+where F stands for the force and d stands for the perpendicular distance from pivot. There is no official character symbol to represent moment. The usual unit for moment is the **newton-meter (Nm)**. From the formula, we can deduce that in order to make an object rotate, the farther the force is from the pivot, the less force is required. This is how **lever** structures in everyday life such as scissors, tongs, steering wheels, etc., work.
+
+When an object is in **equilibrium**, both the resultant force and the sum of moments of it would be 0.
+
+When forces act in a different direction, yet still balance or still in equilibrium, the total turning effect in each direction will be the same. If you consider forces and moments as vectors, as they have certain directions, the total turning effect on the balanced object would be 0. This could be represented as: 
+
+**sum of clockwise moments=sum of anti-clockwise moments**
+
+or
+
+**moment at point 1 + moment at point 2 = 0**
 
 ### Newton's Three Laws of Motion
 
