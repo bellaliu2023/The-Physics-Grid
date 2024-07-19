@@ -11,7 +11,7 @@ This section will be suitable for students who have just embarked on a journey o
     Energy; temperature; heat and heat transfer; power; change of state; specific thermal capacity; 
 - [Fundamental optics](#fundamental-optics)
 
-    The features of light; reflection; refraction; image; mirrors; lenses; 
+    The features of light; reflection; refraction; diffraction; image; mirrors; lenses; 
 - [Fundamental electromagnetics](#fundamental-electromagnetics)
 - [Fundamental dynamics](#fundamental-dynamics)
     
@@ -182,7 +182,7 @@ As for fundamental optics, we will illustrate basic knowledge about **light** an
 
 Light is an electromagnetic wave whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#density) of the medium, which is opposite of sound waves. 
 
-Light travels in a straight line. This feature is widely used in human technologies, for example, the scope of the sniper rifle is made using this principle. However, light may change its direction when it meets a different medium. There are two basic ways to change the direction of light: **[Reflection](#reflection)** and **[Refraction](#refraction)**.Light can also create an **[Image](#image)**.
+Light travels in a straight line. This feature is widely used in human technologies, for example, the scope of the sniper rifle is made using this principle. However, light may change its direction when it meets a different medium. There are three basic ways to change the propagation of light waves: **[Reflection](#reflection)** , **[Refraction](#refraction)** and **[Diffraction](#diffraction)**.Light can also create an **[Image](#image)**.
 
 
 ### Reflection
@@ -218,7 +218,27 @@ Refraction is also responsible for the rainbow and the splitting of light into c
 
 The refractive index of air is related to its density, so it changes with air temperature and pressure. Due to the lower air pressure at high altitudes and the smaller refractive index, light refracts to the surface when traveling long distances through the atmosphere, which makes stars close to the horizon appear to be slightly offset, and allows us to see the sun first at sunrise, even if it has not risen geometrically above the horizon.Changes in temperature near the surface can lead to other optical phenomena , such as mirages or complex mirages.
 
+#### Dispersion
+
+In optics, dispersion is the phenomenon in which the phase velocity of a light wave changes with frequency. We refer to media with this property as dispersive medium.
+
+Although the term dispersion is used in the field of optics to describe light waves and other electromagnetic waves, the same sense of "dispersion" applies to any type of wave. In optics, the main phenomenon of dispersion is that different colors of light produce a spectrum due to different refractive angles when passing through a **prism** or a lens with chromatic aberration.
+
+![Dispersion of white light while passing through a prism](/images/R.png)
+
+This is a diagram of dispersion of white light while passing through a prism.
+
 [Back to catalogue](#catalogue)
+
+### Diffraction
+
+Diffraction is a physical phenomenon in which a wave travels in a straight line when it encounters an obstacle. In the right cases, any wave has the intrinsic property of diffraction.
+
+In classical physics, waves undergo varying degrees of bending propagation after passing through obstacles such as slits, holes, or disks. Suppose an obstacle is placed between the light source and the observation screen, there will be bright and dark areas on the observation screen, and the boundaries of these areas are not sharp, it is a complex pattern of light and dark. This phenomenon is called diffraction, and it can occur when a wave encounters an obstacle in its path.
+
+In addition to this, a similar effect occurs when light waves pass through a medium with an inhomogeneous refractive index, or when a sound wave passes through a medium with an inhomogeneous acoustic impedance. Under certain conditions, not only water waves and light waves can produce diffraction phenomena visible to the naked eye, but also other types of electromagnetic waves (such as X-rays and radio waves) can also be diffracted by the naked eye.
+
+![wave-diffraction](/images/wave-diffraction-patterns-through-large-and-small-gaps-E5WNXE.jpg)
 
 ### Image
 Lights form images. When an image is able to be presented on a screen, it is called a **real image**. If not, it is called a **virtual image**. Real images are formed when light rays truly strike on the screen. Virtual images are formed when a reflection or a refraction changes the direction of a light, but our brain consider the direction of the light unchanged while dealing with the visual signals from the retina and form the visual image where there isn't a real item. 
