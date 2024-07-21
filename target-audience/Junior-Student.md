@@ -12,7 +12,7 @@ This section will be suitable for students who have just embarked on a journey o
 - [Fundamental optics](#fundamental-optics)
 
     The features of light; reflection; refraction; diffraction; image; mirrors; lenses; 
-- [Fundamental electromagnetics](#fundamental-electromagnetics)
+
 - [Fundamental dynamics](#fundamental-dynamics)
     
     Velocity; acceleration; momentum; moment; Newton's three laws of motion; falling&parachuting; circular motions; 
@@ -228,6 +228,10 @@ Although the term dispersion is used in the field of optics to describe light wa
 
 This is a diagram of dispersion of white light while passing through a prism.
 
+#### Lens
+
+
+
 [Back to catalogue](#catalogue)
 
 ### Diffraction
@@ -262,7 +266,6 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 
  [Back to catalogue](#catalogue)   
 
-## **Fundamental electromagnetics**
 
 ## **Fundamental dynamics**
 
@@ -374,7 +377,7 @@ The law of conservation of momentum is universal and applies to macroscopic and 
 
 The moment of a force is given by:
 
-**moment=F·d**
+**moment = F·d**
 
 where F stands for the force and d stands for the perpendicular distance from pivot. There is no official character symbol to represent moment. The usual unit for moment is the **newton-meter (Nm)**. From the formula, we can deduce that in order to make an object rotate, the farther the force is from the pivot, the less force is required. This is how **lever** structures in everyday life such as scissors, tongs, steering wheels, etc., work.
 
@@ -382,11 +385,13 @@ When an object is in **equilibrium**, both the resultant force and the sum of mo
 
 When forces act in a different direction, yet still balance or still in equilibrium, the total turning effect in each direction will be the same. If you consider forces and moments as vectors, as they have certain directions, the total turning effect on the balanced object would be 0. This could be represented as: 
 
-**sum of clockwise moments=sum of anti-clockwise moments**
+**sum of clockwise moments = sum of anti-clockwise moments**
 
 or
 
 **moment at point 1 + moment at point 2 = 0**
+
+[Back to catalogue](#catalogue)
 
 ### Newton's Three Laws of Motion
 
