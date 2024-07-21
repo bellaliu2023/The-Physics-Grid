@@ -230,6 +230,37 @@ This is a diagram of dispersion of white light while passing through a prism.
 
 #### Lens
 
+A lens is an optical device that **aggregates** or **disperses** light through **refraction**, usually made of a piece of glass, but similar devices used for other electromagnetic radiation are also commonly called lenses, such as: microwave lenses made of paraffin, magnifying glasses made of transparent materials such as glass, resin, plastic, or crystal, glasses, etc., are also lenses.
+
+There are two types of lenses, the one with a thick middle and a thin edge is called a **convex lens**, the one with a thin middle and a thick edge is called a **concave lens**, the lens with a much smaller radius than the spherical surface is called a thin lens, and the geometric center of a thin lens is called the mirror center of the lens.
+
+Lenses are classified according to the curvature of two optical surfaces, and the two sides of a biconvex lens (or convex lens) are protruding, in other words, a lens with both sides is depressed is called a biconcave lens (concave lens). If one surface is flat, this lens is called a plano-convex lens or plano-concave lens and is determined by the curvature of the other surface. One surface of the lens is convex and the other surface is concave, which is called a convex and concave lens, crescent lens. (Generally, crescent lenses refer to all forms of convex and concave lenses.) 
+
+The straight line passing through the center of the two faces of the lens is called the main optical axis of the lens, referred to as the main axis or optical axis; The center of the lens is called the center of light.
+
+- **Convex lens**
+
+    If the lens is a biconvex lens or plano-convex lens, a calibrated or parallel beam of light travels parallel to the optical axis through a point behind the lens that converges (or focuses) the lens on the axis, this point is called the focal point, and the distance from the lens is called the focal length. Since the convex lens concentrates light, it can be used to start a fire. In addition, many devices are equipped with convex lenses to create a magnified image of the object.
+
+    ![Convex lens aggregating light](/images/Lens1.svg.png)
+
+- **Concave lens**
+
+    If the lens is a biconcave or plano-concave lens, a calibrated or parallel beam of light that passes through the mirror in a direction parallel to the optical axis will spread (or diverge) behind the lens. The light that diverges after passing through appears to be emitted from a point on the optical axis in front of the lens, which is called the focal point, and the distance from the lens is called the focal length. In contrast to a positive lens, its focal length is negative. Because concave lenses can diverge light, their imaging is smaller and their field of view is wider, and they are often used to make myopia glasses.
+
+    ![Concave lens dispersing light](/images/Lens1b.svg.png)
+
+The distance from the object to the optical center of the lens is called the object distance, and the distance from the image formed by the object through the lens to the optical center of the lens is called the image distance. Then the imaging of convex and concave lenses satisfies the following formula:
+
+**1/u + 1/v = 1/f**
+
+where u stands for the object distance, v stands for the image distance and f stands for the focal length. 
+
+The specific rules of the imaging of the convex lens and the imaging of the concave lens by the virtual object are as follows:
+
+![diagram of convex lens forming images](/images/2018928-164950811-4736-image-formed-by-the-convex-lens-for-various-positions-of-the-object.png)
+
+ If not otherwise specified, the imaging of the convex lens is a real image, and the imaging of the concave lens is a virtual image.
 
 
 [Back to catalogue](#catalogue)
