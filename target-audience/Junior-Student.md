@@ -15,7 +15,7 @@ This section will be suitable for students who have just embarked on a journey o
 
 - [Fundamental dynamics](#fundamental-dynamics)
     
-    Velocity; acceleration; momentum; moment; Newton's three laws of motion; falling&parachuting; circular motions; 
+    Velocity; acceleration; momentum; moment; Newton's three laws of motion; falling & parachuting; circular motions; 
 - [Fundamental mechanics](#fundamental-mechanics)
     
     Weight; density; force; pressure; work;
