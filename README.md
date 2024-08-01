@@ -19,11 +19,12 @@
 
 ## Levels
 
-If you are a student who needs help while learning physics, information in this section may offer effective help to you.
+If you are a high school student who needs help while learning physics, information in this section may offer effective help to you.
 
 - [**Junior High School**](target-audience/Junior-Student.md)
 - [**Senior High School**](senior-student.md)
-- [**University**](undergraduates.md)
+
+After completing your high school studies, we believe you have acquired sufficient knowledge of physics and have made up your mind to further your studies in this magical field. The following content may help you clarify your interests and the determination to delve into.
 
 ## Branches of Physics
 

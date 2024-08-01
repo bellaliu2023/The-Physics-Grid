@@ -6,7 +6,6 @@ This section will not only be introducing basic concepts and theories in researc
 
 ## **Lexical Concepts**
 
-- []
 
 ## **Existing Theories**
 
