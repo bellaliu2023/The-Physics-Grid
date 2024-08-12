@@ -95,7 +95,9 @@ Overall, the 'Physics Conferences' section is a valuable resource for physicists
 
 ## Physicists
 
-The 'Physicists' section is a collection of famous physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
+The 'Physicists' section is a collection of physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
+
+- [Encyclopedia of Physicists](physicists/Encyclopedia%20of%20Physicists.md)
 
 - [Nobel Prize Physicists](physicists/nobel-prizes.md)
 
