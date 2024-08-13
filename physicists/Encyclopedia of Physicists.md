@@ -24,6 +24,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 **I**
 
+[Isaac Newton](#isaac-newton)
+
 **J**
 
 **K**
@@ -70,3 +72,15 @@ When Adolf · Hitler came to power as chancellor of Germany in 1933, Einstein wa
 Albert Einstein was one of the most important scientists of the 20th century, publishing more than 300 scientific papers and 150 non-scientific works in his lifetime, and is known as the "father of modern physics". His scientific achievements of excellence and originality have made the term "Einstein" synonymous with "genius".
 
 Click [here](https://einsteinpapers.press.princeton.edu/) if you are willing to search for and read all of Einstein's original papers.
+
+### **Isaac Newton**
+
+Sir Isaac · Newton (Julian calendar: December 25, 1642 – March 20, 1727; Gregorian calendar: January 4, 1643 – March 31, 1727) was a United Kingdom physicist, mathematician, astronomer, natural philosopher, and Whig politician. In 1687 he published *The Mathematical Principles of Natural Philosophy*, which expounded gravitation and the three laws of motion, thus laying the foundations of modern physics, astronomy, and modern engineering. By demonstrating the consistency between Kepler's laws of planetary motion and his theory of gravity, he revealed that the motion of terrestrial objects and celestial bodies follows the same laws of nature; It provides strong theoretical support for the heliocentric theory and is a major representative of the scientific revolution.
+
+In mechanics, Newton elucidated the principle of conservation of momentum and angular momentum. Optically, he invented the reflecting telescope and developed a theory of color based on the observation that a prism diverges white light into the visible spectrum. He also systematically formulated the law of cooling and studied the speed of sound.
+
+In mathematics, Newton shared the honor of developing calculus with Gottfried · Leibniz. He also proved the generalized binomial theorem, proposed the "Newtonian method" to approximate the zero point of a function, and contributed to the study of power series.
+
+In 2005, the Royal Society of United Kingdom launched a poll on "Who is the most influential person in the history of science", and Newton won the crown in the voting of the Royal Society Fellows and netizens.
+
+Click [here](https://sirisaacnewton.info/writings/) if you are willing to search for and read all of Newton's original papers.

@@ -73,7 +73,7 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 ## **2020**
 > **for the discovery that black hole formation is a robust prediction of the general theory of relativity**
 
-   - [Roger Penrose](https://www.nobelprize.org/prizes/physics/2020/penrose/facts/)  (b. 1931-08-08) ![FisicalLab](../images/Flag_of_the_United_Kingdom.svg.png)  **United Kingdom**
+   - [Roger Penrose](https://www.nobelprize.org/prizes/physics/2020/penrose/facts/)  (b. 1931-08-08) ![FisicalLab](../images/Flag_of_the_United_Kingdom.svg.png)  **UK**
 	
 > **for the discovery of a supermassive compact object at the centre of our galaxy**
 
@@ -153,7 +153,7 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
    - [François Englert](https://www.nobelprize.org/prizes/physics/2013/englert/facts/) (b.1932-11-06) ![FisicalLab](../images/Belgium.png)  **Belgium**
   
-   - [Peter W. Higgs](https://www.nobelprize.org/prizes/physics/2013/higgs/facts/) (b.1929-05-29) ![FisicalLab](../images/Flag_of_the_United_Kingdom.svg.png)  **United Kingdom**
+   - [Peter W. Higgs](https://www.nobelprize.org/prizes/physics/2013/higgs/facts/) (b.1929-05-29) ![FisicalLab](../images/Flag_of_the_United_Kingdom.svg.png)  **UK**
 
 
 ## **2012**
@@ -177,4 +177,37 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
 ## **2010**
 
+> **for groundbreaking experiments regarding the two-dimensional material graphene**
+
+- [Andre Geim](https://www.nobelprize.org/prizes/physics/2010/geim/facts/) (b.1958-10-21) ![FisicalLab](../images/Flag_of_Russia.svg.png) **Russia**
+
+- [Konstantin Novoselov](https://www.nobelprize.org/prizes/physics/2010/novoselov/facts/) (b.1974-08-23) ![FisicalLab](../images/Flag_of_Russia.svg.png) **Russia**
+
+## **2009**
+
+> **for groundbreaking achievements concerning the transmission of light in fibers for optical communication**
+
+- [Charles K. Kao](https://www.nobelprize.org/prizes/physics/2009/kao/facts/) (b.1933-11-04, d.2018-09-23) ![Fisicallab](../images/Flag_of_Japan.svg.png) **Japan**
+
+> **for the invention of an imaging semiconductor circuit - the CCD sensor**
+
+- [Willard S. Boyle](https://www.nobelprize.org/prizes/physics/2009/boyle/facts/) (b.1924-08-19, d.2011-05-07) ![Fisicallab](../images/Flag_of_Canada_(Pantone).svg.png) **Canada**
+
+- [George E. Smith](https://www.nobelprize.org/prizes/physics/2009/smith/facts/) (b.1930-05-10) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+## **2008**
+
+> **for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics**
+
+- [Yoichiro Nambu](https://www.nobelprize.org/prizes/physics/2008/nambu/facts/) (b.1921-01-18, d.2015-07-05) ![Fisicallab](../images/Flag_of_Japan.svg.png) **Japan**
+
+> **for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature**
+
+- [Makoto Kobayashi](https://www.nobelprize.org/prizes/physics/2008/kobayashi/facts/) (b.1944-04-07) ![Fisicallab](../images/Flag_of_Japan.svg.png) **Japan**
+
+- [Toshihide Maskawa](https://www.nobelprize.org/prizes/physics/2008/maskawa/facts/) (b.1940-02-07, d.2021-07-23) ![Fisicallab](../images/Flag_of_Japan.svg.png) **Japan**
+
+## **2007**
+
 ......
+
