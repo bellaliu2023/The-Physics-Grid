@@ -44,6 +44,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 **R**
 
+[Robert Hooke](#robert-hooke)
+
 **S**
 
 **T**
@@ -84,3 +86,15 @@ In mathematics, Newton shared the honor of developing calculus with Gottfried ·
 In 2005, the Royal Society of United Kingdom launched a poll on "Who is the most influential person in the history of science", and Newton won the crown in the voting of the Royal Society Fellows and netizens.
 
 Click [here](https://sirisaacnewton.info/writings/) if you are willing to search for and read all of Newton's original papers.
+
+### **Robert Hooke**
+
+Robert Hooke (July 18, 1635 – March 3, 1703) was a UK polymath known for his contributions to physics, proposing Hooke's law and the inverse square law of gravity. He designed vacuum pumps, microscopes, and telescopes, and authored *Micrographic*, coining the term "cell". His inventions are still in use today. Hooke also impacted urban planning and architecture. Despite conflicts with Newton, his work is now receiving renewed attention, earning him the nickname "Leonardo of London" for his diverse interests and achievements.
+
+In 1664, Hooke created an advanced microscope inspired by a Royal Society member. In 1665, he examined a thin cork slice under his own microscope, observing plant cells' resemblance to monks' single rooms, thus coining "cell". He published *Micrographic*, detailing his microscopic and telescopic observations, marking the first human observation of cells.
+
+In 1663, Gregory designed but couldn't build the Gregorian telescope. Hooke later built the first reflecting telescope, using it to observe Mars' rotation, Jupiter's Great Red Spot, lunar craters, and binary stars. In 1676, after studying metal elasticity, he published the anagram "ceiiinosssttuv," which later became "ut tensio sic vis," revealing Hooke's law: force is proportional to elongation.
+
+Click [here](https://www.gutenberg.org/cache/epub/15491/pg15491-images.html) if you are willing to search for and read *Micrographia*.
+
+Click [here](https://royalsocietypublishing.org/action/doSearch?ContribAuthorRaw=Hooke%2C+Robert) if you are willing to search for and read more original papers of Hooke.

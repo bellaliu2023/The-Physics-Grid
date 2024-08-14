@@ -209,5 +209,12 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
 ## **2007**
 
-......
+> **for the discovery of Giant Magnetoresistance**
 
+- [Albert Fert](https://www.nobelprize.org/prizes/physics/2007/fert/facts/) (b.1938-03-07) ![Fisicallab](../images/Flag_of_France.svg.png) **France**
+
+- [Peter Grünberg](https://www.nobelprize.org/prizes/physics/2007/grunberg/facts/) (b.1939-05-18, d.2018-04-07) ![Fisicallab](../images/Flag_of_Germany_(3-2_aspect_ratio).svg.png) **Germany**
+
+## **2006**
+
+......
