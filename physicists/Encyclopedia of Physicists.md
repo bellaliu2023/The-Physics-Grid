@@ -34,6 +34,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 **M**
 
+[Max Planck](#max-planck)
+
 **N**
 
 **O**
@@ -65,7 +67,7 @@ This section will introduce you to all the physicists in the history of physics 
 
 ### **Albert Einstein**
 
-Albert · Einstein (March 14, 1879 – April 18, 1955), a Jewish theoretical physicist born in Germany with Switzerland and United States nationality, founded the theory of relativity, which is considered one of the two pillars of modern physics, and also made outstanding achievements in the field of quantum mechanics. He is the discoverer of the mass-energy equivalence formula (E = mc2). He was also influential in the field of philosophy of science. He was awarded the Nobel Prize in Physics in 1921 for his "contributions to theoretical physics, in particular the discovery of the principle of the photoelectric effect". This discovery is a crucial step in the establishment of quantum theory.
+Albert · Einstein (March 14, 1879 – April 18, 1955), a Jewish theoretical physicist born in Germany with Switzerland and United States nationality, founded the theory of relativity, which is considered one of the two pillars of modern physics, and also made outstanding achievements in the field of quantum mechanics. He is the discoverer of the mass-energy equivalence formula (E = mc²). He was also influential in the field of philosophy of science. He was awarded the Nobel Prize in Physics in 1921 for his "contributions to theoretical physics, in particular the discovery of the principle of the photoelectric effect". This discovery is a crucial step in the establishment of quantum theory.
 
 Albert Einstein discovered early in his career that classical mechanics and electromagnetic fields could not coexist with each other, leading to the development of the special theory of relativity. He also discovered that the principles of relativity could be extended to the modeling of gravitational fields. Based on some theories of gravity, he published the general theory of relativity in 1915. His continued research on statistical mechanics and quantum theory led him to derive explanations for particle theory and molecular motion. In 1917, Albert Einstein applied the theory of general relativity to model the large-scale structure of the universe.
 
@@ -86,6 +88,21 @@ In mathematics, Newton shared the honor of developing calculus with Gottfried ·
 In 2005, the Royal Society of United Kingdom launched a poll on "Who is the most influential person in the history of science", and Newton won the crown in the voting of the Royal Society Fellows and netizens.
 
 Click [here](https://sirisaacnewton.info/writings/) if you are willing to search for and read all of Newton's original papers.
+
+### **Max Planck**
+
+Max · Karl ·Ernst · Ludwig · Planck (April 23, 1858 – October 4, 1947) was a Germany physicist and one of the founders of quantum mechanics. He was awarded the Nobel Prize in Physics in 1918 (awarded in 1919) for his discovery of energy quanta. The Planck constant, which bears his name, was used in 2019 to redefine the basic unit. In addition, there are many scientific trophies, institutions and societies that bear his name.
+
+It was around 1894 that Planck began to devote all his energies to the study of blackbody radiation. Shortly thereafter, on December 14, 1900, Planck came up with a theoretical corollary of the radiation law, in which he used the statistical mechanics of the Austrian physicist Ludwig · Boltzmann, whom he had previously denied. Planck proposed the hypothesis of energy quantization at the conference: E=hv, where E is energy, ν is the frequency, and an important physical constant, h, is introduced, the Planck constant, and energy can only be radiated outward in the form of an indivisible energy element (i.e., quanta). Such a hypothesis reconciles the contradictions encountered in the study of the law of thermal radiation in classical physics. Based on this assumption, he also gave Planck's formula for black-body radiation, which satisfactorily explained the experimental phenomenon. Planck was awarded the Nobel Prize in Physics in 1918. Although Planck tried to bring his theories within the framework of classical physics in later years, he is still regarded as one of the pioneers of modern physics.
+
+Planck rejected the Copenhagen interpretation of quantum mechanics proposed by Bohr, Werner· Heisenberg, and Pauli at the end of the 20th century, as opposed to Schrödinger and Max· von · Laue, and Einstein became a conservative at this time. Planck considered Heisenberg's matrix mechanics "disgusting" and looked to the Schrödinger equation as a savior. Planck felt that wave dynamics would soon make his own quantum theory redundant, but scientific truths continued to be revealed despite his ideas.
+
+Click [here](https://archive.org/search?query=%28%28subject%3A%22Planck%2C%20Max%22%20OR%20subject%3A%22Max%20Planck%22%20OR%20creator%3A%22Planck%2C%20Max%22%20OR%20creator%3A%22Max%20Planck%22%20OR%20creator%3A%22Planck%2C%20M%2E%22%20OR%20title%3A%22Max%20Planck%22%20OR%20description%3A%22Planck%2C%20Max%22%20OR%20description%3A%22Max%20Planck%22%29%20OR%20%28%221858-1947%22%20AND%20Planck%29%29%20AND%20%28-mediatype:software%29) if you are willing to search for and read all of Planck's original papers or their English versions. There are also recommended biographies of Planck.
+
+
+
+
+
 
 ### **Robert Hooke**
 

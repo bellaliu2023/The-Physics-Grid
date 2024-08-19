@@ -217,4 +217,12 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
 ## **2006**
 
+> **for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation**
+
+- [John C. Mather](https://www.nobelprize.org/prizes/physics/2006/mather/facts/) (b.1946-08-07) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+- [George F. Smoot](https://www.nobelprize.org/prizes/physics/2006/smoot/facts/) (b.1945-02-20) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+## **2005**
+
 ......
