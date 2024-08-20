@@ -225,4 +225,26 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
 ## **2005**
 
+> **for his contribution to the quantum theory of optical coherence**
+
+- [Roy J. Glauber](https://www.nobelprize.org/prizes/physics/2005/glauber/facts/) (b.1925-09-01, d.2018-12-26) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+> **for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique**
+
+- [John L. Hall](https://www.nobelprize.org/prizes/physics/2005/hall/facts/) (b.1934-08-21) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+- [Theodor W. Hänsch](https://www.nobelprize.org/prizes/physics/2005/hansch/facts/) (b.1941-10-30) ![Fisicallab](../images/Flag_of_Germany_(3-2_aspect_ratio).svg.png) **Germany**
+
+## **2004**
+
+> **for the discovery of asymptotic freedom in the theory of the strong interaction**
+
+- [David J. Gross](https://www.nobelprize.org/prizes/physics/2004/gross/facts/) (b.1941-02-19) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+- [H. David Politzer](https://www.nobelprize.org/prizes/physics/2004/politzer/facts/) (b.1949-08-31) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+- [Frank Wilczek](https://www.nobelprize.org/prizes/physics/2004/wilczek/facts/) (b.1951-05-15) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+## **2003**
+
 ......
