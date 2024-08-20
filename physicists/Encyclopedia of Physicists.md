@@ -58,6 +58,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 **W**
 
+[Werner Heisenberg](#werner-carl-heisenberg)
+
 **X**
 
 **Y**
@@ -67,7 +69,7 @@ This section will introduce you to all the physicists in the history of physics 
 
 ### **Albert Einstein**
 
-Albert · Einstein (March 14, 1879 – April 18, 1955), a Jewish theoretical physicist born in Germany with Switzerland and United States nationality, founded the theory of relativity, which is considered one of the two pillars of modern physics, and also made outstanding achievements in the field of quantum mechanics. He is the discoverer of the mass-energy equivalence formula (E = mc²). He was also influential in the field of philosophy of science. He was awarded the Nobel Prize in Physics in 1921 for his "contributions to theoretical physics, in particular the discovery of the principle of the photoelectric effect". This discovery is a crucial step in the establishment of quantum theory.
+Albert Einstein (March 14, 1879 – April 18, 1955), a Jewish theoretical physicist born in Germany with Switzerland and United States nationality, founded the theory of relativity, which is considered one of the two pillars of modern physics, and also made outstanding achievements in the field of quantum mechanics. He is the discoverer of the mass-energy equivalence formula (E = mc²). He was also influential in the field of philosophy of science. He was awarded the Nobel Prize in Physics in 1921 for his "contributions to theoretical physics, in particular the discovery of the principle of the photoelectric effect". This discovery is a crucial step in the establishment of quantum theory.
 
 Albert Einstein discovered early in his career that classical mechanics and electromagnetic fields could not coexist with each other, leading to the development of the special theory of relativity. He also discovered that the principles of relativity could be extended to the modeling of gravitational fields. Based on some theories of gravity, he published the general theory of relativity in 1915. His continued research on statistical mechanics and quantum theory led him to derive explanations for particle theory and molecular motion. In 1917, Albert Einstein applied the theory of general relativity to model the large-scale structure of the universe.
 
@@ -79,7 +81,7 @@ Click [here](https://einsteinpapers.press.princeton.edu/) if you are willing to 
 
 ### **Isaac Newton**
 
-Sir Isaac · Newton (Julian calendar: December 25, 1642 – March 20, 1727; Gregorian calendar: January 4, 1643 – March 31, 1727) was a United Kingdom physicist, mathematician, astronomer, natural philosopher, and Whig politician. In 1687 he published *The Mathematical Principles of Natural Philosophy*, which expounded gravitation and the three laws of motion, thus laying the foundations of modern physics, astronomy, and modern engineering. By demonstrating the consistency between Kepler's laws of planetary motion and his theory of gravity, he revealed that the motion of terrestrial objects and celestial bodies follows the same laws of nature; It provides strong theoretical support for the heliocentric theory and is a major representative of the scientific revolution.
+Sir Isaac Newton (Julian calendar: December 25, 1642 – March 20, 1727; Gregorian calendar: January 4, 1643 – March 31, 1727) was a United Kingdom physicist, mathematician, astronomer, natural philosopher, and Whig politician. In 1687 he published *The Mathematical Principles of Natural Philosophy*, which expounded gravitation and the three laws of motion, thus laying the foundations of modern physics, astronomy, and modern engineering. By demonstrating the consistency between Kepler's laws of planetary motion and his theory of gravity, he revealed that the motion of terrestrial objects and celestial bodies follows the same laws of nature; It provides strong theoretical support for the heliocentric theory and is a major representative of the scientific revolution.
 
 In mechanics, Newton elucidated the principle of conservation of momentum and angular momentum. Optically, he invented the reflecting telescope and developed a theory of color based on the observation that a prism diverges white light into the visible spectrum. He also systematically formulated the law of cooling and studied the speed of sound.
 
@@ -91,7 +93,7 @@ Click [here](https://sirisaacnewton.info/writings/) if you are willing to search
 
 ### **Max Planck**
 
-Max · Karl ·Ernst · Ludwig · Planck (April 23, 1858 – October 4, 1947) was a Germany physicist and one of the founders of quantum mechanics. He was awarded the Nobel Prize in Physics in 1918 (awarded in 1919) for his discovery of energy quanta. The Planck constant, which bears his name, was used in 2019 to redefine the basic unit. In addition, there are many scientific trophies, institutions and societies that bear his name.
+Max Karl Ernst Ludwig Planck (April 23, 1858 – October 4, 1947) was a Germany physicist and one of the founders of quantum mechanics. He was awarded the Nobel Prize in Physics in 1918 (awarded in 1919) for his discovery of energy quanta. The Planck constant, which bears his name, was used in 2019 to redefine the basic unit. In addition, there are many scientific trophies, institutions and societies that bear his name.
 
 It was around 1894 that Planck began to devote all his energies to the study of blackbody radiation. Shortly thereafter, on December 14, 1900, Planck came up with a theoretical corollary of the radiation law, in which he used the statistical mechanics of the Austrian physicist Ludwig · Boltzmann, whom he had previously denied. Planck proposed the hypothesis of energy quantization at the conference: E=hv, where E is energy, ν is the frequency, and an important physical constant, h, is introduced, the Planck constant, and energy can only be radiated outward in the form of an indivisible energy element (i.e., quanta). Such a hypothesis reconciles the contradictions encountered in the study of the law of thermal radiation in classical physics. Based on this assumption, he also gave Planck's formula for black-body radiation, which satisfactorily explained the experimental phenomenon. Planck was awarded the Nobel Prize in Physics in 1918. Although Planck tried to bring his theories within the framework of classical physics in later years, he is still regarded as one of the pioneers of modern physics.
 
@@ -115,3 +117,18 @@ In 1663, Gregory designed but couldn't build the Gregorian telescope. Hooke late
 Click [here](https://www.gutenberg.org/cache/epub/15491/pg15491-images.html) if you are willing to search for and read *Micrographia*.
 
 Click [here](https://royalsocietypublishing.org/action/doSearch?ContribAuthorRaw=Hooke%2C+Robert) if you are willing to search for and read more original papers of Hooke.
+
+
+### **Werner Heisenberg**
+
+Werner Carl Heisenberg (December 5, 1901 – February 1, 1976) was a Germany physicist, one of the founders of quantum mechanics, and a representative figure of the "Copenhagen School". In 1933, Heisenberg was awarded the Nobel Prize in Physics in 1932 for "the founding of quantum mechanics and the resulting discovery of allotropes of hydrogen." His main contributions to physics are the matrix form of quantum mechanics (matrix mechanics), the "uncertainty principle" (also known as the "Heisenberg uncertainty principle") and the S-matrix theory. His Principles of Physics in Quantum Theory is a classic work in the field of quantum mechanics.
+
+Heisenberg is renowned for his quantum mechanics theory, introduced at age 23 and earning him the 1932 Nobel Prize in Physics (received in 1933) for its applications, including the discovery of hydrogen spin isomers. His theory, grounded in atomic radiation observations, posits the impossibility of pinpointing an electron's position or tracing its path, thus negating Bohr's electron orbitals. Physical quantities like position and velocity are not represented by conventional numbers but by matrices, marking the birth of matrix mechanics.
+
+Heisenberg also formulated the "uncertainty principle," stating that in quantum systems, a particle's position and momentum cannot be precisely known simultaneously, with position uncertainty Δx and momentum uncertainty Δp having a product no less than h/4π, where h is Planck's constant. This principle, though negligible on a human scale, is crucial in atomic studies.
+
+Starting in 1953, Heisenberg focused on the unified field theory of elementary particles, essential for advancing particle physics understanding. From 1957, his focus shifted to plasma physics and high-temperature nuclear reactions.
+
+Heisenberg was a participant in Germany's nuclear weapons development program, but Nazi Germany was never capable of moving nuclear weapons from theory to reality. Heisenberg himself offered one account that he did not trust the Hitler regime and was therefore trying to delay the research program in Nazi Germany. But some people, such as Goodschmidt, scoffed at this claim, which has been dubbed the "Heisenberg Mystery."
+
+Click [here](https://archive.org/search?query=Werner+Heisenberg&and%5B%5D=mediatype%3A%22texts%22&and%5B%5D=creator%3A%22heisenberg%2C+werner%2C+1901-1976%22) if you are willing to search for and read more original papers of Heisenberg.
