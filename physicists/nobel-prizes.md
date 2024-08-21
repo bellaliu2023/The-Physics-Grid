@@ -247,4 +247,48 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
 ## **2003**
 
+>　**for pioneering contributions to the theory of superconductors and superfluids**
+
+- [Alexei Abrikosov](https://www.nobelprize.org/prizes/physics/2003/abrikosov/facts/) (b.1928-06-25, d.2017-03-29) ![FisicalLab](../images/Flag_of_Russia.svg.png) **Russia**
+
+- [Vitaly L. Ginzburg](https://www.nobelprize.org/prizes/physics/2003/ginzburg/facts/) (b.1916-10-04, d.2009-11-08) ![FisicalLab](../images/Flag_of_Russia.svg.png) **Russia**
+
+- [Anthony J. Leggett](https://www.nobelprize.org/prizes/physics/2003/leggett/facts/) (b.1938-03-26) ![FisicalLab](../images/Flag_of_the_United_Kingdom.svg.png)  **UK**
+
+## **2002**
+
+> **for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos**
+
+- [Raymond Davis Jr.](https://www.nobelprize.org/prizes/physics/2002/davis/facts/) (b.1914-10-14, d.2006-05-31) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+- [Masatoshi Koshiba](https://www.nobelprize.org/prizes/physics/2002/koshiba/facts/) (b.1926-09-19, d.2020-11-12) ![Fisicallab](../images/Flag_of_Japan.svg.png) **Japan**
+
+> **for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources**
+
+- [Riccardo Giacconi](https://www.nobelprize.org/prizes/physics/2002/giacconi/facts/) (b.1931-10-06, d.2018-12-16) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA** & ![Fisicallab](../images/Flag_of_Italy_(1861–1946).svg.png) **Italy**
+
+## **2001**
+
+> **for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates**
+
+- [Eric Cornell](https://www.nobelprize.org/prizes/physics/2001/cornell/facts/) (b.1961-12-19) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+- [Wolfgang Ketterle](https://www.nobelprize.org/prizes/physics/2001/ketterle/facts/) (b.1957-10-21)  ![Fisicallab](../images/Flag_of_Germany_(3-2_aspect_ratio).svg.png) **Germany**
+
+- [Carl Wieman](https://www.nobelprize.org/prizes/physics/2001/wieman/facts/) (b.1951-03-26) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+## **2000**
+
+> **for developing semiconductor heterostructures used in high-speed- and opto-electronics**
+
+- [Zhores Alferov](https://www.nobelprize.org/prizes/physics/2000/alferov/facts/) (b.1930-03-15, d.2019-03-01) ![FisicalLab](../images/Flag_of_Russia.svg.png) **Russia**
+
+- [Herbert Kroemer](https://www.nobelprize.org/prizes/physics/2000/kroemer/facts/) (b.1928-08-25, d.2024-03-08) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA** & ![Fisicallab](../images/Flag_of_Germany_(3-2_aspect_ratio).svg.png) **Germany**
+
+> **for his part in the invention of the integrated circuit**
+
+- [Jack Kilby](https://www.nobelprize.org/prizes/physics/2000/kilby/facts/) (b.1923-11-08, d.2005-06-20) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+## **1999**
+
 ......

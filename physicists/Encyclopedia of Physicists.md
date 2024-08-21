@@ -36,6 +36,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 [Max Planck](#max-planck)
 
+[Michael Faraday](#michael-faraday)
+
 **N**
 
 **O**
@@ -101,7 +103,17 @@ Planck rejected the Copenhagen interpretation of quantum mechanics proposed by B
 
 Click [here](https://archive.org/search?query=%28%28subject%3A%22Planck%2C%20Max%22%20OR%20subject%3A%22Max%20Planck%22%20OR%20creator%3A%22Planck%2C%20Max%22%20OR%20creator%3A%22Max%20Planck%22%20OR%20creator%3A%22Planck%2C%20M%2E%22%20OR%20title%3A%22Max%20Planck%22%20OR%20description%3A%22Planck%2C%20Max%22%20OR%20description%3A%22Max%20Planck%22%29%20OR%20%28%221858-1947%22%20AND%20Planck%29%29%20AND%20%28-mediatype:software%29) if you are willing to search for and read all of Planck's original papers or their English versions. There are also recommended biographies of Planck.
 
+### **Michael Faraday**
 
+Michael Faraday (September 22, 1791 – August 25, 1867) was United Kingdom physicist who made many important contributions to the fields of electromagnetism and electrochemistry.
+
+Faraday studied the magnetic field around the current-carrying wire in detail and came up with the idea of the magnetic field line, thus establishing the concept of electromagnetic field. Faraday observed that the magnetic field affects the propagation of light and figured out the relationship between the two. He also discovered the principle of electromagnetic induction, diamagnetism, Faraday's law of electrolysis. As a result of Faraday's efforts, electromagnetic phenomena began to emerge from scientific and technological developments with practical uses.
+
+Faraday was also a chemist, discovering benzene, studying chlorine cage compounds, inventing the early form of Bunsen burner and oxidation number, and popularizing the terms anode, cathode, electrode, and ion.
+
+Although Faraday was an excellent experimenter, able to convey ideas in clear and simple language, his mathematical ability was relatively weak, and he was limited to knowing how to use the simplest algebra, and was not familiar with other higher-order mathematics such as trigonometry. Therefore, James · Maxwell, who synthesized the research of Faraday and other scholars, wrote Maxwell's equation, which became the cornerstone of modern electromagnetic theory. In honor of Faraday, in the International System of Units, the unit of capacitance is the Faraday.
+
+Click [here](https://archive.org/search?query=Michael+Faraday&and%5B%5D=mediatype%3A%22texts%22&and%5B%5D=creator%3A%22faraday%2C+michael%2C+1791-1867%22) if you are willing to search for and read all of Faraday's original papers.
 
 
 
