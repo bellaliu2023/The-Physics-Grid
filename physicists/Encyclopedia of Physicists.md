@@ -81,6 +81,19 @@ Albert Einstein was one of the most important scientists of the 20th century, pu
 
 Click [here](https://einsteinpapers.press.princeton.edu/) if you are willing to search for and read all of Einstein's original papers.
 
+### **Chienshiung Wu**
+
+Chienshiung Wu (May 31, 1912 – February 16, 1997) was a Chinese-American physicist who made significant contributions to the field of nuclear physics, and her achievements in experimental physics often compared her to Marie · Curie. Wu Chien-shiung was the first female president of the United States Physical Society and is often referred to as "China's Marie Curie," "the first lady of physics research," "the queen of nuclear research," and "one of the world's most outstanding female experimental physicists."
+
+Wu Chien-shiung graduated from National Central University of the Republic of China and the University of California, Berkeley, United States, under the tutelage of Nobel Laureate Ernest · Lawrence. During the Manhattan Project, she was involved in the study of how to separate two isotopes of uranium (uranium-235 and uranium-238) using gas diffusion.
+
+A longtime faculty member at United States Colombia University, Wu is best known for her experimental verification of the non-conservation of universal symmetry. Enrico · Fermi had published his theory of β decay in 1934, but an experiment conducted by Louis · Alvarets yielded results that were different from the theory. Wu tried to repeat the experiment to test the results. After refining the experiments, the experimental results she obtained were consistent with Fermi's theoretical results, which means that the difference between Alvarets's experimental results and Fermi's theoretical results was only an experimental error. A series of experiments conducted by Wu Chien-shiung confirmed that the universe is indeed not conserved in weak interactions. The non-conservation of cosmic symmetry is an important discovery in the field of particle physics, which is very important for the establishment of the Standard Model.
+
+This earned her colleagues Tsung-Dao Lee and Chen-Ning Yang the Nobel Prize in Physics in 1957 and the Wolf Prize in Physics for the first time in 1978.
+
+Click [here](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((author_facet_hier%3A%220%2FWu%2C%20C%22)%20OR%20author_facet_hier%3A%221%2FWu%2C%20C%2FWu%2C%20C%20%20S%22%20OR%20author_facet_hier%3A%221%2FWu%2C%20C%2FWu%2C%20C%20%20-S%22%20OR%20author_facet_hier%3A%221%2FWu%2C%20C%2FWu%2C%20Chien-Shiung%22%20OR%20author_facet_hier%3A%221%2FWu%2C%20C%2FWu%2C%20Chien%22)&q=author%3A%22Wu%2C%20Chien-Shiung%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) if you are willing to search for and read all of Wu's original papers.
+
+
 ### **Isaac Newton**
 
 Sir Isaac Newton (Julian calendar: December 25, 1642 – March 20, 1727; Gregorian calendar: January 4, 1643 – March 31, 1727) was a United Kingdom physicist, mathematician, astronomer, natural philosopher, and Whig politician. In 1687 he published *The Mathematical Principles of Natural Philosophy*, which expounded gravitation and the three laws of motion, thus laying the foundations of modern physics, astronomy, and modern engineering. By demonstrating the consistency between Kepler's laws of planetary motion and his theory of gravity, he revealed that the motion of terrestrial objects and celestial bodies follows the same laws of nature; It provides strong theoretical support for the heliocentric theory and is a major representative of the scientific revolution.

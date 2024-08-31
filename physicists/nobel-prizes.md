@@ -291,4 +291,22 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
 ## **1999**
 
+> **for elucidating the quantum structure of electroweak interactions in physics**
+
+- [Gerardus 't Hooft](https://www.nobelprize.org/prizes/physics/1999/thooft/facts/) (b.1946-07-05) ![Fisicallab](../images/Flag_of_the_Netherlands.svg.png) **Netherlands**
+
+- [Martinus J.G. Veltman](https://www.nobelprize.org/prizes/physics/1999/veltman/facts/) (b.1931-06-27, d.2021-01-04) ![Fisicallab](../images/Flag_of_the_Netherlands.svg.png) **Netherlands**
+
+## **1998**
+
+> **for their discovery of a new form of quantum fluid with fractionally charged excitations**
+
+- [Robert B. Laughlin](https://www.nobelprize.org/prizes/physics/1998/laughlin/facts/) (b.1950-11-01) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+- [Horst L. Störmer](https://www.nobelprize.org/prizes/physics/1998/stormer/facts/) (b.1949-04-06) ![Fisicallab](../images/Flag_of_Germany_(3-2_aspect_ratio).svg.png) **Germany**
+
+- [Daniel C. Tsui](https://www.nobelprize.org/prizes/physics/1998/tsui/facts/) (b.1939-02-28) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA** & ![Fisicallab](../images/Flag_of_the_Republic_of_China.svg.png) **ROC**
+
+## **1997**
+
 ......
