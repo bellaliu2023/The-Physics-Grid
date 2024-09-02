@@ -19,6 +19,10 @@ This section will be suitable for students who have just embarked on a journey o
 - [Fundamental mechanics](#fundamental-mechanics)
     
     Weight; density; force; pressure; work;
+
+- [Fundamental electromagnetics](#fundamental-electromagnetics)
+
+    Static electricity; 
 - [The Origin of Natural Science](#the-origin-of-natural-science)
 - [Competitions](#competitions)
 
@@ -696,6 +700,14 @@ If the angle between force and displacement is less than the right angle, then t
 If the direction of the force is perpendicular to the direction of displacement, then this force does not do work.
 
 [Back to catalogue](#catalogue)
+
+## **Fundamental Electromagnetics**
+
+As for fundamental electromagnetics, we will introduce basic knowledge about static electricity, 
+
+### Static electricity
+
+
 
 ## **The Origin of Natural Science**
 

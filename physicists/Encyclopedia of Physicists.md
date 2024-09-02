@@ -52,6 +52,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 **S**
 
+[Stephen Hawking](#stephen-hawking)
+
 **T**
 
 **U**
@@ -81,6 +83,8 @@ Albert Einstein was one of the most important scientists of the 20th century, pu
 
 Click [here](https://einsteinpapers.press.princeton.edu/) if you are willing to search for and read all of Einstein's original papers.
 
+[Back to catalogue](#catalogue)
+
 ### **Chienshiung Wu**
 
 Chienshiung Wu (May 31, 1912 – February 16, 1997) was a Chinese-American physicist who made significant contributions to the field of nuclear physics, and her achievements in experimental physics often compared her to Marie · Curie. Wu Chien-shiung was the first female president of the United States Physical Society and is often referred to as "China's Marie Curie," "the first lady of physics research," "the queen of nuclear research," and "one of the world's most outstanding female experimental physicists."
@@ -93,6 +97,7 @@ This earned her colleagues Tsung-Dao Lee and Chen-Ning Yang the Nobel Prize in P
 
 Click [here](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=((author_facet_hier%3A%220%2FWu%2C%20C%22)%20OR%20author_facet_hier%3A%221%2FWu%2C%20C%2FWu%2C%20C%20%20S%22%20OR%20author_facet_hier%3A%221%2FWu%2C%20C%2FWu%2C%20C%20%20-S%22%20OR%20author_facet_hier%3A%221%2FWu%2C%20C%2FWu%2C%20Chien-Shiung%22%20OR%20author_facet_hier%3A%221%2FWu%2C%20C%2FWu%2C%20Chien%22)&q=author%3A%22Wu%2C%20Chien-Shiung%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) if you are willing to search for and read all of Wu's original papers.
 
+[Back to catalogue](#catalogue)
 
 ### **Isaac Newton**
 
@@ -106,6 +111,8 @@ In 2005, the Royal Society of United Kingdom launched a poll on "Who is the most
 
 Click [here](https://sirisaacnewton.info/writings/) if you are willing to search for and read all of Newton's original papers.
 
+[Back to catalogue](#catalogue)
+
 ### **Max Planck**
 
 Max Karl Ernst Ludwig Planck (April 23, 1858 – October 4, 1947) was a Germany physicist and one of the founders of quantum mechanics. He was awarded the Nobel Prize in Physics in 1918 (awarded in 1919) for his discovery of energy quanta. The Planck constant, which bears his name, was used in 2019 to redefine the basic unit. In addition, there are many scientific trophies, institutions and societies that bear his name.
@@ -115,6 +122,8 @@ It was around 1894 that Planck began to devote all his energies to the study of 
 Planck rejected the Copenhagen interpretation of quantum mechanics proposed by Bohr, Werner· Heisenberg, and Pauli at the end of the 20th century, as opposed to Schrödinger and Max· von · Laue, and Einstein became a conservative at this time. Planck considered Heisenberg's matrix mechanics "disgusting" and looked to the Schrödinger equation as a savior. Planck felt that wave dynamics would soon make his own quantum theory redundant, but scientific truths continued to be revealed despite his ideas.
 
 Click [here](https://archive.org/search?query=%28%28subject%3A%22Planck%2C%20Max%22%20OR%20subject%3A%22Max%20Planck%22%20OR%20creator%3A%22Planck%2C%20Max%22%20OR%20creator%3A%22Max%20Planck%22%20OR%20creator%3A%22Planck%2C%20M%2E%22%20OR%20title%3A%22Max%20Planck%22%20OR%20description%3A%22Planck%2C%20Max%22%20OR%20description%3A%22Max%20Planck%22%29%20OR%20%28%221858-1947%22%20AND%20Planck%29%29%20AND%20%28-mediatype:software%29) if you are willing to search for and read all of Planck's original papers or their English versions. There are also recommended biographies of Planck.
+
+[Back to catalogue](#catalogue)
 
 ### **Michael Faraday**
 
@@ -128,7 +137,7 @@ Although Faraday was an excellent experimenter, able to convey ideas in clear an
 
 Click [here](https://archive.org/search?query=Michael+Faraday&and%5B%5D=mediatype%3A%22texts%22&and%5B%5D=creator%3A%22faraday%2C+michael%2C+1791-1867%22) if you are willing to search for and read all of Faraday's original papers.
 
-
+[Back to catalogue](#catalogue)
 
 
 ### **Robert Hooke**
@@ -142,6 +151,23 @@ In 1663, Gregory designed but couldn't build the Gregorian telescope. Hooke late
 Click [here](https://www.gutenberg.org/cache/epub/15491/pg15491-images.html) if you are willing to search for and read *Micrographia*.
 
 Click [here](https://royalsocietypublishing.org/action/doSearch?ContribAuthorRaw=Hooke%2C+Robert) if you are willing to search for and read more original papers of Hooke.
+
+[Back to catalogue](#catalogue)
+
+### **Stephen Hawking**
+
+Stephen · William ·Hawking (8 January 1942 – 14 March 2018) was United Kingdom theoretical physicist, cosmologist and popular science writer, and was the research director of the Centre for Theoretical Cosmology at the University of Cambridge. He has made many scientific contributions, including co-authoring the Penrose-Hawking singularity theorem within the framework of general relativity with Roger · Penrose, and his theoretical prediction that black holes emit radiation (now known as Hawking radiation). Stephen Hawking was the first to propose a theory of cosmology explained by the combination of general relativity and quantum mechanics. He is an active proponent of the many-world interpretation of quantum mechanics.
+
+Stephen Hawking is a recipient of the Royal Society for Literature and Art Prize (FRSA), a life member of the Pontifical Academy of Sciences, and a former recipient of the Presidential Medal of Freedom, the highest civilian award awarded by the United States. In 2002, Hawking was ranked 25th in the BBC's "100 Greatest United Kingdom" poll. From 1979 to 2009, Hawking was the Lucas Professor of Mathematics at the University of Cambridge. Stephen Hawking has written a number of popular science books expounding his theories and general cosmology, which have been widely acclaimed. His book, A Brief History of Time: From the Big Bang to Black Holes, topped the Sunday Times bestseller list in United Kingdom for a total of 237 weeks.
+
+Hawking suffers from a rare early-onset, slow-progressing motor neuron disease (also known as amyotrophic lateral sclerosis) that progressively worsens over time. In his later years, he was paralyzed and unable to speak, and had to rely on speech-generating devices to communicate with others. Initially the device was used by a hand-held switch, but eventually by using a unilateral cheek muscle.
+
+On March 14, 2018, Hawking's family issued a statement saying that Hawking died at the age of 76. The burial of his ashes took place on 15 June 2018 in the chapel of the nave of Westminster Abbey in London.
+
+Click [here](https://www.hawking.org.uk/in-print) if you are willing to search for and read more original papers or books written by Hawking.
+
+
+[Back to catalogue](#catalogue)
 
 
 ### **Werner Heisenberg**
@@ -157,3 +183,5 @@ Starting in 1953, Heisenberg focused on the unified field theory of elementary p
 Heisenberg was a participant in Germany's nuclear weapons development program, but Nazi Germany was never capable of moving nuclear weapons from theory to reality. Heisenberg himself offered one account that he did not trust the Hitler regime and was therefore trying to delay the research program in Nazi Germany. But some people, such as Goodschmidt, scoffed at this claim, which has been dubbed the "Heisenberg Mystery."
 
 Click [here](https://archive.org/search?query=Werner+Heisenberg&and%5B%5D=mediatype%3A%22texts%22&and%5B%5D=creator%3A%22heisenberg%2C+werner%2C+1901-1976%22) if you are willing to search for and read more original papers of Heisenberg.
+
+[Back to catalogue](#catalogue)
