@@ -2,11 +2,11 @@
 
 The 'Physics Movies' section is a collection of movies , videos and documentaries about physics studies and lives of the great physicists. This section helps us better understand physics through the objective authenticity of documentaries.
 
-Here are some well-known Youtube video channels on physics:
+## Youtube Video Channels
 
 - [Advanced Physics](https://www.youtube.com/@AdvancedPhysics) - I'm Dr. Rajendra Prasad (Professor in Physics, LS College Muzaffarpur). I've started this channel to provide the concept of graduation and post-graduation level physics in a simple and concise way. These videos will help you in preparation for various competitive examinations like IIT-JAM, NET, JEST, and admission tests in renowned institutions of India for the study of higher physics. If you find these videos helpful please share it with your friend who might do so too.
 
-- [Andy Masley's IB Physics Lectures](https://www.youtube.com/@AndyMasley) - 我教授 IB 物理，並就每個 IB 物理 SL 主題進行視頻講座。我使用這些視頻代替課堂上的現場講座，因此對於初次學習該材料的高中學生來說，它們是可以訪問和理解的。在每個視頻中，我的目標都是最大程度的清晰度，以及僅是理解 IB 物理課程所需的詳細程度。我在該頻道的播放列表中有按 IB 主題組織的講座。我的所有講座也都是按照 IB 主題在我的網站上組織的：andymasley.com/lecture-videos/
+- [Andy Masley's IB Physics Lectures](https://www.youtube.com/@AndyMasley) - I teach IB Physics and give video lectures on each IB Physics SL topic. I use these videos in place of live lectures in class, so they are accessible and understandable to high school students who are learning the material for the first time. In each video, I aim for maximum clarity, and just the level of detail needed to understand the IB Physics curriculum. I have lectures organized by IB topic in the playlist on this channel. 
 
 - [DrPhysicsA](https://www.youtube.com/@DrPhysicsA) - This YouTube channel contains a series of Physics videos which are intended to give a basic introduction to the subjects covered. They explain the essence of the subject in as simple as way as possible. They assume basic knowledge of algebra and calculus and some general physics.
 
@@ -30,7 +30,7 @@ Here are some well-known Youtube video channels on physics:
 
 - [Khan Academy Physics](https://www.youtube.com/@khanacademyphysics7609)
 
-- [Marc Yam](https://www.youtube.com/@MarcYam) - 香港中文大學物理系+教育文憑主修物理, 十年日校教學經驗。希望大家開開心心咁學物理。
+- [Marc Yam](https://www.youtube.com/@MarcYam) - Department of Physics + Diploma in Education, Chinese University of Hong Kong, majoring in physics, 10 years of day school teaching experience. Hope you all have fun learning physics.
 
 - [Math & Physics](https://www.youtube.com/@MathPhysics) - I am a Lebanese teacher with a master's degree in Physics. I am pleased to provide you videos on topics in Math and Physics. Please support me by subscribing, sharing, and commenting on our videos if you find our channel to be interesting.
 
@@ -86,7 +86,7 @@ Here are some well-known Youtube video channels on physics:
 
 ---
 
-Below are some physics-related films and documentaries: (Ranked chronologically)
+## Films and Documentaries (Ranked chronologically)
 
 ## **The Secrets of Quantum Physics** (2014)
 

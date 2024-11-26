@@ -14,21 +14,21 @@
 
 - **Open Platform**: We welcome anyone to participate in this project and work together to build and improve this platform.
 - **Aggregated Resources**: We are committed to aggregating physics-related project materials, software, organizations, courses, and more from around the world, making it easy for users to find the resources they need on a single platform.
+- **Exams Helper**: We aim to offer help to physics students at any ages on any topics. We hope there won't be any obstacles on your trek of physics studying.
 - **Categorized Resources**: We categorize resources using different categories and tags, making it easy for users to search and filter quickly.
 - **Real-Time Updates**: We regularly update and maintain resources to ensure that the information on the platform is always up-to-date and complete.
 
+
 ## Levels
 
-If you are a high school student who needs help while learning physics, information in this section may offer effective help to you.
+If you are a student who wants to self-study or needs help while learning physics, information in this section may offer effective help to you. You might be able to look up for definitions and explanations or concepts. Please choose accordingly if you are a:
 
-- [**Junior High School**](target-audience/Junior-Student.md)
-- [**Senior High School**](senior-student.md)
-
-After completing your high school studies, we believe you have acquired sufficient knowledge of physics and have made up your mind to further your studies in this magical field. The following content may help you clarify your interests and the determination to delve into.
+- [**Junior**](target-audience/Junior-Student.md)
+- [**Senior**](senior-student.md)
 
 ## Branches of Physics
 
-In this section, we collect various materials related to each discipline from the perspective of physics disciplines. If you are looking for further and more professional information about physics, this section may help.
+In this section, we provide a general introduction for and collect various materials related to each discipline from the perspective of physics disciplines. If you are looking for further and more professional information about a specific field, this section may help.
 
 - [**Mechanics**](branches/mechanics.md): Studies the relationship between the motion, forces, and energy of objects. It primarily deals with issues related to mechanics equilibrium, kinematics, and dynamics.
 - [**Thermodynamics**](thermodynamics.md): Studies the relationship between heat and other forms of energy. It primarily deals with issues related to the macroscopic behavior of thermodynamic systems.
@@ -59,17 +59,7 @@ In this section, we have collected various software and tools related to physics
 - [Geophysics](software/geophysics.md)
 - [High Energy Physics](software/high-energy-physics.md)
 
-## Physics Organizations
 
-The 'Physics Organizations' section is a collection of professional organizations related to physics. This section provides users with an overview of organizations that support and promote the field of physics, as well as opportunities to connect with other professionals in the field.
-
-The section includes information on a wide range of physics-related organizations, from general organizations such as the American Physical Society to specialized organizations focused on specific sub-fields such as astrophysics or particle physics. Each organization listing includes important details such as the organization's mission, activities, and membership requirements, allowing users to easily find and join organizations that align with their interests and goals.
-
-In addition to traditional professional organizations, the section also includes information on student organizations, amateur physics clubs, and other groups that provide opportunities for learning and collaboration with other physics enthusiasts.
-
-Overall, the 'Physics Organizations' section is a valuable resource for anyone interested in physics, providing them with access to professional organizations and other groups that support and promote the field, as well as opportunities for networking, collaboration, and professional development.
-
-[Details](organizations.md)
 
 ## Physics Courses
 
