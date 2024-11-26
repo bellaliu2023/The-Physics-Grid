@@ -6,70 +6,191 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[Motion forces and energy](#motion-forces-and-energy)**
 
-    - [Velocity](#velocity)
-    - [Acceleration](#acceleration)
-    - [Weight](#weight)
-    - [Density](#density)
+    - [Velocity](#velocity)√
+    - [Acceleration](#acceleration)√
+    - [Weight](#weight)√
+    - [Density](#density)√
     - [Force](#force)
     - [Newton's three laws of motion](#newtons-three-laws-of-motion)
     - [Falling & parachuting](#falling--parachuting)
     - [Circular motion](#circular-motion)
     - [Moment](#moment)
-    - [Momentum](#momentum)
+    - [Momentum](#momentum)√
     - [Work](#work)
+    - [Power](#power)
     - [Pressure](#pressure)
 
 - **[Thermal physics](#thermal-physics)**
 
-- [Waves](#waves)
+    - [Energy](#energy)
+    - [Temperature](#temperature)
+    - [Heat and heat transfer](#heat-and-heat-transfer)
+    - [Change of state](#change-of-states)
+    - [Specific thermal capacity](#specific-thermal-capacity)
 
-- [Electricity and magnetism](#electricity-and-magnetism)
+- **[Waves](#waves)**
 
-- [Nuclear physics](#nuclear-physics)
+    - [Sound](#sound)√
+    - [Light](#light)
+    - [Reflection](#reflection)
+    - [Refraction](#refraction)
+    - [Diffraction](#diffraction)
+    - [Image](#image)
+    - [Mirror](#mirror)
 
-- [Space physics](#nuclear-physics)
+- **[Electricity and magnetism](#electricity-and-magnetism)**
 
-- [Fundamental acoustics](#fundamental-acoustics)
-   
-    The way the sound is produced; the conditions under which the sound propagates; the factors that determine the characteristics of a music; ultrasonic; infrasonic; 
-- [Fundamental thermology](#fundamental-thermology)
+    - [Static Electricity](#static-electricity)
 
-    Energy; temperature; heat and heat transfer; power; change of state; specific thermal capacity; 
-- [Fundamental optics](#fundamental-optics)
+- **[Nuclear physics](#nuclear-physics)**
 
-    The features of light; reflection; refraction; diffraction; image; mirrors; lenses; 
+- **[Space physics](#nuclear-physics)**
 
-- [Fundamental dynamics](#fundamental-dynamics)
-    
-    Velocity; acceleration; momentum; moment; Newton's three laws of motion; falling & parachuting; circular motions; 
-- [Fundamental mechanics](#fundamental-mechanics)
-    
-    Weight; density; force; pressure; work;
+- **[The Origin of Natural Science](#the-origin-of-natural-science)**
 
-- [Fundamental electromagnetics](#fundamental-electromagnetics)
+- **[Competitions](#competitions)**
 
-    Static electricity; 
-- [The Origin of Natural Science](#the-origin-of-natural-science)
-- [Competitions](#competitions)
+- **[Practice questions](#practice-questions)**
 
+- **[More references](#more-references)**
 
 ## Motion forces and energy
+
+### Velocity
+
+Velocity is a physical quantity that describes how fast or slow an object is moving, and in what direction it is moving.
+
+The velocity of an object is the rate of change of its position with respect to the frame of reference and is a function of time. The speed is equivalent to the specification of the object's velocity and direction of motion (e.g., 60 kilometers per hour to the north).
+
+Velocity is a basic concept in kinematics, a branch of classical mechanics that describes the motion of an object. If the velocity, direction, or both are changed, the velocity of the object changes and it is said to be accelerating.
+
+Velocity is a physical vector quantity; both amplitude and direction are required to define it. The absolute scalar value (magnitude) of velocity is called velocity and is a coherently derived unit whose quantity is measured in SI (metric) in meters per second (m/s) or as the SI base unit of (m⋅s-1). For example, "5 meters per second" is a scalar quantity, while "5 meters per second in the east" is a vector.
+
+Velocity is defined as the rate of change of a position with respect to time and can also be referred to as instantaneous velocity to emphasize the difference from average velocity. The average velocity of an object over a period of time t is the ratio of its displacement d to the time interval during that time:
+
+**v=d/t**
+
+The instantaneous velocity of an object at a given moment is defined as the rate of change of the position vector over time:
+
+**v=dd/dt**
+
+The velocity of an object is usually mentioned in physics as its instantaneous velocity. The unit of speed in the International System of Units is meters per second, the international symbol is m/s, and the Chinese symbol is meters per second. In the framework of relativity, the upper limit of an object's velocity is the speed of light.
+
+In everyday life, "velocity" and "velocity" are used interchangeably, but the two correspond to different concepts in physics: velocity is a scalar quantity (only magnitude, no direction), and its dimension is distance divided by time; Velocity is a vector quantity (with direction) and its dimension is bit removed with time. For example, if a car is traveling due north at a rate of 60 km/h, its velocity is a vector of magnitude equal to 60 km/h and pointing to true north. The instantaneous velocity of an object is equal to the magnitude of the instantaneous velocity, whereas the average velocity is not necessarily equal to the magnitude of the average velocity.
+
+[Back to catalogue](#catalogue)
+
+### Acceleration
+
+
+Acceleration is a physical quantity in physics, a vector quantity, mainly used in classical physics, generally represented by the letter **a**, in the International System of Units is meters per square second (m/s²). Acceleration is the rate of change of the [velocity](#velocity) vector with respect to time, describing how fast or slow the direction and magnitude of the velocity change.
+
+In classical mechanics, [Newton's second law](#newtons-three-laws-of-motion) states that force is proportional to acceleration, also known as the "law of acceleration". Assuming that the resultant external force exerted on the object is zero, the acceleration is zero and the velocity is constant. Since momentum is the product of mass and velocity, [momentum](#momentum) is conserved at this time.
+
+To put it simply, velocity describes how the position changes, whereas acceleration describes how the velocity changes. For example, if an object is thrown horizontally forward, its velocity is initially straight forward, but due to [weight](#weight) it begins to fall downward at the same time as it is forward, i.e. its velocity changes. Here it is mainly the gravitational acceleration due to the gravitational force of the earth that changes the velocity of the object.
+
+Acceleration is vectorive, i.e., it needs to describe an acceleration in terms of magnitude and direction at the same time. If a force is applied to the left or right, i.e., a different acceleration is applied to an object moving forward on a smooth horizontal plane, the velocity of the object changes (including speed and direction). However, even if the speed is the same, the acceleration to the left and the acceleration to the right obviously have different effects. Similarly, the magnitude of the applied force is different, the acceleration caused by the difference is different, and the final result is also different, which can also be seen from the addition of vectors. As a vector, the superposition and decomposition of acceleration follow the parallelogram and triangle laws, respectively.
+
+Specifically, acceleration describes the rate of change of velocity over time. It is important to note that since velocity is also a vector, the magnitude of the velocity of an object with non-zero acceleration (called speed) does not necessarily change, in fact, if the acceleration remains perpendicular to the velocity, the magnitude of the velocity does not change, while the direction changes all the time. The most common condition in life is [circular motion](#circular-motion).
+
+The average acceleration could be represented by the following equation:
+
+**a=(v-u)/t**
+
+or 
+
+**ā=Δv/Δt**
+
+where a stands for average acceleration, v stands for final velocity, u stands for initial velocity and t stands for the time experienced.
+
+[Details](https://en.wikipedia.org/wiki/Acceleration#Instantaneous_acceleration)
+
+[Back to catalogue](#catalogue)
+
+### Weight
+
+Weight is the gravitational [force](#force). As a kind of force, weight is a vector quantity, which means it has both magnetude and direction. Gravity varies with **depth** and **latitude**.
+
+**W=mg**
+
+where W is weight, m is mass and g is the gravitational field strength. The gravitational field strength on Earth is approximately 9.8N/kg. 
+
+When we use a balance to measure the mass of an object, the balance is actually measuring the weight but displays the mass.
+
+[Back to catalogue](#catalogue)
+
+### Density
+
+Density refers to the mass per unit volume of a substance, often denoted by the Greek letter ρ or the English letter D. Mathematically, density is defined as the quotient of mass divided by volume. That is, the ratio of the mass to the volume of an object.
+
+**ρ=m/V**
+
+where ρ is density, m is mass, and V is volume.
+
+The unit of density in the SI system of units is kg/m3, and other commonly used units are g/cm3, and t/m3 commonly used in engineering.
+
+Density reflects a property of the substance itself, which can therefore be affected by external factors. Generally speaking, the main physical quantities that affect the density of substances are pressure and temperature. Gas density is significantly affected by pressure and temperature, usually the density of gas only gives standard conditions or normal temperature and pressure, and the density under other conditions can be calculated by the equation of state of the gas (such as the ideal gas equation of state or van der Waals equation). The density of a liquid depends mainly on the composition of the liquid and is less affected by temperature (but sometimes it cannot be ignored). High pressures also have a significant impact. The density of solids varies by temperature and pressure similar to that of liquids, and is generally less pronounced.
+
+In addition, there are other physical factors that may affect the density of matter, such as magnetic fields, electric fields, etc. As a whole of nature, extreme pressures can cause the density of matter in some celestial bodies to differ greatly from the usual density.
+
+[Back to catalogue](#catalogue)
+
+
+
+### Momentum
+
+Momentum could be simply considered as how difficult it is to stop a moving object. Generally speaking, the momentum of an object refers to the tendency of the object to remain in motion in the direction of its motion. Momentum is actually a corollary of [Newton's first law](#newtons-three-laws-of-motion). Momentum is a vector quantity that goes in the same direction as [velocity](#velocity). Momentum is also a conserved quantity, which is expressed as the immutability of the sum of momentum within a closed system. In classical mechanics, the conservation of momentum is implicit in Newton's laws, but it is still true in special relativity, and (generalized) momentum is also true in [electrodynamics](/branches/Electromagnesium.md), [quantum mechanics](/branches/QuantumMechanics.md), and general [relativity](/branches/Relativity.md).
+
+When an object moves in any one frame of reference, it has momentum in that particular frame of reference. It is important to note that momentum is a reference frame determinant. That is, the same object has definite momentum in one frame of reference, but it is possible to have different momentum in another.
+
+The value of an object's momentum depends on the value of two physical quantities: the mass and velocity of the moving object in the frame of reference.
+
+Momentum is expressed as:
+
+**p=mv**
+
+where p stands for momentum, m stands for mass and v stands for velocity. The unit of momentum is kg·m/s.
+
+Momentum has a special property: it remains constant as long as it is in a **closed system**, even when objects collide. Whereas, the [kinetic energy](#energy) will only be conserved in an [elastic collision](#elastic-collision). Therefore, the conservation of momentum can be used to calculate the unknown velocity after the collision.
+
+In physics, this particular property is used to solve the problem of two objects that collide. Because momentum is always constant, the sum of momentum before the collision must be equal to the sum of momentum after the collision:
+
+**m₁v₁+m₂v₂=m₁v₁'+m₂v₂'**
+
+It is important to note that at this time v is a vector.
+
+In general, we can calculate the velocity of an object after or before a collision by simply knowing the velocity of the object before (or after) the collision. There are two types of collisions, in both of which momentum is conserved:
+
+- In an **elastic collision**, the kinetic energy remains constant; 
+
+- In an **inelastic collision**, the kinetic energy is not kept constant.
+
+#### **Elastic collision**
+
+A good example of an elastic collision is a collision between two gas molecules in an ideal gas. When two gas molecules collide, the sum of kinetic energy and momentum before and after the collision remains the same.
+
+#### **The law of conservation of momentum**
+
+Momentum is a conserved quantity. The law of conservation of momentum is expressed as follows: If a system is not subjected to external forces or the sum of the external forces is zero, then the total momentum of all objects in the system remains constant. One of its corollaries is that in the absence of external force intervention, the center of mass of any system will remain in uniform linear motion or at rest. The law of conservation of momentum can be deduced from the translational symmetry of mechanical energy versus space.
+
+In a closed system (in the absence of external forces) the total momentum will be a conserved quantity, which is implicit in [Newton's first law of motion](#newtons-three-laws-of-motion).
+
+Because momentum is a vector quantity, after the bullet is fired from the gun that was stationary at first, although both the bullet and the gun are in motion, because the momentum of the bullet is the opposite of the momentum of the gun, they cancel each other out, so that the sum of the momentum in the system formed by the bullet and the gun is still zero.
+
+If the net force outside the system is zero, then the interaction force of the particles in the system is also zero (which can be regarded as Newton's third law, the principle of force reaction), so the change in momentum is zero, so the momentum is conserved. 
+
+The law of conservation of momentum is universal and applies to macroscopic and microscopic systems and reference frames.
+
+[Back to catalogue](#catalogue)
+
 
 ## Thermal physics
 
 ## Waves 
 
-## Electricity and magnetism
+### Sound
 
-## Nuclear physics
-
-## Space physics
-
-## **Fundamental acoustics**
-
-As for fundamental acoustics, we will illustrate basic knowledge about **sounds**.
-
-Sound is generated by the **vibration** of an object. The propagation of sound requires a **medium**, which can propagate in gases, liquids and solids, but vacuum *cannot* transmit sound. The speed of sound propagation in different substances is also different, generally the fastest in solids, followed by liquids, the slowest in gases. Moreover, the speed of propagation in the gas is also related to the temperature and pressure of the gas. Under normal circumstances, the speed of sound is about 331+0.6*Celsius m/s, and the speed of sound is about 340 m/s at room temperature (15 degrees Celsius).
+**Sound** is generated by the **vibration** of an object. The propagation of sound requires a **medium**, which can propagate in gases, liquids and solids, but vacuum *cannot* transmit sound. The speed of sound propagation in different substances is also different, generally the fastest in solids, followed by liquids, the slowest in gases. Moreover, the speed of propagation in the gas is also related to the temperature and pressure of the gas. Under normal circumstances, the speed of sound is about 331+0.6*Celsius m/s, and the speed of sound is about 340 m/s at room temperature (15 degrees Celsius).
 
 In general, the longer the wavelength of the propagation of sound is, the farther the sound can travel(which seems similar to electromagnetic wave), but it is easily distorted by scattering. Conversely, sound with a short wavelength, although the energy attenuation is fast, is not easy to scatter, and can transmit sound in a straight line.
 
@@ -90,6 +211,14 @@ Ultrasound is widely used in life. Learning from bats, radar locates by transmit
 The so-called scale in music, The frequency of each octave is twice as different (the alto DO Iis about 262Hz, which is twice that of 131HZ of bass DO). Each semitone rate increases by 21/12x (about 1.0595x) in the respective scales.
 
 [Back to catalogue](#catalogue)
+
+
+## Electricity and magnetism
+
+## Nuclear physics
+
+## Space physics
+
 
 ## **Fundamental thermology**
 
@@ -219,11 +348,9 @@ As a common substance with a relatively great specific heat capacity, water is o
 
 [Back to catalogue](#catalogue)
 
-## **Fundamental optics**
+### Light
 
-As for fundamental optics, we will illustrate basic knowledge about **light** and **lens**.
-
-Light is an electromagnetic wave whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#density) of the medium, which is opposite of sound waves. 
+**Light** is an electromagnetic wave whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#density) of the medium, which is opposite of sound waves. 
 
 Light travels in a straight line. This feature is widely used in human technologies, for example, the scope of the sniper rifle is made using this principle. However, light may change its direction when it meets a different medium. There are three basic ways to change the propagation of light waves: **[Reflection](#reflection)** , **[Refraction](#refraction)** and **[Diffraction](#diffraction)**.Light can also create an **[Image](#image)**.
 
@@ -261,7 +388,7 @@ Refraction is also responsible for the rainbow and the splitting of light into c
 
 The refractive index of air is related to its density, so it changes with air temperature and pressure. Due to the lower air pressure at high altitudes and the smaller refractive index, light refracts to the surface when traveling long distances through the atmosphere, which makes stars close to the horizon appear to be slightly offset, and allows us to see the sun first at sunrise, even if it has not risen geometrically above the horizon.Changes in temperature near the surface can lead to other optical phenomena , such as mirages or complex mirages.
 
-#### Dispersion
+#### **Dispersion**
 
 In optics, dispersion is the phenomenon in which the phase velocity of a light wave changes with frequency. We refer to media with this property as dispersive medium.
 
@@ -271,7 +398,7 @@ Although the term dispersion is used in the field of optics to describe light wa
 
 This is a diagram of dispersion of white light while passing through a prism.
 
-#### Lens
+#### **Lens**
 
 A lens is an optical device that **aggregates** or **disperses** light through **refraction**, usually made of a piece of glass, but similar devices used for other electromagnetic radiation are also commonly called lenses, such as: microwave lenses made of paraffin, magnifying glasses made of transparent materials such as glass, resin, plastic, or crystal, glasses, etc., are also lenses.
 
@@ -346,104 +473,9 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 As for fundamental dynamics, we will illustrate basic knowledge about [velocity](#velocity), [acceleration](#acceleration), [momentum](#momentum), [moment](#moment), [Newton's three laws of motion](#newton's-three-laws-of-motion), [falling & parachuting](#falling--parachuting) and [circular motions](#circular-motion).
 
 
-### Velocity
-
-Velocity is a physical quantity that describes how fast or slow an object is moving, and in what direction it is moving.
-
-The velocity of an object is the rate of change of its position with respect to the frame of reference and is a function of time. The speed is equivalent to the specification of the object's velocity and direction of motion (e.g., 60 kilometers per hour to the north).
-
-Velocity is a basic concept in kinematics, a branch of classical mechanics that describes the motion of an object. If the velocity, direction, or both are changed, the velocity of the object changes and it is said to be accelerating.
-
-Velocity is a physical vector quantity; both amplitude and direction are required to define it. The absolute scalar value (magnitude) of velocity is called velocity and is a coherently derived unit whose quantity is measured in SI (metric) in meters per second (m/s) or as the SI base unit of (m⋅s-1). For example, "5 meters per second" is a scalar quantity, while "5 meters per second in the east" is a vector.
-
-Velocity is defined as the rate of change of a position with respect to time and can also be referred to as instantaneous velocity to emphasize the difference from average velocity. The average velocity of an object over a period of time t is the ratio of its displacement d to the time interval during that time:
-
-**v=d/t**
-
-The instantaneous velocity of an object at a given moment is defined as the rate of change of the position vector over time:
-
-**v=dd/dt**
-
-The velocity of an object is usually mentioned in physics as its instantaneous velocity. The unit of speed in the International System of Units is meters per second, the international symbol is m/s, and the Chinese symbol is meters per second. In the framework of relativity, the upper limit of an object's velocity is the speed of light.
-
-In everyday life, "velocity" and "velocity" are used interchangeably, but the two correspond to different concepts in physics: velocity is a scalar quantity (only magnitude, no direction), and its dimension is distance divided by time; Velocity is a vector quantity (with direction) and its dimension is bit removed with time. For example, if a car is traveling due north at a rate of 60 km/h, its velocity is a vector of magnitude equal to 60 km/h and pointing to true north. The instantaneous velocity of an object is equal to the magnitude of the instantaneous velocity, whereas the average velocity is not necessarily equal to the magnitude of the average velocity.
-
-[Back to catalogue](#catalogue)
 
 
-### Acceleration
 
-
-Acceleration is a physical quantity in physics, a vector quantity, mainly used in classical physics, generally represented by the letter **a**, in the International System of Units is meters per square second (m/s²). Acceleration is the rate of change of the [velocity](#velocity) vector with respect to time, describing how fast or slow the direction and magnitude of the velocity change.
-
-In classical mechanics, [Newton's second law](#newtons-three-laws-of-motion) states that force is proportional to acceleration, also known as the "law of acceleration". Assuming that the resultant external force exerted on the object is zero, the acceleration is zero and the velocity is constant. Since momentum is the product of mass and velocity, [momentum](#momentum) is conserved at this time.
-
-To put it simply, velocity describes how the position changes, whereas acceleration describes how the velocity changes. For example, if an object is thrown horizontally forward, its velocity is initially straight forward, but due to [weight](#weight) it begins to fall downward at the same time as it is forward, i.e. its velocity changes. Here it is mainly the gravitational acceleration due to the gravitational force of the earth that changes the velocity of the object.
-
-Acceleration is vectorive, i.e., it needs to describe an acceleration in terms of magnitude and direction at the same time. If a force is applied to the left or right, i.e., a different acceleration is applied to an object moving forward on a smooth horizontal plane, the velocity of the object changes (including speed and direction). However, even if the speed is the same, the acceleration to the left and the acceleration to the right obviously have different effects. Similarly, the magnitude of the applied force is different, the acceleration caused by the difference is different, and the final result is also different, which can also be seen from the addition of vectors. As a vector, the superposition and decomposition of acceleration follow the parallelogram and triangle laws, respectively.
-
-Specifically, acceleration describes the rate of change of velocity over time. It is important to note that since velocity is also a vector, the magnitude of the velocity of an object with non-zero acceleration (called speed) does not necessarily change, in fact, if the acceleration remains perpendicular to the velocity, the magnitude of the velocity does not change, while the direction changes all the time. The most common condition in life is [circular motion](#circular-motion).
-
-The average acceleration could be represented by the following equation:
-
-**a=(v-u)/t**
-
-or 
-
-**ā=Δv/Δt**
-
-where a stands for average acceleration, v stands for final velocity, u stands for initial velocity and t stands for the time experienced.
-
-[Details](https://en.wikipedia.org/wiki/Acceleration#Instantaneous_acceleration)
-
-[Back to catalogue](#catalogue)
-
-
-### Momentum
-
-Momentum could be simply considered as how difficult it is to stop a moving object. Generally speaking, the momentum of an object refers to the tendency of the object to remain in motion in the direction of its motion. Momentum is actually a corollary of [Newton's first law](#newtons-three-laws-of-motion). Momentum is a vector quantity that goes in the same direction as [velocity](#velocity). Momentum is also a conserved quantity, which is expressed as the immutability of the sum of momentum within a closed system. In classical mechanics, the conservation of momentum is implicit in Newton's laws, but it is still true in special relativity, and (generalized) momentum is also true in [electrodynamics](/branches/Electromagnesium.md), [quantum mechanics](/branches/QuantumMechanics.md), and general [relativity](/branches/Relativity.md).
-
-When an object moves in any one frame of reference, it has momentum in that particular frame of reference. It is important to note that momentum is a reference frame determinant. That is, the same object has definite momentum in one frame of reference, but it is possible to have different momentum in another.
-
-The value of an object's momentum depends on the value of two physical quantities: the mass and velocity of the moving object in the frame of reference.
-
-Momentum is expressed as:
-
-**p=mv**
-
-where p stands for momentum, m stands for mass and v stands for velocity. The unit of momentum is kg·m/s.
-
-Momentum has a special property: it remains constant as long as it is in a **closed system**, even when objects collide. Whereas, the [kinetic energy](#energy) will only be conserved in an [elastic collision](#elastic-collision). Therefore, the conservation of momentum can be used to calculate the unknown velocity after the collision.
-
-In physics, this particular property is used to solve the problem of two objects that collide. Because momentum is always constant, the sum of momentum before the collision must be equal to the sum of momentum after the collision:
-
-**m₁v₁+m₂v₂=m₁v₁'+m₂v₂'**
-
-It is important to note that at this time v is a vector.
-
-In general, we can calculate the velocity of an object after or before a collision by simply knowing the velocity of the object before (or after) the collision. There are two types of collisions, in both of which momentum is conserved:
-
-- In an **elastic collision**, the kinetic energy remains constant; 
-
-- In an **inelastic collision**, the kinetic energy is not kept constant.
-
-#### **Elastic collision**
-
-A good example of an elastic collision is a collision between two gas molecules in an ideal gas. When two gas molecules collide, the sum of kinetic energy and momentum before and after the collision remains the same.
-
-#### **The law of conservation of momentum**
-
-Momentum is a conserved quantity. The law of conservation of momentum is expressed as follows: If a system is not subjected to external forces or the sum of the external forces is zero, then the total momentum of all objects in the system remains constant. One of its corollaries is that in the absence of external force intervention, the center of mass of any system will remain in uniform linear motion or at rest. The law of conservation of momentum can be deduced from the translational symmetry of mechanical energy versus space.
-
-In a closed system (in the absence of external forces) the total momentum will be a conserved quantity, which is implicit in [Newton's first law of motion](#newtons-three-laws-of-motion).
-
-Because momentum is a vector quantity, after the bullet is fired from the gun that was stationary at first, although both the bullet and the gun are in motion, because the momentum of the bullet is the opposite of the momentum of the gun, they cancel each other out, so that the sum of the momentum in the system formed by the bullet and the gun is still zero.
-
-If the net force outside the system is zero, then the interaction force of the particles in the system is also zero (which can be regarded as Newton's third law, the principle of force reaction), so the change in momentum is zero, so the momentum is conserved. 
-
-The law of conservation of momentum is universal and applies to macroscopic and microscopic systems and reference frames.
-
-[Back to catalogue](#catalogue)
 
 ### Moment
 
@@ -588,38 +620,9 @@ According to the formulas mentioned above, we can deduce new formulas to represe
 [Back to catalogue](#catalogue)
 
 
-## **Fundamental mechanics**
-
-As for fundamental mechanics, we will illustrate basic knowledge about [weight](#weight), [density](#density), [forces](#force), [pressure](#pressure) and [work](#work). 
-
-### Weight
-
-Weight is the gravitational [force](#force). As a kind of force, weight is a vector quantity, which means it has both magnetude and direction. Gravity varies with **depth** and **latitude**.
-
-**W=mg**
-
-where W is weight, m is mass and g is the gravitational field strength. The gravitational field strength on Earth is approximately 9.8N/kg. 
-
-When we use a balance to measure the mass of an object, the balance is actually measuring the weight but displays the mass.
-
-[Back to catalogue](#catalogue)
 
 
-### Density
 
-Density refers to the mass per unit volume of a substance, often denoted by the Greek letter ρ or the English letter D. Mathematically, density is defined as the quotient of mass divided by volume. That is, the ratio of the mass to the volume of an object.
-
-**ρ=m/V**
-
-where ρ is density, m is mass, and V is volume.
-
-The unit of density in the SI system of units is kg/m3, and other commonly used units are g/cm3, and t/m3 commonly used in engineering.
-
-Density reflects a property of the substance itself, which can therefore be affected by external factors. Generally speaking, the main physical quantities that affect the density of substances are pressure and temperature. Gas density is significantly affected by pressure and temperature, usually the density of gas only gives standard conditions or normal temperature and pressure, and the density under other conditions can be calculated by the equation of state of the gas (such as the ideal gas equation of state or van der Waals equation). The density of a liquid depends mainly on the composition of the liquid and is less affected by temperature (but sometimes it cannot be ignored). High pressures also have a significant impact. The density of solids varies by temperature and pressure similar to that of liquids, and is generally less pronounced.
-
-In addition, there are other physical factors that may affect the density of matter, such as magnetic fields, electric fields, etc. As a whole of nature, extreme pressures can cause the density of matter in some celestial bodies to differ greatly from the usual density.
-
-[Back to catalogue](#catalogue)
 
 
 ### Force
@@ -772,3 +775,7 @@ The competition will be held for at least two days and five hours each. The firs
 Olympiad medals and honours are awarded according to the following rules: Gold medals are awarded to the top 8% of participants. The conditions for the silver medal are the best 25% (minus the gold medalist) of the participants. The conditions for the bronze medal are the best 50% (minus the gold and silver medalists) of the participants. The best 67% (minus the gold, silver and bronze medalists) will receive medals. All participants will receive a badge. The contestant with the highest overall score, the highest female overall score, the highest theoretical paper, and the highest experimental paper will receive a special prize.
 
 [Back to catalogue](#catalogue)
+
+## **Practice questions**
+
+## **More References**
