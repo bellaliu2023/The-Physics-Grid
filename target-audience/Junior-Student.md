@@ -4,18 +4,18 @@ This section will be suitable for students who have just embarked on a journey o
 
 ## **Catalogue**
 
-- **[Motion forces and energy](#motion-forces-and-energy)**
+- **[Motion forces and energy](#motion-forces-and-energy)** √
 
-    - [Velocity](#velocity)√
-    - [Acceleration](#acceleration)√
-    - [Weight](#weight)√
-    - [Density](#density)√
+    - [Velocity](#velocity)
+    - [Acceleration](#acceleration)
+    - [Weight](#weight)
+    - [Density](#density)
     - [Force](#force)
     - [Newton's three laws of motion](#newtons-three-laws-of-motion)
     - [Falling & parachuting](#falling--parachuting)
     - [Circular motion](#circular-motion)
     - [Moment](#moment)
-    - [Momentum](#momentum)√
+    - [Momentum](#momentum)
     - [Work](#work)
     - [Power](#power)
     - [Pressure](#pressure)
@@ -135,6 +135,199 @@ In addition, there are other physical factors that may affect the density of mat
 
 [Back to catalogue](#catalogue)
 
+### Force
+
+Force is the interaction between objects. Force can change the velocity or direction of motion of an object, or deform an object. Force is a vector quantity and has properties of magnitude and direction. According to [Newton's second law](#newtons-three-laws-of-motion), when the velocity of an object is much lower than the speed of light, the resultant force experienced by it is equal to the product of its mass and acceleration. According to the effect of force, force can be divided into thrust, pull, support and resistance; According to the nature of force, force can be divided into elastic force, gravity, friction force and electromagnetic force. The concept of force also includes the moment that changes the speed of the shaft.
+
+In this section, we will also introduce some theory of [elasticity](#hookes-law) and [friction](#friction).
+
+#### **Hooke's law**
+
+Shapes of objects can be changed by force. As for plastic objects, such as clay, they stays the same shape after the force is removed.As for elastic objects, such as string, they tend to return to their original shapes and therefore exert an elastic force against the force that changed their shapes. Hooke's law illustrates that a material resists with a force proportional to its extension or conpression before elastic limit, which is expressed as:
+
+**F=kx**
+
+where F stands for force that changed the shape of the object, x stands for extension or compression and k stands for the spring constant, or so-called "stiffness".
+
+![Force Extension Graph](/images/force_extension_graph.png)
+
+However, there's a difference between the force-extension graph of adding force and the graph of removing the force.
+
+![loading and unloading graph](/images/strain_33.gif)
+
+This is because the [temperature](#temperature) of the system will increase because of the [work](#work) done to it and make it less stiff.
+
+
+#### **Friction**
+
+Friction refers to the force that hinders the relative motion of two rough objects in contact with each other or when there is a tendency to move relative to each other, and is a term in classical mechanics. Broadly speaking, objects are also subjected to frictional forces when they move in liquids and gases.
+
+Friction occurs:
+
+- When an object slides or is about to slide on the surface of another object, the two objects will produce a force on the contact surface that prevents the relative motion, and this force is called friction.
+- Objects at rest or in motion can generate friction on the contact surface.
+- The frictional force is opposite to the direction of the relative motion of the object.
+
+Friction is related to objects rubbing against each other, so the description of friction in physics is not generalized and not as precise as other forces. In fact, it is only when one ignores friction that one can derive the fundamental laws in mechanics.
+
+Friction comes from the adhesion between the contact surfaces of two objects, but the amount of friction has little to do with the size of the contact area.
+
+The frictional force between solid surfaces is divided into state friction and dynamic friction. In engineering, lubricants are used to reduce friction. If two surfaces rubbing against each other are separated by a layer of liquid, then liquid friction can occur between them, and mixed friction can also occur if the liquid is not completely isolated.
+
+- **State Friction**
+
+    When solids do not slide against each other, the friction between the contact surfaces is called static friction, and it has a maximum value called maximum static friction. Generally speaking, the static friction is obtained by the equilibrium equation, and the maximum static friction can be described by the friction law, and it is possible to judge whether the solids slide against each other by judging the magnitude relationship between the obtained static friction and the maximum static friction.
+
+- **Dynamic Friction**
+
+    The dynamic friction is the kinetic friction that resists the motion of an object including moving or sliding. Due to the fact that in real life, friction always occurs since there's no surface that's absolutely smooth, a force must be applied to keep something moving. The key effect of dynamic friction is the [energy](#energy) transferring. This is the principle of drilling wood for fire. The kinetic energy of the spinning wood piece is transferred to another static piece of wood through friction and raises its temperature. The wood eventually started to burn.
+
+
+[Back to catalogue](#catalogue)
+
+### Newton's Three Laws of Motion
+
+- **Newton's 1st Law of Motion**
+
+    Newton's first law of motion states that if the **external force** exerted on an object is zero, the speed of motion of the object does not change. According to this law, assuming that no external force is applied or the sum of the applied external forces is zero, then the object in motion always remains in a state of uniform linear motion, and the object at rest always remains at rest. The property exhibited by an object that maintains an unchanging state of motion is called **inertia**. Newton's first law, also known as the "law of inertia", is only established in an inertial frame of reference, also known as a "Newtonian frame of reference".
+
+    From the first law, the following can be inferred:
+
+    A stationary object remains stationary unless an external force is applied to it.
+
+    An object in motion does not change its velocity unless an external force is applied to the object. Note that velocity is a vector quantity, and the magnitude and direction of the velocity of the object do not change.
+
+    According to the first law, it is possible to determine whether there is an external force acting on the object by measuring whether the velocity of the object changes, but the first law does not give the magnitude of the external force, nor does it give the source of the external force, it only attributes the change in the velocity of the object to the exertion of the external force on the object. From another point of view, the motion of an object can only be changed because of the exertion of an external force on the object, otherwise, the motion of the object will remain the same forever, which means that the object has a certain property of laziness to change the state of motion, which is called the inertia of the object.
+
+- **Newton's 2nd Law of Motion**
+
+    Newton's second law of motion states that the external force experienced by an object is equal to the first derivative of momentum versus time (the first differential value). Newton's second law can also be expressed as the product of mass and acceleration when the mass of an object does not change in motion.
+
+    Newton's second law states that the external force exerted on an object is equal to the time-varying rate of the momentum of the object:
+
+    **F=dp/dt**
+   
+    where p is momentum and t is time. Since momentum is equal to mass multiplied by velocity, Newton's second law can be expressed as follows: the external force experienced by the object is equal to the product of mass and acceleration, and acceleration is in the same direction as the external force. Expressed in equations,
+
+    **F=ma**
+
+    where F is the external force, m is the mass, and a is the acceleration.
+
+    According to the second law, if the mass of an object is constant, the acceleration of the object is proportional to the external force exerted, and the acceleration of the object is inversely proportional to the mass, assuming that the external force on the object is constant.
+
+    Suppose an external force is applied to an object, since the acceleration of the object is only related to the external force and mass, in any case, the object with the same mass will exhibit the same acceleration:
+
+    **a=F/m**
+
+    - ***Inertial frame of reference***: To know the acceleration of an object at a certain moment, the displacement of the object as a result of time must be measured from a stationary object (or an object moving in a straight line at a uniform velocity), while the stationary object (or an object moving in a straight line with uniform velocity) must remain in motion from an inertial frame of reference if the external force is zero, which means that the entire physical system must be measured from the inertial frame of reference. Therefore, Newton's second law assumes in advance that the acceleration of an object is a numerical value measured from an inertial frame of reference.
+    - ***Conservation of mass***: Classical mechanics has a hidden assumption, the conservation of mass, which is also known as Newton's zero-law of motion. Newton did not directly propose this law. The zeroth law of motion states that the mass of an object is conserved, independent of velocity, and independent of the force exerted on the object. When several objects interact, there may be a transfer of mass from one object to another, but the total mass remains the same.
+    - ***Determinism***: Newton's second law is a law of determinism. Assuming that the mass, initial position, and initial velocity of an object are known quantities, Newton's second law can be applied to calculate the position and velocity of an object at any time in its trajectory from the external forces applied to it.
+
+- **Newton's 3rd Law of Motion**
+
+    In classical mechanics, Newton's third law of motion states that when two objects interact with each other, the forces exerted on each other are **equal in magnitude**, **opposite in direction**, and **acting on the same straight line**. The forces will inevitably appear in pairs: one of them is called the "acting force"; The other force is called "reaction force" (Latin translation of actio and reactio), also known as "resistance"; The magnitude of the two forces is equal and the direction is opposite. The distinction between them is purely arbitrary; Any force can be considered as an acting force, and its corresponding force naturally becomes a concomitant reaction force. This pairing force and reaction force is called a "pairing force". Newton's third law of motion originally described the relationship between action and reaction, i.e., action equals reaction.
+
+    The third law is *not* a general law of nature, it only applies to certain forces, such as mental forces. Both electrostatic force and gravitational force are mental forces, so the third law can be used for mechanical analysis. Any force that involves the velocity of an object is not a mental force and cannot be analyzed using the third law, for example, the force of interaction between two moving electric charges is not a mental force, and the gravitational force of two moving objects interacting with each other is not a mental force, and the third law does not apply to these forces.
+
+[Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+
+[Back to catalogue](#catalogue)
+
+### Falling & Parachuting
+
+The progress of a pilot parachuting could be briefly divided into the following four stages: jumping off a plane, falling, opening a parachute and falling with it continuously. Let's see how the dynamics theories affect and determine this progress.
+
+**Stage 1**
+
+Immediately after the pilot started to fall, the weight of the pilot is much larger than the air resistance the pilot is experiencing. As a result, the direction of the resultant force acting on the pilot should be vertically downwards. According to [Newton's second law of motion](#newtons-three-laws-of-motion), the direction of the acceleration will also be pointing downwards. Therefore the pilot will be accelrating downwards immediately after the fall.
+
+![stage 1](/images/stage1.jpg)
+
+
+**Stage 2**
+
+After the pilot started to fall, the speed of the falling pilot increases due to the downward acceleration. The air resistance increases as the speed increases, making the resultant force acting on the pilot become smaller and so is the acceleration. When the air resistance eventually becomes equal to the weight of the pilot, there will be no acceleration and the pilot reaches terminal velocity.
+
+![stage 2](/images/stage2.jpg)
+
+**Stage 3**
+
+As soon as the pilot opens the parachute, the force of air resistance increases rapidly and the resultant force becomes vertically upward. The upward acceleration caused by the resultant force results in the decreasing falling speed of the pilot.
+
+![stage 3](/images/stage3.jpg)
+
+**Stage 4**
+
+The speed of the falling pilot decreases due to the upward acceleration. The air resistance decreases as the speed decreases and finally becomes equal to the weight of the pilot again. The pilot reaches a new terminal velocity which is much smaller than the first one. The pilot is able to land safely at this speed.
+
+![stage 4](/images/stage4.jpg)
+
+
+The picture below is a velocity-time graph of the whole process.
+
+![v-t graph](/images/graph.jpg)
+
+[Back to catalogue](#catalogue)
+
+### Circular motion
+
+![Circular motion diagram](/images/OIP.jfif)
+
+
+In physics, circular motion refers to a motion in which the trajectory is a circle or part of a circle.
+
+Examples of circular motion are: the motion of an artificial satellite with a circular orbit, the motion of an electron perpendicular to a uniform magnetic field, and so on.
+
+The circular motion of a particle can be decomposed in two directions: the **tangent** of the track and the **normal** of the track.
+
+The tangential component of the acceleration of a particle is called tangential acceleration. The tangential acceleration changes the linear velocity of the particle along the orbit without changing the direction. The component of the acceleration in the normal becomes the normal acceleration. Since the normal acceleration is always directed towards the center of the circle in a circular motion, this acceleration is also known as **centripetal acceleration**. The centripetal acceleration changes the direction of the velocity of the particle and does not change the magnitude.
+
+A motion with a tangent acceleration of zero magnitude is called a uniform circular motion.
+
+For uniform circular motion, the following equation and component equation are met:
+
+- **θ=ωt**
+
+- **v=rω**
+
+- **a=rω²**
+
+- **ω=2π/T**
+
+where v is the linear velocity, a is the centripetal acceleration, T is the period,
+ω is the angular velocity (unit: rad/s).
+
+According to the formulas mentioned above, we can deduce new formulas to represent the centripetal acceleration a, for example **a=v²/r** and **a=vω**. These new equations will help us calculate the values in the real problem more quickly.
+
+[More about angular velocity](https://en.wikipedia.org/wiki/Angular_velocity)
+
+[More about circular motion](https://en.wikipedia.org/wiki/Circular_motion)
+
+[Back to catalogue](#catalogue)
+
+
+### Moment
+
+[Forces](#force) that act on an object that has a fixed point may make the object rotate. Moments are the turning effect of an object. Moment could be clockwise or anti-clockwise. When more than one force acts in the same direction, their overall turning effect is just the sum of their moments.
+
+The moment of a force is given by:
+
+**moment = F·d**
+
+where F stands for the force and d stands for the perpendicular distance from pivot. There is no official character symbol to represent moment. The usual unit for moment is the **newton-meter (Nm)**. From the formula, we can deduce that in order to make an object rotate, the farther the force is from the pivot, the less force is required. This is how **lever** structures in everyday life such as scissors, tongs, steering wheels, etc., work.
+
+When an object is in **equilibrium**, both the resultant force and the sum of moments of it would be 0.
+
+When forces act in a different direction, yet still balance or still in equilibrium, the total turning effect in each direction will be the same. If you consider forces and moments as vectors, as they have certain directions, the total turning effect on the balanced object would be 0. This could be represented as: 
+
+**sum of clockwise moments = sum of anti-clockwise moments**
+
+or
+
+**moment at point 1 + moment at point 2 = 0**
+
+[Back to catalogue](#catalogue)
+
 
 
 ### Momentum
@@ -183,6 +376,93 @@ The law of conservation of momentum is universal and applies to macroscopic and 
 
 [Back to catalogue](#catalogue)
 
+### Work
+
+Work, also called mechanical work, is a physical quantity in physics that represents the accumulation of **force** to **displacement**, and refers to the **[energy](#energy) transition** from one physical system to another, especially the transfer of energy under the action of a force that moves an object in the direction of the force. Similar to mechanical energy, work is also a scalar quantity, and the SI unit is **joules**.
+
+Even if there is force, no work may be done. For example, in a uniform circular motion, the centripetal force does not do work because there is no change in the kinetic energy of the object doing circular motion. In the same way, a book on the table, although the table is supportive of the book, does not do work because it is not displaced.
+
+According to the kinetic energy theorem, if an external force acts on an object to increase its kinetic energy from Ek0 to Ek, then the mechanical work done by this force is:
+
+**W=△Ek=Ek-Ek0=½m(v²-v0²)**
+
+where m is the mass of the object and v is the velocity of the object.
+
+Mechanical work is the internal product of force and displacement:
+
+**W=Fd**
+
+If the angle between force and displacement is less than the right angle, then the mechanical work is positive, also known as the force doing positive work. If the angle between force and displacement is greater than the right angle, then the mechanical work is negative, or the force does negative work, or the object overcomes the force to do the work.
+
+If the direction of the force is perpendicular to the direction of displacement, then this force does not do work.
+
+[Back to catalogue](#catalogue)
+
+### Power
+
+Power is defined as the rate at which [energy](#energy) is converted or used, expressed in terms of the amount of energy per unit of time, that is, the rate at which [work](#work) is done. The international standard unit of power is the watt (W), named after James Watt, the designer of the steam engine in the 18th century. The amount of electrical energy converted into heat and light energy per unit time of the bulb can be expressed in terms of power, and the higher the wattage, the higher the capacity (or electricity) per unit time.
+
+Energy conversion can do work, and power is also the rate at which work is done. When a person climbs a staircase with a heavy object, whether he walks up the stairs slowly or runs up the stairs quickly, the work done on the heavy object is the same, but if its power is considered, running up the stairs will do the same amount of work on the object in a shorter time, so its power is larger. The output power of an electric motor is the product of the torque generated by the motor and the angular velocity of the motor, while the forward power of the vehicle is the product of the traction force on the wheels and the speed of the vehicle.
+
+**Formula**:
+
+- *Average power:* **P=W/t**
+
+    Where P stands for power, W stands for total work done and t stands for the lasting time.
+
+- *Mechanical power:* **P=Fv**
+
+    Where P stands for power, F stands for force and v stands for velocity. This formula is deduced by the formula of work done "**W=Fd**" and the formula of velocity "**v=d/t**".
+
+- *Electrical power:* **P=VI**
+    
+    Where P stands for power, V stands for voltage and I stands for current. This formula is deduced by the formula of electrical work done "**W=VIt**" and the formula of average power "**P=W/t**".
+
+[Back to catalogue](#catalogue)
+
+### Pressure
+
+Pressure (symbol: p or P) is the force applied perpendicular to the surface of an object per unit area over which that force is distributed.[1]: 445  Gauge pressure (also spelled gage pressure)[a] is the pressure relative to the ambient pressure.
+
+Various units are used to express pressure. Some of these derive from a unit of force divided by a unit of area; the SI unit of pressure, the pascal (Pa), for example, is one newton per square metre (N/m2); similarly, the pound-force per square inch (psi, symbol lbf/in2) is the traditional unit of pressure in the imperial and US customary systems. Pressure may also be expressed in terms of standard atmospheric pressure; the atmosphere (atm) is equal to this pressure, and the torr is defined as 1⁄760 of this. Manometric units such as the centimetre of water, millimetre of mercury, and inch of mercury are used to express pressures in terms of the height of column of a particular fluid in a manometer.
+
+Pressure is the amount of force applied perpendicular to the surface of an object per unit area. The symbol for it is "p" or P.[2] The IUPAC recommendation for pressure is a lower-case p.[3] However, upper-case P is widely used. The usage of P vs p depends upon the field in which one is working, on the nearby presence of other symbols for quantities such as power and momentum, and on writing style.
+
+**Formula**
+Mathematically:  **p=F/A**
+where:
+- p is the pressure,
+- F is the magnitude of the normal force,
+- A is the area of the surface on contact.
+
+Pressure is a **scalar quantity**. It relates the vector area element (a vector normal to the surface) with the normal force acting on it. 
+
+**Pressure in Liquid**
+
+Properties:
+
+- *Increases with depth*. The deeper a liquid is, the greater the [weight](#weight) above, and so the higher the pressure. 
+- *Acts in all directions*.The liquid pushes on all surfaces it is in contact with.
+
+Formula:
+
+**p=ρgh**
+
+Where p stands for pressure, ρ stands for [density](#density), g stands for gravitational strength field and h stands for height (or depth, in the case of a liquid).
+
+**Pressure in Gas**
+
+Properties: 
+
+- *Acts in all directions*. Particles in a gas move randomly around and collide with the wall of the container, exerting a pressure.
+- *The air pressure decrease as you rise up through the atmosphere*. The atmosphere is denser at lower levels. At sea level, atmospheric pressure is about 105 kPa (= 105000 Pa).
+
+
+![barometer](/images/barometer.jpg)
+
+This is a mercury barometer.It is the first measuring apparatus of the air pressure. The mercury column gets higher as the surrounding air pressure increase. At sea level, 760mm of mercury can be supported. 
+
+[Back to catalogue](#catalogue)
 
 ## Thermal physics
 
@@ -284,27 +564,7 @@ According to the way of heat transfer and process requirements, heat exchangers 
 
 [Back to catalogue](#catalogue)
 
-### Power
 
-Power is defined as the rate at which [energy](#energy) is converted or used, expressed in terms of the amount of energy per unit of time, that is, the rate at which [work](#work) is done. The international standard unit of power is the watt (W), named after James Watt, the designer of the steam engine in the 18th century. The amount of electrical energy converted into heat and light energy per unit time of the bulb can be expressed in terms of power, and the higher the wattage, the higher the capacity (or electricity) per unit time.
-
-Energy conversion can do work, and power is also the rate at which work is done. When a person climbs a staircase with a heavy object, whether he walks up the stairs slowly or runs up the stairs quickly, the work done on the heavy object is the same, but if its power is considered, running up the stairs will do the same amount of work on the object in a shorter time, so its power is larger. The output power of an electric motor is the product of the torque generated by the motor and the angular velocity of the motor, while the forward power of the vehicle is the product of the traction force on the wheels and the speed of the vehicle.
-
-**Formula**:
-
-- *Average power:* **P=W/t**
-
-    Where P stands for power, W stands for total work done and t stands for the lasting time.
-
-- *Mechanical power:* **P=Fv**
-
-    Where P stands for power, F stands for force and v stands for velocity. This formula is deduced by the formula of work done "**W=Fd**" and the formula of velocity "**v=d/t**".
-
-- *Electrical power:* **P=VI**
-    
-    Where P stands for power, V stands for voltage and I stands for current. This formula is deduced by the formula of electrical work done "**W=VIt**" and the formula of average power "**P=W/t**".
-
-[Back to catalogue](#catalogue)
 
 
 ### Change of states
@@ -468,280 +728,23 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
  [Back to catalogue](#catalogue)   
 
 
-## **Fundamental dynamics**
 
-As for fundamental dynamics, we will illustrate basic knowledge about [velocity](#velocity), [acceleration](#acceleration), [momentum](#momentum), [moment](#moment), [Newton's three laws of motion](#newton's-three-laws-of-motion), [falling & parachuting](#falling--parachuting) and [circular motions](#circular-motion).
 
 
 
 
 
 
-### Moment
 
-[Forces](#force) that act on an object that has a fixed point may make the object rotate. Moments are the turning effect of an object. Moment could be clockwise or anti-clockwise. When more than one force acts in the same direction, their overall turning effect is just the sum of their moments.
 
-The moment of a force is given by:
 
-**moment = F·d**
 
-where F stands for the force and d stands for the perpendicular distance from pivot. There is no official character symbol to represent moment. The usual unit for moment is the **newton-meter (Nm)**. From the formula, we can deduce that in order to make an object rotate, the farther the force is from the pivot, the less force is required. This is how **lever** structures in everyday life such as scissors, tongs, steering wheels, etc., work.
 
-When an object is in **equilibrium**, both the resultant force and the sum of moments of it would be 0.
 
-When forces act in a different direction, yet still balance or still in equilibrium, the total turning effect in each direction will be the same. If you consider forces and moments as vectors, as they have certain directions, the total turning effect on the balanced object would be 0. This could be represented as: 
-
-**sum of clockwise moments = sum of anti-clockwise moments**
-
-or
-
-**moment at point 1 + moment at point 2 = 0**
-
-[Back to catalogue](#catalogue)
-
-### Newton's Three Laws of Motion
-
-- **Newton's 1st Law of Motion**
-
-    Newton's first law of motion states that if the **external force** exerted on an object is zero, the speed of motion of the object does not change. According to this law, assuming that no external force is applied or the sum of the applied external forces is zero, then the object in motion always remains in a state of uniform linear motion, and the object at rest always remains at rest. The property exhibited by an object that maintains an unchanging state of motion is called **inertia**. Newton's first law, also known as the "law of inertia", is only established in an inertial frame of reference, also known as a "Newtonian frame of reference".
-
-    From the first law, the following can be inferred:
-
-    A stationary object remains stationary unless an external force is applied to it.
-
-    An object in motion does not change its velocity unless an external force is applied to the object. Note that velocity is a vector quantity, and the magnitude and direction of the velocity of the object do not change.
-
-    According to the first law, it is possible to determine whether there is an external force acting on the object by measuring whether the velocity of the object changes, but the first law does not give the magnitude of the external force, nor does it give the source of the external force, it only attributes the change in the velocity of the object to the exertion of the external force on the object. From another point of view, the motion of an object can only be changed because of the exertion of an external force on the object, otherwise, the motion of the object will remain the same forever, which means that the object has a certain property of laziness to change the state of motion, which is called the inertia of the object.
-
-- **Newton's 2nd Law of Motion**
-
-    Newton's second law of motion states that the external force experienced by an object is equal to the first derivative of momentum versus time (the first differential value). Newton's second law can also be expressed as the product of mass and acceleration when the mass of an object does not change in motion.
-
-    Newton's second law states that the external force exerted on an object is equal to the time-varying rate of the momentum of the object:
-
-    **F=dp/dt**
-   
-    where p is momentum and t is time. Since momentum is equal to mass multiplied by velocity, Newton's second law can be expressed as follows: the external force experienced by the object is equal to the product of mass and acceleration, and acceleration is in the same direction as the external force. Expressed in equations,
-
-    **F=ma**
-
-    where F is the external force, m is the mass, and a is the acceleration.
-
-    According to the second law, if the mass of an object is constant, the acceleration of the object is proportional to the external force exerted, and the acceleration of the object is inversely proportional to the mass, assuming that the external force on the object is constant.
-
-    Suppose an external force is applied to an object, since the acceleration of the object is only related to the external force and mass, in any case, the object with the same mass will exhibit the same acceleration:
-
-    **a=F/m**
-
-    - ***Inertial frame of reference***: To know the acceleration of an object at a certain moment, the displacement of the object as a result of time must be measured from a stationary object (or an object moving in a straight line at a uniform velocity), while the stationary object (or an object moving in a straight line with uniform velocity) must remain in motion from an inertial frame of reference if the external force is zero, which means that the entire physical system must be measured from the inertial frame of reference. Therefore, Newton's second law assumes in advance that the acceleration of an object is a numerical value measured from an inertial frame of reference.
-    - ***Conservation of mass***: Classical mechanics has a hidden assumption, the conservation of mass, which is also known as Newton's zero-law of motion. Newton did not directly propose this law. The zeroth law of motion states that the mass of an object is conserved, independent of velocity, and independent of the force exerted on the object. When several objects interact, there may be a transfer of mass from one object to another, but the total mass remains the same.
-    - ***Determinism***: Newton's second law is a law of determinism. Assuming that the mass, initial position, and initial velocity of an object are known quantities, Newton's second law can be applied to calculate the position and velocity of an object at any time in its trajectory from the external forces applied to it.
-
-- **Newton's 3rd Law of Motion**
-
-    In classical mechanics, Newton's third law of motion states that when two objects interact with each other, the forces exerted on each other are **equal in magnitude**, **opposite in direction**, and **acting on the same straight line**. The forces will inevitably appear in pairs: one of them is called the "acting force"; The other force is called "reaction force" (Latin translation of actio and reactio), also known as "resistance"; The magnitude of the two forces is equal and the direction is opposite. The distinction between them is purely arbitrary; Any force can be considered as an acting force, and its corresponding force naturally becomes a concomitant reaction force. This pairing force and reaction force is called a "pairing force". Newton's third law of motion originally described the relationship between action and reaction, i.e., action equals reaction.
-
-    The third law is *not* a general law of nature, it only applies to certain forces, such as mental forces. Both electrostatic force and gravitational force are mental forces, so the third law can be used for mechanical analysis. Any force that involves the velocity of an object is not a mental force and cannot be analyzed using the third law, for example, the force of interaction between two moving electric charges is not a mental force, and the gravitational force of two moving objects interacting with each other is not a mental force, and the third law does not apply to these forces.
-
-[Details](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
-
-[Back to catalogue](#catalogue)
-
-### Falling & Parachuting
-
-The progress of a pilot parachuting could be briefly divided into the following four stages: jumping off a plane, falling, opening a parachute and falling with it continuously. Let's see how the dynamics theories affect and determine this progress.
-
-**Stage 1**
-
-Immediately after the pilot started to fall, the weight of the pilot is much larger than the air resistance the pilot is experiencing. As a result, the direction of the resultant force acting on the pilot should be vertically downwards. According to [Newton's second law of motion](#newtons-three-laws-of-motion), the direction of the acceleration will also be pointing downwards. Therefore the pilot will be accelrating downwards immediately after the fall.
-
-![stage 1](/images/stage1.jpg)
-
-
-**Stage 2**
-
-After the pilot started to fall, the speed of the falling pilot increases due to the downward acceleration. The air resistance increases as the speed increases, making the resultant force acting on the pilot become smaller and so is the acceleration. When the air resistance eventually becomes equal to the weight of the pilot, there will be no acceleration and the pilot reaches terminal velocity.
-
-![stage 2](/images/stage2.jpg)
-
-**Stage 3**
-
-As soon as the pilot opens the parachute, the force of air resistance increases rapidly and the resultant force becomes vertically upward. The upward acceleration caused by the resultant force results in the decreasing falling speed of the pilot.
-
-![stage 3](/images/stage3.jpg)
-
-**Stage 4**
-
-The speed of the falling pilot decreases due to the upward acceleration. The air resistance decreases as the speed decreases and finally becomes equal to the weight of the pilot again. The pilot reaches a new terminal velocity which is much smaller than the first one. The pilot is able to land safely at this speed.
-
-![stage 4](/images/stage4.jpg)
-
-
-The picture below is a velocity-time graph of the whole process.
-
-![v-t graph](/images/graph.jpg)
-
-[Back to catalogue](#catalogue)
-
-### Circular motion
-
-![Circular motion diagram](/images/OIP.jfif)
-
-
-In physics, circular motion refers to a motion in which the trajectory is a circle or part of a circle.
-
-Examples of circular motion are: the motion of an artificial satellite with a circular orbit, the motion of an electron perpendicular to a uniform magnetic field, and so on.
-
-The circular motion of a particle can be decomposed in two directions: the **tangent** of the track and the **normal** of the track.
-
-The tangential component of the acceleration of a particle is called tangential acceleration. The tangential acceleration changes the linear velocity of the particle along the orbit without changing the direction. The component of the acceleration in the normal becomes the normal acceleration. Since the normal acceleration is always directed towards the center of the circle in a circular motion, this acceleration is also known as **centripetal acceleration**. The centripetal acceleration changes the direction of the velocity of the particle and does not change the magnitude.
-
-A motion with a tangent acceleration of zero magnitude is called a uniform circular motion.
-
-For uniform circular motion, the following equation and component equation are met:
-
-- **θ=ωt**
-
-- **v=rω**
-
-- **a=rω²**
-
-- **ω=2π/T**
-
-where v is the linear velocity, a is the centripetal acceleration, T is the period,
-ω is the angular velocity (unit: rad/s).
-
-According to the formulas mentioned above, we can deduce new formulas to represent the centripetal acceleration a, for example **a=v²/r** and **a=vω**. These new equations will help us calculate the values in the real problem more quickly.
-
-[More about angular velocity](https://en.wikipedia.org/wiki/Angular_velocity)
-
-[More about circular motion](https://en.wikipedia.org/wiki/Circular_motion)
 
 [Back to catalogue](#catalogue)
 
 
-
-
-
-
-
-### Force
-
-Force is the interaction between objects. Force can change the velocity or direction of motion of an object, or deform an object. Force is a vector quantity and has properties of magnitude and direction. According to [Newton's second law](#newtons-three-laws-of-motion), when the velocity of an object is much lower than the speed of light, the resultant force experienced by it is equal to the product of its mass and acceleration. According to the effect of force, force can be divided into thrust, pull, support and resistance; According to the nature of force, force can be divided into elastic force, gravity, friction force and electromagnetic force. The concept of force also includes the moment that changes the speed of the shaft.
-
-In this section, we will also introduce some theory of [elasticity](#hookes-law) and [friction](#friction).
-
-#### **Hooke's law**
-
-Shapes of objects can be changed by force. As for plastic objects, such as clay, they stays the same shape after the force is removed.As for elastic objects, such as string, they tend to return to their original shapes and therefore exert an elastic force against the force that changed their shapes. Hooke's law illustrates that a material resists with a force proportional to its extension or conpression before elastic limit, which is expressed as:
-
-**F=kx**
-
-where F stands for force that changed the shape of the object, x stands for extension or compression and k stands for the spring constant, or so-called "stiffness".
-
-![Force Extension Graph](/images/force_extension_graph.png)
-
-However, there's a difference between the force-extension graph of adding force and the graph of removing the force.
-
-![loading and unloading graph](/images/strain_33.gif)
-
-This is because the [temperature](#temperature) of the system will increase because of the [work](#work) done to it and make it less stiff.
-
-
-#### **Friction**
-
-Friction refers to the force that hinders the relative motion of two rough objects in contact with each other or when there is a tendency to move relative to each other, and is a term in classical mechanics. Broadly speaking, objects are also subjected to frictional forces when they move in liquids and gases.
-
-Friction occurs:
-
-- When an object slides or is about to slide on the surface of another object, the two objects will produce a force on the contact surface that prevents the relative motion, and this force is called friction.
-- Objects at rest or in motion can generate friction on the contact surface.
-- The frictional force is opposite to the direction of the relative motion of the object.
-
-Friction is related to objects rubbing against each other, so the description of friction in physics is not generalized and not as precise as other forces. In fact, it is only when one ignores friction that one can derive the fundamental laws in mechanics.
-
-Friction comes from the adhesion between the contact surfaces of two objects, but the amount of friction has little to do with the size of the contact area.
-
-The frictional force between solid surfaces is divided into state friction and dynamic friction. In engineering, lubricants are used to reduce friction. If two surfaces rubbing against each other are separated by a layer of liquid, then liquid friction can occur between them, and mixed friction can also occur if the liquid is not completely isolated.
-
-- **State Friction**
-
-    When solids do not slide against each other, the friction between the contact surfaces is called static friction, and it has a maximum value called maximum static friction. Generally speaking, the static friction is obtained by the equilibrium equation, and the maximum static friction can be described by the friction law, and it is possible to judge whether the solids slide against each other by judging the magnitude relationship between the obtained static friction and the maximum static friction.
-
-- **Dynamic Friction**
-
-    The dynamic friction is the kinetic friction that resists the motion of an object including moving or sliding. Due to the fact that in real life, friction always occurs since there's no surface that's absolutely smooth, a force must be applied to keep something moving. The key effect of dynamic friction is the [energy](#energy) transferring. This is the principle of drilling wood for fire. The kinetic energy of the spinning wood piece is transferred to another static piece of wood through friction and raises its temperature. The wood eventually started to burn.
-
-
-[Back to catalogue](#catalogue)
-
-### Pressure
-
-Pressure (symbol: p or P) is the force applied perpendicular to the surface of an object per unit area over which that force is distributed.[1]: 445  Gauge pressure (also spelled gage pressure)[a] is the pressure relative to the ambient pressure.
-
-Various units are used to express pressure. Some of these derive from a unit of force divided by a unit of area; the SI unit of pressure, the pascal (Pa), for example, is one newton per square metre (N/m2); similarly, the pound-force per square inch (psi, symbol lbf/in2) is the traditional unit of pressure in the imperial and US customary systems. Pressure may also be expressed in terms of standard atmospheric pressure; the atmosphere (atm) is equal to this pressure, and the torr is defined as 1⁄760 of this. Manometric units such as the centimetre of water, millimetre of mercury, and inch of mercury are used to express pressures in terms of the height of column of a particular fluid in a manometer.
-
-Pressure is the amount of force applied perpendicular to the surface of an object per unit area. The symbol for it is "p" or P.[2] The IUPAC recommendation for pressure is a lower-case p.[3] However, upper-case P is widely used. The usage of P vs p depends upon the field in which one is working, on the nearby presence of other symbols for quantities such as power and momentum, and on writing style.
-
-**Formula**
-Mathematically:  **p=F/A**
-where:
-- p is the pressure,
-- F is the magnitude of the normal force,
-- A is the area of the surface on contact.
-
-Pressure is a **scalar quantity**. It relates the vector area element (a vector normal to the surface) with the normal force acting on it. 
-
-**Pressure in Liquid**
-
-Properties:
-
-- *Increases with depth*. The deeper a liquid is, the greater the [weight](#weight) above, and so the higher the pressure. 
-- *Acts in all directions*.The liquid pushes on all surfaces it is in contact with.
-
-Formula:
-
-**p=ρgh**
-
-Where p stands for pressure, ρ stands for [density](#density), g stands for gravitational strength field and h stands for height (or depth, in the case of a liquid).
-
-**Pressure in Gas**
-
-Properties: 
-
-- *Acts in all directions*. Particles in a gas move randomly around and collide with the wall of the container, exerting a pressure.
-- *The air pressure decrease as you rise up through the atmosphere*. The atmosphere is denser at lower levels. At sea level, atmospheric pressure is about 105 kPa (= 105000 Pa).
-
-
-![barometer](/images/barometer.jpg)
-
-This is a mercury barometer.It is the first measuring apparatus of the air pressure. The mercury column gets higher as the surrounding air pressure increase. At sea level, 760mm of mercury can be supported. 
-
-[Details](https://en.wikipedia.org/wiki/Pressure)
-
-[Back to catalogue](#catalogue)
-
-### Work
-
-Work, also called mechanical work, is a physical quantity in physics that represents the accumulation of **force** to **displacement**, and refers to the **[energy](#energy) transition** from one physical system to another, especially the transfer of energy under the action of a force that moves an object in the direction of the force. Similar to mechanical energy, work is also a scalar quantity, and the SI unit is **joules**.
-
-Even if there is force, no work may be done. For example, in a uniform circular motion, the centripetal force does not do work because there is no change in the kinetic energy of the object doing circular motion. In the same way, a book on the table, although the table is supportive of the book, does not do work because it is not displaced.
-
-According to the kinetic energy theorem, if an external force acts on an object to increase its kinetic energy from Ek0 to Ek, then the mechanical work done by this force is:
-
-**W=△Ek=Ek-Ek0=½m(v²-v0²)**
-
-where m is the mass of the object and v is the velocity of the object.
-
-Mechanical work is the internal product of force and displacement:
-
-**W=Fd**
-
-If the angle between force and displacement is less than the right angle, then the mechanical work is positive, also known as the force doing positive work. If the angle between force and displacement is greater than the right angle, then the mechanical work is negative, or the force does negative work, or the object overcomes the force to do the work.
-
-If the direction of the force is perpendicular to the direction of displacement, then this force does not do work.
-
-[Back to catalogue](#catalogue)
 
 ## **Fundamental Electromagnetics**
 
