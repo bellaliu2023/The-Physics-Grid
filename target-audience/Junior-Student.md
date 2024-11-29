@@ -31,13 +31,14 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[Waves](#waves)**
 
+    - [Wave property](#wave-property)
     - [Sound](#sound)√
     - [Light](#light)√
     - [Image](#image)√
     - [Reflection](#reflection)√
     - [Refraction](#refraction)√
     - [Diffraction](#diffraction)√
-    - [Mirror](#mirror)
+    - [Mirror](#mirror)√
 
 - **[Electricity and magnetism](#electricity-and-magnetism)**
 
@@ -55,7 +56,7 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[More references](#more-references)**
 
-## Motion forces and energy
+## **Motion forces and energy**
 
 ### Velocity
 
@@ -465,7 +466,7 @@ This is a mercury barometer.It is the first measuring apparatus of the air press
 
 [Back to catalogue](#catalogue)
 
-## Thermal physics
+## **Thermal physics**
 
 ### Energy
 
@@ -572,7 +573,9 @@ As a common substance with a relatively great specific heat capacity, water is o
 
 
 
-## Waves 
+## **Waves**
+
+### Wave property
 
 ### Sound
 
@@ -702,36 +705,6 @@ In addition to this, a similar effect occurs when light waves pass through a med
 ![wave-diffraction](/images/wave-diffraction-patterns-through-large-and-small-gaps-E5WNXE.jpg)
 [Back to catalogue](#catalogue)
 
-
-## Electricity and magnetism
-
-## Nuclear physics
-
-## Space physics
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Mirror
 A mirror is an item with a smooth surface and the ability to reflect light, the most common mirror is a flat mirror, often used by people to organize the appearance. In science, mirrors are also often used in telescopes, lasers, industrial instruments and other instruments.
 
@@ -748,6 +721,39 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
     ![convex-or-divergent-mirror](/images/tumianjing.png)
 
  [Back to catalogue](#catalogue)   
+
+## **Electricity and magnetism**
+
+### Static electricity
+
+## **Nuclear physics**
+
+## **Space physics**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -767,12 +773,6 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 [Back to catalogue](#catalogue)
 
 
-
-## **Fundamental Electromagnetics**
-
-As for fundamental electromagnetics, we will introduce basic knowledge about static electricity, 
-
-### Static electricity
 
 
 
