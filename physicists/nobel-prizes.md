@@ -6,11 +6,11 @@ Based on the statistics of all the Nobel Prize winners in physics over the years
 
 | Organization                                | Country        | Number of Nobel Prizes |
 | ------------------------------------------- | -------------- | ---------------------- |
-| California Institute of Technology          | USA            | 9                      |
-| Princeton University                        | USA            | 9                      |
+| Princeton University          | USA            | 10                      |
+| California Institute of Technology                        | USA            | 9                      |
 | Stanford University                         | USA            | 9                      |
 | Harvard University                          | USA            | 9                      |
-| University of Cambridge                     | United Kingdom | 8                      |
+| University of Cambridge                     | UK | 8                      |
 | University of California, Berkeley          | USA            | 8                      |
 | Massachusetts Institute of Technology (MIT) | USA            | 8                      |
 | P.N. Lebedev Physical Institute             | Russia         | 6                      |
@@ -21,9 +21,9 @@ Based on the statistics of all the Nobel Prize winners in physics over the years
 
 | Country        | Number of Nobel Prizes |
 | -------------- | ---------------------- |
-| USA            | 72                     |
+| USA            | 73                     |
 | Germany        | 28                     |
-| United Kingdom | 23                     |
+| United Kingdom | 24                     |
 | Japan          | 12                     |
 | France         | 11                     |
 | Russia         | 10                     |
@@ -37,6 +37,14 @@ Based on the statistics of all the Nobel Prize winners in physics over the years
 The Nobel Prize in Physics has been awarded 116 times to 222 Nobel Prize laureates between 1901 and 2022. John Bardeen is the only laureate who has been awarded the Nobel Prize in Physics twice, in 1956 and 1972. This means that a total of 221 individuals have received the Nobel Prize in Physics.
 
 https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
+
+## **2024**
+
+> **for foundational discoveries and inventions that enable machine learning with artificial neural networks**
+
+- [John J. Hopfield](https://www.nobelprize.org/prizes/physics/2024/hopfield/facts/) (b. 1933-07-15) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
+- [Geoffrey](https://www.nobelprize.org/prizes/physics/2024/hinton/facts/) (b.1947-12-06) ![Fisicallab](../images/Flag_of_the_United_Kingdom.svg.png) **UK**
 
 ## **2023**
 >  **for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter**
@@ -53,7 +61,7 @@ https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
    - [Alain Aspect](https://www.nobelprize.org/prizes/physics/2022/aspect/facts/)  (b. 1947-06-15) ![FisicalLab](../images/Flag_of_France.svg.png)  **France** 
    
-   - [John F. Clauser](https://www.nobelprize.org/prizes/physics/2022/clauser/facts/)  (b. 1942-12-01) ![FisicalLab](../images/23px-Flag_of_the_United_States.svg.png)  **United States**
+   - [John F. Clauser](https://www.nobelprize.org/prizes/physics/2022/clauser/facts/)  (b. 1942-12-01) ![FisicalLab](../images/23px-Flag_of_the_United_States.svg.png)  **USA**
    
    - [Anton Zeilinger](https://www.nobelprize.org/prizes/physics/2022/zeilinger/facts/)  (b. 1945-05-20) ![FisicalLab](../images/Flag_of_Austria.svg.png)  **Austria**
 
