@@ -28,6 +28,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 **J**
 
+[Joseph-Louis Lagrange](#joseph-louis-lagrange)
+
 **K**
 
 **L**
@@ -110,6 +112,19 @@ In mathematics, Newton shared the honor of developing calculus with Gottfried ·
 In 2005, the Royal Society of United Kingdom launched a poll on "Who is the most influential person in the history of science", and Newton won the crown in the voting of the Royal Society Fellows and netizens.
 
 Click [here](https://sirisaacnewton.info/writings/) if you are willing to search for and read all of Newton's original papers.
+
+[Back to catalogue](#catalogue)
+
+### **Joseph-Louis Lagrange**
+
+Joseph-Louis Lagrange (French: Joseph-Louis Lagrange, January 25, 1736 - April 10, 1813), born Giuseppe Luigi Lagrangia (Italian: Giuseppe Luigi Lagrangia) or Giuseppe Ludovico De la Grange Tournier (Italian: Giuseppe Ludovico De la Grange Tournier), was a French-Italian mathematician, mechanician and astronomer. Lagrange worked for Frederick the Great of Prussia in Berlin for 20 years and was called "the greatest mathematician in Europe" by Frederick the Great. Later, he was invited by King Louis XVI of France to settle in Paris until his death. Lagrange was talented throughout his life and made many significant contributions in the fields of mathematics, physics and astronomy. His achievements include the famous Lagrange mean value theorem, the creation of Lagrangian mechanics, etc.
+
+Lagrangian mechanics is a type of analytical mechanics, founded by Joseph Lagrange in 1788. Lagrangian mechanics is a new theoretical expression of classical mechanics, focusing on mathematical analysis methods and applying the principle of least action. It is an important part of analytical mechanics.
+
+The original expression of classical mechanics was established by Newton. It focuses on analyzing the relationship between vectors such as displacement, velocity, acceleration, and force, and is also called vector mechanics. Lagrange introduced the concept of generalized coordinates and used D'Alembert's principle to obtain the Lagrangian equation equivalent to Newton's second law. Not only that, the Lagrangian equation has a more general meaning and a wider range of application. In addition, choosing appropriate generalized coordinates can greatly simplify the solution process of the Lagrangian equation.
+
+Click [here](https://archive.org/search?query=Joseph-Louis+Lagrange&and%5B%5D=mediatype%3A%22texts%22&and%5B%5D=creator%3A%22lagrange%2C+joseph+louis%2C+comte%2C+1736-1813%22&and%5B%5D=creator%3A%22lagrange%2C+j.+l.+%28joseph+louis%29%2C+1736-1813%22&and%5B%5D=creator%3A%22joseph+louis+lagrange%22&and%5B%5D=creator%3A%22joseph-louis+%28+lagrange%22) if you are willing to search for and read more of Lagrange's original papers.
+
 
 [Back to catalogue](#catalogue)
 
