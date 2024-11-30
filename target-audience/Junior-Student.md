@@ -20,14 +20,14 @@ This section will be suitable for students who have just embarked on a journey o
     - [Power](#power)
     - [Pressure](#pressure)
 
-- **[Thermal physics](#thermal-physics)**
+- **[Thermal physics](#thermal-physics)**√
 
-    - [Energy](#energy)√
-    - [Temperature](#temperature)√
-    - [Heat and heat transfer](#heat-and-heat-transfer)√
-    - [Change of state](#change-of-states)√
-    - [Latent heat capacity](#latent-heat-capcacity)
-    - [Specific thermal capacity](#specific-thermal-capacity)√
+    - [Energy](#energy)
+    - [Temperature](#temperature)
+    - [Heat and heat transfer](#heat-and-heat-transfer)
+    - [Change of state](#change-of-states)
+    - [Latent heat ](#latent-heat)
+    - [Specific thermal capacity](#specific-thermal-capacity)
 
 - **[Waves](#waves)**
 
@@ -547,7 +547,19 @@ During the changes of states, the substance usually remains at a **constant temp
 
 [Back to catalogue](#catalogue)
 
-### Latent Heat Capcacity
+### Latent Heat 
+
+The latent heat capacity refers to the amount of energy needed to completely change the state or phase of 1kg of the substance without changing its temperature, for example, the amount of energy 1kg of ice absorbed to completely melt is the latent heat capacity of ice or water. The unit of latent heat capacity is J/kg.
+
+**Formula**:
+
+**Q=mL**
+
+Where Q represents energy needed, m represents mass and L represents specific latent heat (we use the word "specific" to mean that it relates to unit mass, which is 1kg).
+
+This equation can be used for both fusion (melting) and vaporisarion (boiling). Note that this equation tells us that the energy must be continuously supplied when the substance has already been heated to its melting or boiling point.
+
+[Back to catalogue](#catalogue)
 
 ### Specific Thermal Capacity
 

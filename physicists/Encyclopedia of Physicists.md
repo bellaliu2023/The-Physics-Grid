@@ -12,6 +12,10 @@ This section will introduce you to all the physicists in the history of physics 
 
 **C**
 
+[Charles-Augustin de Coulomb](#charles-augustin-de-coulomb)
+
+[Chienshiung Wu](#chienshiung-wu)
+
 **D**
 
 **E**
@@ -86,6 +90,17 @@ Albert Einstein was one of the most important scientists of the 20th century, pu
 Click [here](https://einsteinpapers.press.princeton.edu/) if you are willing to search for and read all of Einstein's original papers.
 
 [Back to catalogue](#catalogue)
+
+### **Charles-Augustin de Coulomb**
+
+Charles-Augustin de Coulomb (1736-1806) was a French physicist, military engineer, and founder of soil mechanics. Coulomb is best known for his summary and study of the interaction between electric charges, which led to Coulomb's law, which has become a basic law of physics teaching in middle schools around the world. In addition, Coulomb also made in-depth research on friction. In order to commemorate Coulomb, his name was used to name the unit of electric charge in the International System of Units in 1908.
+
+In physics, there is an interaction between different electric charges, with like charges repelling each other and opposite charges attracting each other, but people did not know what the law of this interaction was at that time. Coulomb was very interested in this problem, and he used his knowledge of mechanics to study it. Coulomb first studied the attraction and repulsion of magnets. He divided magnets into two types of magnetic cores, and then guessed that the force between them was inversely proportional to the size of the magnetic core and the square of the distance based on the law of universal gravitation.
+
+The famous British scientist Cavendish once designed a torsion balance that could measure the magnitude of universal gravitation. Coulomb made his own torsion balance in imitation of Cavendish, and used the torsion balance to measure the magnitude of the force, proving the conclusion of the interaction between magnetic cores, which is called Coulomb's magnetic law. In addition, Coulomb also proposed a method to eliminate the friction of the compass. He used hair and silk to hang the compass to reduce friction.
+
+Click [here](https://en.wikisource.org/wiki/Author:Charles_Augustin_de_Coulomb) if you are willing to search for and read Coulomb's original papers.
+
 
 ### **Chienshiung Wu**
 
