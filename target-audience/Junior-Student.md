@@ -24,6 +24,7 @@ This section will be suitable for students who have just embarked on a journey o
 
     - [Energy](#energy)
     - [Temperature](#temperature)
+    - [Thermal expansion](#thermal-expansion)
     - [Heat and heat transfer](#heat-and-heat-transfer)
     - [Change of state](#change-of-states)
     - [Latent heat ](#latent-heat)
@@ -507,6 +508,27 @@ Temperature is a manifestation of the average intermolecular kinetic energy with
 As for gas, temperature is directly proportional to its [pressure](#pressure) when the volume is constant and inversely proportional to its volume when the pressure is constant.
 
 [Back to catalogue](#catalogue)
+
+### Thermal expansion
+
+Most substances expand when they are heated, this is called thermal expansion. We already know that thermometer is designed based on the thermal expansionary properties of liquid. Let's look at some other examples of use of expansion in our daily lives.
+
+- **Rivets** are used in shipbuilding and other industries to join metal plates. The red hot rivet is passed through holes in two metal plates and then hammered until the ends are rounded. As the rivet cools, it contracts and pulls the two plates tightly together.
+
+![Rivets](/images/riveting-process-illustration.png)
+
+- **Bimetallic strips** are made of two metals joined firmly together and are designed to bend as it gets hot. One metal expands more rapidly than the other when being heated, therefore cause the strip to bend. These are used in devices such as fire alarms and thermostats.
+
+![Bimetallic strips](/images/Bimetallic_strips_operation_F1.webp)
+
+Gases expand when they are heated, just like solids and liquids. When the gas is heated, its particles move faster and push with greater force on its surroundings, for example, the walls of the gas container. When the volume of the gas is conserved, the pressure it exerts will be directly proportional to the temperature change and vice versa. When the temperature is conserved, the pressure and volume of the gas are inversely proportional to each other. This is indicated by the **ideal gas formula**:
+
+**pV=nRT**
+
+Where P stands for pressure, V stands for volume, n stands for moles number of the gas, R stands for ideal gas constant and T stands for temperature (K).
+
+[Back to catalogue](#catalogue)
+
 
 ### Heat and heat transfer
 
