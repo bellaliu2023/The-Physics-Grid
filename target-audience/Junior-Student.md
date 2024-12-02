@@ -20,7 +20,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Power](#power)
     - [Pressure](#pressure)
 
-- **[Thermal physics](#thermal-physics)**√
+- **[Thermal physics](#thermal-physics)** √
 
     - [Energy](#energy)
     - [Temperature](#temperature)
