@@ -30,28 +30,29 @@ This section will be suitable for students who have just embarked on a journey o
     - [Latent heat ](#latent-heat)
     - [Specific thermal capacity](#specific-thermal-capacity)
 
-- **[Waves](#waves)**
+- **[Waves](#waves)** √
 
     - [Wave property](#wave-property)
-    - [Sound](#sound)√
-    - [Light](#light)√
-    - [Image](#image)√
-    - [Reflection](#reflection)√
-    - [Refraction](#refraction)√
-    - [Diffraction](#diffraction)√
-    - [Mirror](#mirror)√
+    - [Sound](#sound)
+    - [Light](#light)
+    - [Image](#image)
+    - [Reflection](#reflection)
+    - [Refraction](#refraction)
+    - [Diffraction](#diffraction)
+    - [Mirror](#mirror)
 
 - **[Electricity and magnetism](#electricity-and-magnetism)**
 
-    - [Static Electricity](#static-electricity)
+    - [Charge](#charge)√
+    - [Static Electricity](#static-electricity)√
 
 - **[Nuclear physics](#nuclear-physics)**
 
 - **[Space physics](#nuclear-physics)**
 
-- **[The Origin of Natural Science](#the-origin-of-natural-science)**
+- **[The Origin of Natural Science](#the-origin-of-natural-science)** √
 
-- **[Competitions](#competitions)**
+- **[Competitions](#competitions)** √
 
 - **[Practice questions](#practice-questions)**
 
@@ -802,7 +803,35 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 
 ## **Electricity and magnetism**
 
+### Charge
+
+There are two kinds of charges, positive charge (carried by a proton or a metal ion, represented by **"+"**) and negative charge (usually carried by an electron, represented by **"-"**). Only negative charges can move through out the electrical conductor, but both charges can be induced on objects. The number of positive and negative charges in the universe are approximately equal and cancels each other out. 
+
+**RULE**: Same charges **repel**, opposite charges **attract**. The attracting or repeling forces between electric charges decreases as their separation increases. 
+
+Charge is measured in **coulombs** (C) and is defined in terms of the ampere. The charge on an electron e = 1.6*$10^{-19}$ C.
+
+A **conductor** can conduct electricity whereas an **insulator** cannot. In an insulator all electrons are bound firmly to their atoms; in a conductor some electrons can move freely from atom to atom. All metals are good conductors. 
+
+[Back to catalogue](#catalogue)  
+
 ### Static electricity
+
+Static electricity is a phenomenon caused by the unbalanced distribution of **electric charge** in a material system. Objects can be charged by rubbing amber with fur or glass rods with silk. Once an object is charged, the charge will remain on the object unless it is removed by other objects, so it is called "static electricity". Static electricity is different from electric current, which is an electrical phenomenon caused by the directional movement of electric charge in a conductor. Charged objects often have the property of attracting light and small objects (such as paper scraps). 
+
+The most common cause of static electricity is **[friction](#friction)**. It causes electrons to be transferred from one neutral material to the other. The number of negative charges the material that gains electrons contains exceeds the number of positive charges on it, therefore it becomes negatively charged. The number of positive charges the material that loses electrons contains exceeds the number of negative charges on it, therefore it becomes positively charged. 
+
+An insulator can be charged by rubbing because the charge produced cannot move from where the rubbing occurs, i.e. the electric charge is *static*. A conductor will become charged only if it is held with an insulating handle, otherwise electrons are transferred between the conductor and the ground via the person's body. 
+
+An **electroscope** tells if something contains static electricity or charges, usually consisting of a pair of thin gold leaves suspended from an electrical conductor that leads to the outside of an insulating container.
+
+![electroscope](/images/2.png)
+
+As the diagram shows, when a negatively charged object approaches the top of the electrocope, negative charges carried on the electrons will be repelled to the bottom leaves; same charges on the leaves also repels each other so they separate. When a positively charged object approaches the top of the electroscope, negative charges will be attracted to the top, leaving the bottom leaves to be both positive, therefore they will also separated due to the repelling forces. *The electroscope does not tell the type of the charge.*
+
+It is important to know that when the top of the electroscope is contacting with the charged conductor, the electrons will flow from the electroscope to the object if the object is positive, or from the object to the electroscope if the object is negative. The results of leaves separating will be the same as inducing. 
+
+[Back to catalogue](#catalogue)  
 
 ## **Nuclear physics**
 
