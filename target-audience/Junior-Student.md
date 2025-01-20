@@ -6,6 +6,7 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[Motion forces and energy](#motion-forces-and-energy)** √
 
+    - [Physical quantities and units](#physics-quantities-and-units)
     - [Velocity](#velocity)
     - [Acceleration](#acceleration)
     - [Weight](#weight)
@@ -44,7 +45,13 @@ This section will be suitable for students who have just embarked on a journey o
 - **[Electricity and magnetism](#electricity-and-magnetism)**
 
     - [Charge](#charge)√
-    - [Static Electricity](#static-electricity)√
+    - [Static electricity](#static-electricity)√
+    - [Electric field](#electric-field)√
+    - [Electric current](#electric-current)√
+    - [Electric potential](#electric-potential)
+    - [Ammeter and voltmeter](#ammeter-and-voltmeter)
+    - [Magnetic field](#magnetic-field)
+    - [Electromagnet](#electromagnet)
 
 - **[Nuclear physics](#nuclear-physics)**
 
@@ -59,6 +66,20 @@ This section will be suitable for students who have just embarked on a journey o
 - **[More references](#more-references)**
 
 ## **Motion forces and energy**
+
+### Physics quantities and units
+
+In physics and mathematics, a **unit** is the exact value or numerical value of a "basic physical quantity" or "basic counting benchmark" defined and adopted by convention or law as a recognized measurement standard. The given units are all artificial, often accompanied by a certain representation, such as meters, seconds, kilograms, etc., to facilitate people to have a common concept when communicating a certain quantity.
+
+**Unit of measurement**, also known as measurement unit, is a specific general term for units, a method for humans to calculate an amount. For example, in numbers, the unit is generally "1"; when calculating length, the unit can be "nanometer", "millimeter", "centimeter", "decimeter", "meter", "kilometer", "light year", etc.; when calculating time, the unit can be "microsecond", "second", "minute", "hour", "day", "week", "month", "year", "century", etc.
+
+In physics, **physical quantity** refers to the "properties" of matter, objects, systems, phenomena, processes, etc., which can be measured and quantified using rigorous operational (observable, measurable, and operable) definitions. There are two main types of physical quantities: **scalars** and **vectors**. Scalars are physical quantities with *magnitude but no direction*. Their symbols are usually Latin or Greek letters and are printed in italics.
+Vectors are physical quantities with *magnitude and direction*, and their operations follow the axioms of vector space. The symbols of physical quantities that are vectors are bold, underlined, or with an arrow above. Scalars and vectors are the simplest **tensors** that can be used to describe more general physical quantities.
+
+Various physical quantities have their own measurement units, and the quantity of the selected substance under specified conditions is used as the standard of the **basic measurement unit**. In different periods and different disciplines, the choice of basic quantities is different. For example, in physics, the seven physical units of time, length, mass, temperature, current intensity, luminous intensity, and amount of substance are used as **basic quantities**, also known as the **SI units**. Their units are: second, meter, kilogram, Kelvin, ampere, candela, and mole.
+
+[Back to catalogue](#catalogue)
+
 
 ### Velocity
 
@@ -864,6 +885,46 @@ The electric field lines drawn according to the above regulations have two prope
 - Because there is only one definite field strength direction at any point in the electrostatic field (except where the point charge is located), any two electric field lines **cannot intersect**.
 
 [Back to catalogue](#catalogue)  
+
+### Electric current
+
+An electric current consists of **moving electric charges**. Electric current is the average directional movement of electric charge in an electric field or (semiconductor). The direction of electric current is defined as the direction of movement of **positive charge**; the magnitude of electric current is called **current intensity**, which refers to the net amount of charge transferred through a certain cross section of the wire per unit time, and the unit is **ampere**(A). The direction of electric current is defined as the same as the direction that positive charges move in a circuit, but in reality it is not positive charges that move, but negative charges. **Electron flow** is the movement of free electrons (negative charges) in a circuit in the opposite direction of the electric current.
+
+The amount of charge passing through 1 coulomb per second is called 1 ampere. "Current intensity" is often simply referred to as "current" or "current amount". The formula used to calculate current intensity is shown below:
+
+**I=Q/t**
+
+where I stands for current intensity, Q stands for amount of charges and t stands for the time for charges to pass through. Ampere is one of the seven [basic units](#physics-quantities-and-units) of the International System of Units. An ammeter is an instrument specifically used to measure electric current.
+
+An electric current has three **effects** that reveals in its existence:
+
+- **Heating and lighting**
+
+    The electric current does [work](#work) when it goes through the wire and creates [heat](#heat-and-heat-transfer). When the wire that carries it gets hot enough, it will start to glow and produce light. This is the basic working principle of a filament light.
+
+- **Magnetic**
+
+    The wire carrying a current produces a [magnetic field](#magnetic-field) around it. The direction of the field is indicated by the diagram below. 
+
+    ![Induced magnetic field from a wire](/images/下载.png)
+
+    This is the basic working principle of an [electromagnet](#electromagnet).
+
+- **Chemical**
+
+    Electrolysis is the process of passing an electric current through an electrolyte solution or molten substance to cause redox reactions at the cathode and anode. Electrolysis occurs when an electrochemical cell is subjected to an applied [voltage](#electric-potential) (i.e., the charging process).
+
+**Alternating current** (AC) and **direct current** (DC) are two different types of electrical signals. Alternating current originally refers to current with periodic positive and negative changes. Direct current originally refers to current with a fixed direction. However, in addition to describing current, alternating current and direct current are also often used to describe voltage.
+
+[Back to catalogue](#catalogue)  
+
+### Electric potential
+
+### Ammeter and voltmeter
+
+### Magnetic field
+
+### Electromagnet
 
 ## **Nuclear physics**
 
