@@ -920,6 +920,16 @@ An electric current has three **effects** that reveals in its existence:
 
 ### Electric potential
 
+In electrostatics, **electric potential** (ePtntl) is a physical scalar quantity that describes the energy level at a point in an electric field, and its unit is **volt** (V). The difference in the potential at either sides of the component is the **potential difference** or the **voltage** across the component. The electric work is done by potential difference, not by using up electrons. Voltage is also the measure of the amount of energy provided to each coulomb of charge to move it past a point in the current. The total energy provided by the battery per unit charge is called the **electromotive force** or the **EMF** of the battery. However, the EMF of a battery is not always equal to the potential difference across the battery since most batteries has internal [resistance](#resistance) that requires energy to push electrons through it, too. 
+
+Here is a formula to calculate the electric potential: 
+
+**V=E/Q**
+
+where V stands for voltage, E stands for energy or total work done and Q stands for the charge.
+
+### Resistance
+
 ### Ammeter and voltmeter
 
 ### Magnetic field
