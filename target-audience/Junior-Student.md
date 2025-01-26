@@ -49,6 +49,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Electric field](#electric-field)√
     - [Electric current](#electric-current)√
     - [Electric potential](#electric-potential)
+    - [Resistance](#resistance)
     - [Ammeter and voltmeter](#ammeter-and-voltmeter)
     - [Magnetic field](#magnetic-field)
     - [Electromagnet](#electromagnet)
@@ -928,7 +929,54 @@ Here is a formula to calculate the electric potential:
 
 where V stands for voltage, E stands for energy or total work done and Q stands for the charge.
 
+[Back to catalogue](#catalogue)  
+
+
 ### Resistance
+
+In electromagnetism, **resistance** is the ability of an object to oppose the flow of electric current. It is usually represented by capital letter **R**, and the unit of resistance is **ohm** (Ω). Conductors have low resistance and can carry electric current very efficiently. These materials are often used to make electrical wires. **Resistors** are circuit components with a specific resistance. They can be made from a variety of materials. 
+
+**Resistivity** is a physical quantity that describes the **conductivity** of a material. It is numerically equal to the conductivity of a certain material per unit length and unit cross-section. Resistivity is independent of factors such as the length and cross-sectional area of ​​the conductor. It is the *electrical property* of the material itself, determined by the material of the conductor, and is often related to **temperature**.The unit of resistivity in the International System of Units is **Ω·m**, pronounced as **ohm-meter**. Resistivity is usually represented by **ρ**.
+
+The resistance of an object can be calculated using the **Resistance Law**, which is the **defining formula** of resistance:
+
+**R=ρL/A**
+
+where R stands for resistance of the object, ρ stands for the resistivity of its material, L stands for its length and A stands for its cross-sectional area. We can deduce from the formula that, an object's resistance is directly proportional to the resistivity and length, and inversely proportional to the cross-sectional area.
+
+We can figure out the resistance of a resistor connecting in a circuit by using **Ohm's Law**.
+
+**R=V/I**
+
+where R stands for resistance, V stands for electric potential difference across the component and I stands for the current passing through it. This formula indicates that with fixed potential difference across, the current intensity will be inversely proportional to the resistance in the current.
+
+Besides the normal resistors with fixed resistances, there are also some other kinds of resistors that are commonly used in a circuit. 
+
+- **Variable resistor** 
+
+    The resistance of variable resistors can be changed by human, therefore we will be able to control the current in the circuit due to Ohm's Law. 
+
+    ![Variable resistor](/images/variable%20resistor.png)
+
+- **Thermistor**
+
+    The resistance of a thermistor is inversely proportional to the temperature, allowing the circuit to vary automatically according to the temperature change.
+
+    ![Thermistor](/images/thermistor.png)
+
+- **Light dependent resistor**
+
+     The resistance of a thermistor is inversely proportional to the light intensity, allowing the circuit to vary automatically according to the change of light.
+
+     ![Light dependent resistor](/images/Lightdependent.png)
+
+- **Diode**
+
+    Diodes are very special. They allow current to pass only in one direction. If the current is passing in the correct direction, diodes have as low resistance as the wires; if the current is passing in the wrong direction, diodes have an incredibly large resistance that almost blocks the current.
+
+    ![Diode](/images/diode.png)
+
+[Back to catalogue](#catalogue)  
 
 ### Ammeter and voltmeter
 

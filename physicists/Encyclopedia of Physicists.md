@@ -79,6 +79,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 ### **Albert Einstein**
 
+![Albert Einstein](/images/Einstein.jpg)
+
 Albert Einstein (March 14, 1879 – April 18, 1955), a Jewish theoretical physicist born in Germany with Switzerland and United States nationality, founded the theory of relativity, which is considered one of the two pillars of modern physics, and also made outstanding achievements in the field of quantum mechanics. He is the discoverer of the mass-energy equivalence formula (E = mc²). He was also influential in the field of philosophy of science. He was awarded the Nobel Prize in Physics in 1921 for his "contributions to theoretical physics, in particular the discovery of the principle of the photoelectric effect". This discovery is a crucial step in the establishment of quantum theory.
 
 Albert Einstein discovered early in his career that classical mechanics and electromagnetic fields could not coexist with each other, leading to the development of the special theory of relativity. He also discovered that the principles of relativity could be extended to the modeling of gravitational fields. Based on some theories of gravity, he published the general theory of relativity in 1915. His continued research on statistical mechanics and quantum theory led him to derive explanations for particle theory and molecular motion. In 1917, Albert Einstein applied the theory of general relativity to model the large-scale structure of the universe.
@@ -93,6 +95,9 @@ Click [here](https://einsteinpapers.press.princeton.edu/) if you are willing to 
 
 ### **Charles-Augustin de Coulomb**
 
+![Charles-Augustin de Coulomb](/images/Coulomb.jpg)
+
+
 Charles-Augustin de Coulomb (1736-1806) was a French physicist, military engineer, and founder of soil mechanics. Coulomb is best known for his summary and study of the interaction between electric charges, which led to Coulomb's law, which has become a basic law of physics teaching in middle schools around the world. In addition, Coulomb also made in-depth research on friction. In order to commemorate Coulomb, his name was used to name the unit of electric charge in the International System of Units in 1908.
 
 In physics, there is an interaction between different electric charges, with like charges repelling each other and opposite charges attracting each other, but people did not know what the law of this interaction was at that time. Coulomb was very interested in this problem, and he used his knowledge of mechanics to study it. Coulomb first studied the attraction and repulsion of magnets. He divided magnets into two types of magnetic cores, and then guessed that the force between them was inversely proportional to the size of the magnetic core and the square of the distance based on the law of universal gravitation.
@@ -103,6 +108,8 @@ Click [here](https://en.wikisource.org/wiki/Author:Charles_Augustin_de_Coulomb) 
 
 
 ### **Chienshiung Wu**
+
+![Chienshiung Wu](/images/Chienshiung%20Wu.jpg)
 
 Chienshiung Wu (May 31, 1912 – February 16, 1997) was a Chinese-American physicist who made significant contributions to the field of nuclear physics, and her achievements in experimental physics often compared her to Marie · Curie. Wu Chien-shiung was the first female president of the United States Physical Society and is often referred to as "China's Marie Curie," "the first lady of physics research," "the queen of nuclear research," and "one of the world's most outstanding female experimental physicists."
 
@@ -118,6 +125,8 @@ Click [here](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_
 
 ### **Isaac Newton**
 
+![Isaac Newton](/images/Isaac%20Newton.jpg)
+
 Sir Isaac Newton (Julian calendar: December 25, 1642 – March 20, 1727; Gregorian calendar: January 4, 1643 – March 31, 1727) was a United Kingdom physicist, mathematician, astronomer, natural philosopher, and Whig politician. In 1687 he published *The Mathematical Principles of Natural Philosophy*, which expounded gravitation and the three laws of motion, thus laying the foundations of modern physics, astronomy, and modern engineering. By demonstrating the consistency between Kepler's laws of planetary motion and his theory of gravity, he revealed that the motion of terrestrial objects and celestial bodies follows the same laws of nature; It provides strong theoretical support for the heliocentric theory and is a major representative of the scientific revolution.
 
 In mechanics, Newton elucidated the principle of conservation of momentum and angular momentum. Optically, he invented the reflecting telescope and developed a theory of color based on the observation that a prism diverges white light into the visible spectrum. He also systematically formulated the law of cooling and studied the speed of sound.
@@ -132,6 +141,8 @@ Click [here](https://sirisaacnewton.info/writings/) if you are willing to search
 
 ### **Joseph-Louis Lagrange**
 
+![Joseph-Louis Lagrange](/images/Joseph-Louis%20Lagrange.jpg)
+
 Joseph-Louis Lagrange (French: Joseph-Louis Lagrange, January 25, 1736 - April 10, 1813), born Giuseppe Luigi Lagrangia (Italian: Giuseppe Luigi Lagrangia) or Giuseppe Ludovico De la Grange Tournier (Italian: Giuseppe Ludovico De la Grange Tournier), was a French-Italian mathematician, mechanician and astronomer. Lagrange worked for Frederick the Great of Prussia in Berlin for 20 years and was called "the greatest mathematician in Europe" by Frederick the Great. Later, he was invited by King Louis XVI of France to settle in Paris until his death. Lagrange was talented throughout his life and made many significant contributions in the fields of mathematics, physics and astronomy. His achievements include the famous Lagrange mean value theorem, the creation of Lagrangian mechanics, etc.
 
 Lagrangian mechanics is a type of analytical mechanics, founded by Joseph Lagrange in 1788. Lagrangian mechanics is a new theoretical expression of classical mechanics, focusing on mathematical analysis methods and applying the principle of least action. It is an important part of analytical mechanics.
@@ -145,6 +156,8 @@ Click [here](https://archive.org/search?query=Joseph-Louis+Lagrange&and%5B%5D=me
 
 ### **Max Planck**
 
+![Max Planck](/images/Max%20Planck.jpg)
+
 Max Karl Ernst Ludwig Planck (April 23, 1858 – October 4, 1947) was a Germany physicist and one of the founders of quantum mechanics. He was awarded the Nobel Prize in Physics in 1918 (awarded in 1919) for his discovery of energy quanta. The Planck constant, which bears his name, was used in 2019 to redefine the basic unit. In addition, there are many scientific trophies, institutions and societies that bear his name.
 
 It was around 1894 that Planck began to devote all his energies to the study of blackbody radiation. Shortly thereafter, on December 14, 1900, Planck came up with a theoretical corollary of the radiation law, in which he used the statistical mechanics of the Austrian physicist Ludwig · Boltzmann, whom he had previously denied. Planck proposed the hypothesis of energy quantization at the conference: E=hv, where E is energy, ν is the frequency, and an important physical constant, h, is introduced, the Planck constant, and energy can only be radiated outward in the form of an indivisible energy element (i.e., quanta). Such a hypothesis reconciles the contradictions encountered in the study of the law of thermal radiation in classical physics. Based on this assumption, he also gave Planck's formula for black-body radiation, which satisfactorily explained the experimental phenomenon. Planck was awarded the Nobel Prize in Physics in 1918. Although Planck tried to bring his theories within the framework of classical physics in later years, he is still regarded as one of the pioneers of modern physics.
@@ -156,6 +169,8 @@ Click [here](https://archive.org/search?query=%28%28subject%3A%22Planck%2C%20Max
 [Back to catalogue](#catalogue)
 
 ### **Michael Faraday**
+
+![Michael Faraday](/images/Michael%20Faraday.jpg)
 
 Michael Faraday (September 22, 1791 – August 25, 1867) was United Kingdom physicist who made many important contributions to the fields of electromagnetism and electrochemistry.
 
@@ -172,6 +187,8 @@ Click [here](https://archive.org/search?query=Michael+Faraday&and%5B%5D=mediatyp
 
 ### **Robert Hooke**
 
+![Robert Hooke](/images/Robert%20Hooke.jpg)
+
 Robert Hooke (July 18, 1635 – March 3, 1703) was a UK polymath known for his contributions to physics, proposing Hooke's law and the inverse square law of gravity. He designed vacuum pumps, microscopes, and telescopes, and authored *Micrographic*, coining the term "cell". His inventions are still in use today. Hooke also impacted urban planning and architecture. Despite conflicts with Newton, his work is now receiving renewed attention, earning him the nickname "Leonardo of London" for his diverse interests and achievements.
 
 In 1664, Hooke created an advanced microscope inspired by a Royal Society member. In 1665, he examined a thin cork slice under his own microscope, observing plant cells' resemblance to monks' single rooms, thus coining "cell". He published *Micrographic*, detailing his microscopic and telescopic observations, marking the first human observation of cells.
@@ -185,6 +202,8 @@ Click [here](https://royalsocietypublishing.org/action/doSearch?ContribAuthorRaw
 [Back to catalogue](#catalogue)
 
 ### **Stephen Hawking**
+
+![Stephen Hawking](/images/Stephen%20Hawking.jpg)
 
 Stephen · William ·Hawking (8 January 1942 – 14 March 2018) was United Kingdom theoretical physicist, cosmologist and popular science writer, and was the research director of the Centre for Theoretical Cosmology at the University of Cambridge. He has made many scientific contributions, including co-authoring the Penrose-Hawking singularity theorem within the framework of general relativity with Roger · Penrose, and his theoretical prediction that black holes emit radiation (now known as Hawking radiation). Stephen Hawking was the first to propose a theory of cosmology explained by the combination of general relativity and quantum mechanics. He is an active proponent of the many-world interpretation of quantum mechanics.
 
@@ -201,6 +220,8 @@ Click [here](https://www.hawking.org.uk/in-print) if you are willing to search f
 
 
 ### **Werner Heisenberg**
+
+![Werner Heisenberg](/images/Werner%20Heisenberg.jpg)
 
 Werner Carl Heisenberg (December 5, 1901 – February 1, 1976) was a Germany physicist, one of the founders of quantum mechanics, and a representative figure of the "Copenhagen School". In 1933, Heisenberg was awarded the Nobel Prize in Physics in 1932 for "the founding of quantum mechanics and the resulting discovery of allotropes of hydrogen." His main contributions to physics are the matrix form of quantum mechanics (matrix mechanics), the "uncertainty principle" (also known as the "Heisenberg uncertainty principle") and the S-matrix theory. His Principles of Physics in Quantum Theory is a classic work in the field of quantum mechanics.
 
