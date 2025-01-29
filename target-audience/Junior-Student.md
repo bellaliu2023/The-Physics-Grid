@@ -48,8 +48,9 @@ This section will be suitable for students who have just embarked on a journey o
     - [Static electricity](#static-electricity)√
     - [Electric field](#electric-field)√
     - [Electric current](#electric-current)√
-    - [Electric potential](#electric-potential)
-    - [Resistance](#resistance)
+    - [Electric potential](#electric-potential)√
+    - [Electrical circuit](#electrical-circuit)√
+    - [Resistance](#resistance)√
     - [Ammeter and voltmeter](#ammeter-and-voltmeter)
     - [Magnetic field](#magnetic-field)
     - [Electromagnet](#electromagnet)
@@ -887,6 +888,8 @@ The electric field lines drawn according to the above regulations have two prope
 
 [Back to catalogue](#catalogue)  
 
+
+
 ### Electric current
 
 An electric current consists of **moving electric charges**. Electric current is the average directional movement of electric charge in an electric field or (semiconductor). The direction of electric current is defined as the direction of movement of **positive charge**; the magnitude of electric current is called **current intensity**, which refers to the net amount of charge transferred through a certain cross section of the wire per unit time, and the unit is **ampere**(A). The direction of electric current is defined as the same as the direction that positive charges move in a circuit, but in reality it is not positive charges that move, but negative charges. **Electron flow** is the movement of free electrons (negative charges) in a circuit in the opposite direction of the electric current.
@@ -930,6 +933,76 @@ Here is a formula to calculate the electric potential:
 where V stands for voltage, E stands for energy or total work done and Q stands for the charge.
 
 [Back to catalogue](#catalogue)  
+
+### Electrical circuit
+
+An **electrical circuit**, also known as a power line, electrical loop, or loop, is a network of closed loops that provides a return path for [electric current](#electric-current). A circuit is generally composed of **circuit components** connected in a specific way by **wires**, and must have *at least one closed path*. 
+
+A circuit consists of three basic parts: **power supply**, **load** and **intermediate links**: "power supply" is a device that generates electrical energy by creating a [potential](#electric-potential) difference; "load" is a device that converts electrical energy into mechanical energy, light energy, thermal energy, etc.; wires are the "intermediate links" connecting the power supply and load, and play the role of transmitting and distributing electrical energy.
+
+#### **Circuit diagram**
+
+A **circuit diagram** is a simplified graphical representation of an electrical circuit. It is a type of schematic. A circuit diagram uses simple pictorial representations of the circuit, with straight lines representing wires and circuit symbols connecting each other. 
+
+Here are some examples of basic circuit diagram symbols.
+
+![Circuit diagram symbols](/images/circuit%20diagram%20symbols.gif)
+
+Usually, if wires are connected together, we draw a dot on the circuit diagram where they connect; if wires simply cross over each other, we won't draw a dot.
+
+**Connection method of circuit components**:
+
+- **Series circuit:**
+
+    A *single* circuit with power supply. One end of the power supply is connected to the head of a component, and the tail of this component is connected to the head of another component, thus forming a single closed circuit.
+
+    ![Series](/images/series.png)
+
+    When the components are connected in series, the [current](#electric-current), [voltage](#electric-potential) and [resistance](#resistance) in the circuit follow the rules below:
+
+    1. The amount of current passing through every component is the same, which is also equal to the total current in the circuit.
+
+        **I=I₁=I₂=I₃=...**
+
+    2. The voltage across all circuit components adds up to the supply voltage, or the EMF of the battery. The voltage across each component is directly proportional to its resistance.
+
+        **V=V₁+V₂+V₃+...**
+
+    3. The resistance of all circuit components adds up to the total resistance of the circuit.
+
+        **R=R₁+R₂+R₃+...**
+
+- **Parallel circuit:**
+
+    A circuit in which one end of two or more components is connected to one place, and the other end is also connected to another place. This connection is called parallel connection.
+
+    ![Parallel](/images/parallel.png)
+
+    When the components are connected in parallel, the [current](#electric-current), [voltage](#electric-potential) and [resistance](#resistance) in the circuit follow the rules below:
+
+    1. The amount of current passing through all circuit components adds up to the total amount of current in the circuit. The amount of current passing through each component is inversely proportional to its resistance.
+
+         **I=I₁+I₂+I₃+...**
+
+    2. The voltage across every component is the same, which is also equal to the EMF of the power supply in this case above.
+
+         **V=V₁=V₂=V₃=...**
+
+    3. The reciprocal of the resistance of all the components adds up to the reciprocal of the total resistance of the circuit. 
+
+        **1/R=1/R₁+1/R₂+1/R₃+...**
+
+All circuits obey some basic circuit laws.
+
+- **Kirchhoff's current law:**
+
+     The sum of the currents flowing into a node is equal to the sum of the currents flowing out of the node.
+
+- **Kirchhoff's voltage law:**
+
+     The sum of the voltages around a loop is zero.
+
+[Back to catalogue](#catalogue) 
 
 
 ### Resistance
