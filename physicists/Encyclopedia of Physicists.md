@@ -143,6 +143,18 @@ Click [here](https://archive.org/search?query=Michael+Faraday&and%5B%5D=mediatyp
 
 [Back to catalogue](#catalogue)
 
+### **Richard Feynman**
+
+![Richard Feynman](/images/RichardFeynman.jpg)
+
+Richard Phillips Feynman (May 11, 1918 - February 15, 1988) was an American theoretical physicist, known for his research on the path integral representation of quantum mechanics, quantum electrodynamics, superfluidity of supercooled liquid helium, and parton models in particle physics. For his contributions to quantum electrodynamics, Feynman shared the Nobel Prize in Physics in 1965 with Julian Schwinger and Shin'ichirō Tomonaga.
+
+Feynman developed the widely used graphical mathematical representation of the behavior of subatomic particles, the Feynman diagram. During his lifetime, Feynman was one of the most famous scientists in the world. In 1999, in a poll conducted by the British academic journal Physical World involving 130 of the world's top physicists, Feynman was ranked among the top ten greatest physicists of all time.
+
+Feynman helped develop the atomic bomb during World War II, and then became well-known to the public in the 1980s for his involvement in the investigation of the Challenger space shuttle disaster. In addition to his research in theoretical physics, he was also a pioneer in quantum computing and proposed the concept of nanotechnology. He was formerly the Richard Tolman Professor of Theoretical Physics at Caltech.
+
+Click [here](https://github.com/manjunath5496/Feynman-Lectures) if you are willing to search for and read Feynman's original papers and lectures.
+
 ### **Stephen Hawking**
 
 ![Stephen Hawking](/images/Stephen%20Hawking.jpg)
