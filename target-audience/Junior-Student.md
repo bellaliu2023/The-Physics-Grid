@@ -51,7 +51,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Electric potential](#electric-potential)√
     - [Electrical circuit](#electrical-circuit)√
     - [Resistance](#resistance)√
-    - [Ammeter and voltmeter](#ammeter-and-voltmeter)
+    - [Ammeter and voltmeter](#ammeter-and-voltmeter)√
     - [Magnetic field](#magnetic-field)
     - [Electromagnet](#electromagnet)
 
@@ -1052,6 +1052,35 @@ Besides the normal resistors with fixed resistances, there are also some other k
 [Back to catalogue](#catalogue)  
 
 ### Ammeter and voltmeter
+
+- **Ammeter**
+
+    **Ammeter**, also known as amperemeter, is an instrument for measuring [current](#electric-current). The main types include rotating coil ammeter, rotating iron sheet ammeter, thermocouple ammeter, hot wire ammeter and clamp ammeter.
+
+    Here is the circuit diagram symbol for an ammeter.
+
+    ![ammeter](/images/ammeter.png)
+
+    In order to measure the current passing through a component, the ammeter should be connected with the component in **series**. The resistance of an ammeter is very small and you can ignore it in normal calculations and consider it as wire.
+
+- **Voltmeter**
+
+    A **voltmeter** is a device used in electromagnetism to measure voltage in volts. The voltmeter is usually connected in **parallel** to the circuit element that is measuring the voltage. The resistance of the voltmeter is usually large to avoid changing the voltage being measured and you can consider it as a circuit breaker where no current can pass through.
+
+    Here is the circuit diagram symbol for a voltmeter.
+
+    ![voltmeter](/images/voltmeter.png)
+
+Here is a circuit diagram of measuring the resistance of a resistor using the ammeter and the voltmeter.
+
+![Measuring resistance](/images/measuring%20resistance.jpg)
+
+The voltmeter is connected in parallel with the resistor R and the power supply E, which means it is measuring the potential difference across both of the components at the same time. The ammeter is measuring both the current passing through R and the current passing through the voltmeter. However, the resistance of the voltmeter is too large that according to Ohm's Law, the current passing through it could be ignored, therefore the current passing through R is measured. 
+
+After taking the two measurements, the resistance of R could be figured out by substituting the measured values ​​into the Ohm's law formula: **R=V/I**. This is the most fundamental method to measure the resistance of a component.
+
+[Back to catalogue](#catalogue)  
+
 
 ### Magnetic field
 
