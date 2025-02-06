@@ -52,7 +52,8 @@ This section will be suitable for students who have just embarked on a journey o
     - [Electrical circuit](#electrical-circuit)√
     - [Resistance](#resistance)√
     - [Ammeter and voltmeter](#ammeter-and-voltmeter)√
-    - [Magnetic field](#magnetic-field)
+    - [Magnet](#magnet)√
+    - [Magnetic field](#magnetic-field)√
     - [Electromagnet](#electromagnet)
 
 - **[Nuclear physics](#nuclear-physics)**
@@ -1081,8 +1082,49 @@ After taking the two measurements, the resistance of R could be figured out by s
 
 [Back to catalogue](#catalogue)  
 
+### Magnet
+
+A **magnet**, or lodestone, is an object that can attract iron and generate a [magnetic field](#magnetic-field) outside it. In a narrow sense, a magnet refers to a product made of magnetite ore, while in a broad sense, a magnet refers to an object or device used to generate a magnetic field. Magnets can attract ferromagnetic materials, such as metals such as iron, nickel and cobalt. The determination of magnetic poles is to suspend a magnet with a thin wire. The magnetic pole pointing to the north is called the **north pole** or **N pole**, and the magnetic pole pointing to the south is called the **south pole** or **S pole**. (If the earth, which possesses a gigantic magnetic field, is thought of as a large magnet, the current geomagnetic north pole of the earth is the S pole, and the geomagnetic south pole is the N pole.) Magnets with opposite poles **attract** each other, and with the same poles **repel** each other. That is, the south pole attracts the north pole, the south pole repels the south pole, and the north pole repels the north pole.
+
+Magnets are divided into **permanent magnets** and **non-permanent magnets**. Natural permanent magnets are also called natural magnets. Permanent magnets can also be artificially made (the strongest magnet is a neodymium magnet). Non-permanent magnets are magnetic only under certain conditions, usually in the form of [electromagnets](#electromagnet), that is, using electric current to strengthen their magnetic field.
+
+If a **ferromagnetic material** (material that can be magnetised) is placed inside a magnetic field or an electric field, it will form a magnet. If the material loses magnetism as soon as the field is removed, it is called "**soft**". If it remains magnetic after the field is removed, it is called "**hard**". 
+
+To demagnetise a magnet made of hard material, we can use the methods below:
+
+1. Put the magnet in a solenoid and use an [AC current](#electric-current) which will constantly change the direction of north and south of the magnetic field. Slowly pull the magnet out. As the magnet is removed the field strength will be slowly decreasing, removing the magnetism.
+
+2. Heat the magnet beyond a temperature known as the **curie temperature**. The magnet will lose all magnetism.
+
+3. Hit it with a hammer. The vibrational effects along the lines of the molecular/metallic bonds are similar to heating.
+
+The magnetic molecules (according to the molecular magnet theory) inside the unmagnetized magnet are arranged irregularly. After the magnetization process, the magnetic molecules will be arranged regularly. At this time, the N pole and S pole of the magnetic molecule will face the same direction, making the magnet magnetic and becoming a magnet. At the same time, there are two opposite poles on the same magnet and the magnetism of the two poles is **equal**.
+
+[Back to catalogue](#catalogue)
 
 ### Magnetic field
+
+A **magnetic field** is a **vector field** that describes the magnetic effects on moving charges, currents, and magnetic materials (iron, steel, etc.).  Charges moving in a magnetic field are subject to forces perpendicular to their own velocity and to the magnetic field.
+
+In electromagnetism, magnets, currents, and time-varying electric fields all produce magnetic fields. Magnetic materials or currents in a magnetic field feel the **magnetic force** due to the magnetic field, thus showing the existence of a magnetic field. A magnetic field is a vector field; it has a *direction* and *magnitude* at any position in space.
+
+Magnets exert **forces** and **torques** on each other through the magnetic fields they generate. Moving charges also produce magnetic fields.
+
+Similar to electric field lines, we use magnetic field lines to represent a magnetic field. The magnetic field lines start off from the north pole of a magnet and goes to the south pole. They never cross each other and are always continuous. Magnetic field also exists inside the magnet, therefore the field lines will go through the magnet itself, though we don't usually draw that part on diagrams. The direction of the magnetic field lines is same as the direction of the north pole of a small compass when it's placed on a certain point in the magnetic field.
+
+Here are some examples of magnetic field lines indication from [circuitbread](https://www.circuitbread.com/textbooks/introduction-to-electricity-magnetism-and-circuits/magnetic-forces-and-fields/magnetic-fields-and-lines).
+
+![Magnetic field lines](/images/magnetic-field-lines.jpg)
+
+We could see that when two like poles face each other, there is a neutral point in the center between two poles.
+
+Some times we might be dealing with a magnetic field that is perpendicular to the plane of the paper. Here is how we indicate this kind of magnetic field using vector symbols.
+
+![Vector symbol](/images/in%20and%20out%20of%20paper.png)
+
+When the magnetic field line is pointing perpendicularly towards the paper, we indicate it using an "**x**" like the symbol on the left. When the magnetic field line is pointing perpendicularly out from the paper, we indicate it using an "**·**" like the symbol on the right. 
+
+[Back to catalogue](#catalogue)  
 
 ### Electromagnet
 
