@@ -52,6 +52,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Electrical circuit](#electrical-circuit)√
     - [Resistance](#resistance)√
     - [Ammeter and voltmeter](#ammeter-and-voltmeter)√
+    - [Electric work and power](#electric-work-and-power)√
     - [Magnet](#magnet)√
     - [Magnetic field](#magnetic-field)√
     - [Electromagnet](#electromagnet)
@@ -1022,7 +1023,7 @@ We can figure out the resistance of a resistor connecting in a circuit by using 
 
 **R=V/I**
 
-where R stands for resistance, V stands for electric potential difference across the component and I stands for the current passing through it. This formula indicates that with fixed potential difference across, the current intensity will be inversely proportional to the resistance in the current.
+where R stands for resistance, V stands for electric potential difference across the component and I stands for the current passing through it. This formula indicates that with fixed potential difference across, the current intensity will be inversely proportional to the resistance in the current. This formula is applicable to **pure resistance circuits**, that is, when there are only resistance elements and the resistance value is constant.
 
 Besides the normal resistors with fixed resistances, there are also some other kinds of resistors that are commonly used in a circuit. 
 
@@ -1082,6 +1083,39 @@ After taking the two measurements, the resistance of R could be figured out by s
 
 [Back to catalogue](#catalogue)  
 
+### Electric work and power
+
+When [current](#electric-current) passes through a conductor, [heat](#heat-and-heat-transfer) is generated. Electric energy is transferred into thermal energy, therefore we say that the current or the electric energy does [work](#work). **Joule's law** or **Joule-Lenz law** is a law that quantifies the conversion of electrical energy into heat energy by conducting an electric current. 
+
+The formula is shown below:
+
+- **Q=I²Rt**
+
+    where Q stands for heat produced, I stands for current intensity, R stands for resistance of the component that is producing heat and t stands for the time current is passing through.
+
+Using **[Ohm's law](#resistance)**, we can deduce another two forms of formulae:
+
+- **Q=VIt**
+
+- **Q=V²t/R**
+
+Because Ohm's law is used in the derivation process, these derivation formulae is only applicable to **pure resistance circuits** like Ohm's law.
+
+**Electric power** refers to the ability of electric energy to do work. The operational definition is the work done by electric current per unit time, or the electric energy transferred or converted per unit time. It can be used to represent the power consumption capacity of electrical equipment (the physical quantity of how fast or slow it consumes electric energy), the power generation capacity of power generation equipment, and the power transmission capacity of power transmission and transformation equipment. Electric power is represented by the letter P, and the unit is Watt, and the symbol is W.
+
+Using the work and [power](#power) formula **W=P/t** and the formulae of Joule's law aforesaid, we can deduce the formulae to calculate electric power.
+
+- **P=I²R**
+
+- **P=VI**
+
+- **P=V²/t**
+
+When using these formulae, the components must be linear, that is, the circuit must obey Ohm's law.
+
+[Back to catalogue](#catalogue)
+
+
 ### Magnet
 
 A **magnet**, or lodestone, is an object that can attract iron and generate a [magnetic field](#magnetic-field) outside it. In a narrow sense, a magnet refers to a product made of magnetite ore, while in a broad sense, a magnet refers to an object or device used to generate a magnetic field. Magnets can attract ferromagnetic materials, such as metals such as iron, nickel and cobalt. The determination of magnetic poles is to suspend a magnet with a thin wire. The magnetic pole pointing to the north is called the **north pole** or **N pole**, and the magnetic pole pointing to the south is called the **south pole** or **S pole**. (If the earth, which possesses a gigantic magnetic field, is thought of as a large magnet, the current geomagnetic north pole of the earth is the S pole, and the geomagnetic south pole is the N pole.) Magnets with opposite poles **attract** each other, and with the same poles **repel** each other. That is, the south pole attracts the north pole, the south pole repels the south pole, and the north pole repels the north pole.
@@ -1101,6 +1135,7 @@ To demagnetise a magnet made of hard material, we can use the methods below:
 The magnetic molecules (according to the molecular magnet theory) inside the unmagnetized magnet are arranged irregularly. After the magnetization process, the magnetic molecules will be arranged regularly. At this time, the N pole and S pole of the magnetic molecule will face the same direction, making the magnet magnetic and becoming a magnet. At the same time, there are two opposite poles on the same magnet and the magnetism of the two poles is **equal**.
 
 [Back to catalogue](#catalogue)
+
 
 ### Magnetic field
 
