@@ -56,6 +56,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Magnet](#magnet)√
     - [Magnetic field](#magnetic-field)√
     - [Electromagnet](#electromagnet)√
+    - [Ampere's force](#amperes-force)√
 
 - **[Nuclear physics](#nuclear-physics)**
 
@@ -1198,6 +1199,28 @@ Electromagnets are widely used in many electrical installations. Here are some e
     ![Electric bell](/images/electricbell.jpg)
 
     When the switch of the **electric bell** is turned on, the electromagnet in the circuit generates magnetism and attracts the metal strip. The metal strip is attracted and moves closer to the electromagnet and hits the sonorous. The deformation of the metal strip causes it to shrink back and leave the sonorous due to [elastic force](#hookes-law). This process repeats, so the sonorous is constantly being hit and the electric bell keeps making sounds until the switch is turned off.
+
+[Back to catalogue](#catalogue)
+
+### Ampere's force
+
+**Ampere's force** is the force that a **current-carrying** conductor experiences when it enters an **external magnetic field** in certain angle. This is because the conductor itself possesses a magnetic field when current is passing through it, and this induced magnetic field will interact with the external magnetic field to produce magnetic force. The conductor will *only* experience a force if the current in it is **not parallel** to the direction of the [magnetic field lines](#magnetic-field). It will receive the maximum force when the current is perpendicular to the magnetic field lines. The direction of the force is perpendicular to the plane formed by the magnetic field lines and the current.
+
+![Ampere's Force](/images/AmpereFroce.jpg)
+
+To determine the direction of the Ampere's force, we can use the **left-hand rule**. Spread your hand and make your thumb perpendicular to the four other fingers. Point the four fingers towards the direction of the current and let magnetic field lines penetrate your hand perpendicularly as the diagram shows. The direction indicated by your thumb will be the direction of the Ampere's force on the conductor.
+
+***Note:** When we say "direction of the current", we are talking about the **conventional current**, which is the direction of the movement of **positive charges**. If you are working on an single electron entering the magnetic field, remember to point your four fingers at an opposite direction.*
+
+To reverse the direction of Ampere's force, we can either reverse the direction of the **magnetic field** or the direction of the **current**. If both are reversed, the direction of Ampere's force remains unchanged.
+
+In case of a single **charged particle** in the magnetic field, its motion will be slightly different from a current-carrying conductor. Ampere's force is always perpendicular to the direction of the current, which, in this case, is the direction of the particle's movement. This will cause the charged particle to keep changing its moving direction and eventually commit [circular motion](#circular-motion), with Ampere's force acting as its centripetal force that provides it with centripetal acceleration.
+
+![Charged particle in a magnetic field](/images/chargeinMF.png)
+
+The diagram above shows the circular motion of a positively charged particle in a magnetic field. In the diagram, v is the initial velocity of the charge, R is the radius of its circular trajectory, B is the magnetic field and F is the Ampere's force. 
+
+***Note:** When we say that charged particles commit circular motion in the magnetic field, it does not indicate that the trajectory of the particle must be a complete circle. It could possibly exit the magnetic field before it has a chance to finish the circle.*
 
 [Back to catalogue](#catalogue)
 
