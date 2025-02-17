@@ -57,6 +57,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Magnetic field](#magnetic-field)√
     - [Electromagnet](#electromagnet)√
     - [Ampere's force](#amperes-force)√
+    - [Motor](#motor)√
 
 - **[Nuclear physics](#nuclear-physics)**
 
@@ -1223,6 +1224,24 @@ The diagram above shows the circular motion of a positively charged particle in 
 ***Note:** When we say that charged particles commit circular motion in the magnetic field, it does not indicate that the trajectory of the particle must be a complete circle. It could possibly exit the magnetic field before it has a chance to finish the circle.*
 
 [Back to catalogue](#catalogue)
+
+### Motor
+
+The effect of [Ampere's force](#amperes-force) could be used to convert electrical energy into mechanical energy, which is what an **electric motor** does. A **DC motor** is an electric motor driven by [direct current](#electric-current).
+
+![DC Motor 1](/images/DCmotor.png)
+
+![DC Motor 2](/images/dcmotor2.png)
+
+In a DC motor, the current-carrying rotor coils which are placed between two permanent magnets experience a **[turning effect](#moment)** since the position of the shaft is fixed. The direction of current is opposite on opposite sides of the coil because current is essentially running in and out, therefore forces act in opposite directions on each side of the coil, causing a turning effect. The greater the force on the coil, the faster it will turn. In order to increase the spinning speed of the motor, a large number of coils are used at the same time.
+
+The coil is connected to the **split-ring-commutator**. The cell or the power supply is connected to the **brushes**. When the DC motor is operating, the split-ring-commutator spins with the coil, but the brushes and the rest of the circuit stays still. The circuit is completed when the metal ring touches the brush and broken when the carbon brush is aligned with the gap between the metal ring parts. This makes the coil still receive a force that causes it to continue rotating in the current direction after rotating 180 degrees, because after the two contact points of the coil and the power supply are exchanged, the current does not reverse macroscopically.
+
+The direction of rotation of the coil in the DC motor can be changed by reversing the positive and negative poles of the power supply or reversing the north and south poles of the stator magnets.
+
+[Back to catalogue](#catalogue)
+
+
 
 ## **Nuclear physics**
 
