@@ -12,6 +12,8 @@ This section will introduce you to all the physicists in the history of physics 
 
 **B**
 
+[Ludwig Eduard Boltzmann](#ludwig-eduard-boltzmann)
+
 **C**
 
 [Charles-Augustin de Coulomb](#charles-augustin-de-coulomb)
@@ -94,6 +96,19 @@ This section will introduce you to all the physicists in the history of physics 
 **Z**
 
 
+### **Ludwig Eduard Boltzmann**
+
+![Ludwig Boltzmann](/images/Ludwig-Boltzmann-1844-1906-in-1875-Credit-American-Institute-of-Physics-Emilio-Segre.png)
+
+Ludwig Eduard Boltzmann (February 20, 1844 - September 5, 1906) was an Austrian physicist and philosopher. As a physicist, his greatest achievement was the development of statistical mechanics, which explains and predicts the physical properties of matter (such as viscosity, heat conduction, diffusion, etc.) through the properties of atoms (such as atomic weight, charge, structure, etc.), and perfectly explained the second law of thermodynamics from the statistical concept.
+
+Boltzmann's most important scientific contribution was the kinetic theory of molecules, which included the Maxwell-Boltzmann distribution for studying the speed of gas molecules, and the Maxwell-Boltzmann statistics and Boltzmann distribution for studying energy based on classical mechanics. They can explain many phenomena when quantum statistics are not necessary, and more deeply reveal the physical meaning of the state functions of thermodynamic systems such as temperature.
+
+Most physicists at the time were not as convinced of the existence of atoms and molecules as he was. However, James Clerk Maxwell in Scotland and Josiah Gibbs in the United States, as well as most chemists since John Dalton proposed the atomic theory in 1808, were convinced of the existence of atoms and molecules. Boltzmann had a protracted debate with the editors of the leading German physics journals at the time. These editors only regarded atoms and molecules as convenient theoretical models and were unwilling to link them with reality. A few years after Boltzmann's death, Jean Perrin determined the Avogadro and Boltzmann constants through his study of colloidal suspensions based on Albert Einstein's 1905 work, and proved to the world that atoms and molecules do exist.
+
+Click [here](https://archive.org/search?query=Ludwig+Boltzmann&and%5B%5D=mediatype%3A%22texts%22&and%5B%5D=creator%3A%22boltzmann%2C+ludwig%2C+1844-1906%22&and%5B%5D=creator%3A%22boltzmann%2C+ludwig%22&and%5B%5D=creator%3A%22ludwig+boltzmann%22) to search for and read Boltzmann's papers and books.
+
+[Back to catalogue](#catalogue)
 
 
 ### **Charles-Augustin de Coulomb**
@@ -154,6 +169,9 @@ Feynman developed the widely used graphical mathematical representation of the b
 Feynman helped develop the atomic bomb during World War II, and then became well-known to the public in the 1980s for his involvement in the investigation of the Challenger space shuttle disaster. In addition to his research in theoretical physics, he was also a pioneer in quantum computing and proposed the concept of nanotechnology. He was formerly the Richard Tolman Professor of Theoretical Physics at Caltech.
 
 Click [here](https://github.com/manjunath5496/Feynman-Lectures) if you are willing to search for and read Feynman's original papers and lectures.
+
+[Back to catalogue](#catalogue)
+
 
 ### **Stephen Hawking**
 
