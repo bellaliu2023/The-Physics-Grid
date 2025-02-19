@@ -58,6 +58,8 @@ This section will be suitable for students who have just embarked on a journey o
     - [Electromagnet](#electromagnet)√
     - [Ampere's force](#amperes-force)√
     - [Motor](#motor)√
+    - [Electromagnetic induction](#electromagnetic-induction)√
+    - [Lenz's law](#lenzs-law)
 
 - **[Nuclear physics](#nuclear-physics)**
 
@@ -1241,7 +1243,25 @@ The direction of rotation of the coil in the DC motor can be changed by reversin
 
 [Back to catalogue](#catalogue)
 
+### Electromagnetic induction
 
+**Electromagnetic induction** refers to the fact that a conductor placed in a changing [magnetic field](#magnetic-field) or a conductor moving in the magnetic field will generate an [electromotive force](#electric-potential). This electromotive force is called **induced electromotive force**. If the conductor is closed into a loop, the electromotive force will drive electrons to flow, forming an **induced [current](#electric-current)**. British physicist **Michael Faraday** discovered the phenomenon of electromagnetic induction in 1831.
+
+In general, whenever there is **relative movement** between the conductor and the magnetic field, an emf will be induced. The movement of the conductor shall not be parallel to the magnetic field lines. In other words, the conductor should be **cutting** the magnetic field lines.
+
+In order to detect the induced current or the induced emf, we can use [ammeter or voltmeter](#ammeter-and-voltmeter).
+
+![Electromagnetic induction](/images/electromagneticInduction.png)
+
+To determine the direction of the induced current, we can use the **right-hand rule**. Spread your hand and make your thumb perpendicular to the four other fingers. Point the thumb towards the direction of the movement of the conductor and let magnetic field lines penetrate your hand perpendicularly as the diagram shows. The direction indicated by your four fingers will be the direction of the induced current in the conductor.
+
+![Right hand rule](/images/righthandrule.png)
+
+You may realize that the left-hand rule is *symmetrical* to the right-hand rule. This indicates that whenever a conductor creates relative movement with a magnetic field, the induced current will interact with the magnetic field and the [Ampere's force](#amperes-force) will act in the direction that hinders the movement of the conductor.
+
+[Back to catalogue](#catalogue)
+
+### Lenz's law
 
 ## **Nuclear physics**
 
