@@ -61,6 +61,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Electromagnetic induction](#electromagnetic-induction)√
     - [Lenz's law](#lenzs-law)√
     - [AC generator](#ac-generator)√
+    - [Transformer](#transformer)
 
 - **[Nuclear physics](#nuclear-physics)**
 
@@ -1298,6 +1299,38 @@ Similar to the DC motor, AC generator also has two **stator magnets** that are u
 The rotating coil cuts the magnetic field consistently as it rotates and allows an induced current to flow in it. The slip rings and the brushes connect the coil with the external circuit so the induced current provided in the coil could flow into the external circuit and be used by components, in this case the light bulb. The current induced changes direction everytime the coil rotates over 180°, therefore an **alternating current** is generated. A maximum emf is induced when the motion of the coil is perpendicular to the magnetic field. which is, when the position of the coil is horizontal.
 
 The magnitude of the induced current could be increased by increasing the **frequency** of rotation, the **number of turns** in the coil and the **strength of the magnet**. Also, inserting a **soft iron core** into the coil could effectively increase the magnitude of current produced.
+
+[Back to catalogue](#catalogue)
+
+### Transformer
+
+A **transformer** is a device that changes the size of an **alternating** [voltage](#electric-potential) or [current](#electric-current). Its working principle is similar to the AC generator.
+
+![Transformer](/images/Basic-E-I-transofrmer-diagram-1024x732.png)
+
+As the diagram indicates, a basic transformer consists of a **primary coil**, a **secondary coil** and a **transformer core** which is usually made of **soft iron** since it's an easily-magnetised material. The coils are wound on the transformer core. Current from the power source is called the **primary current** (I₁) and runs in the primary coil, whereas the current induced or the current output, which is called the **secondary current** (I₂), runs in the secondary coil. The potential difference across the primary coil is the **primary voltage** (V₁) which is equal to the voltage provided by the power supply. A **secondary voltage** (V₂) is induced across the secondary coil and output as the transformed voltage. 
+
+First, an **alternating current** is supplied to the primary coil by an external power supply. The current is continuously changing direction, therefore the magnetic field it produces around the iron core is also changing. The changing field is passed through the iron core and results in a changing magnetic field around the secondary coil. This will induce an **emf** across the secondary coil, therefore create an output voltage. As the magnetic field is continuously changing, the output voltage and current will also be alternating with the same frequency as the input current. 
+
+The number of turns in each coil depends on the type of the transformer: **step-up** or **step-down**.
+
+- **Step-up**
+
+    A **step-up** transformer **increases** the voltage of the input power (V₁ < V₂). It has more turns in the secondary coil than in the primary coil (n₁ < n₂).
+
+- **Step-down**
+
+    A **step-down** transformer **decreases** the voltage of the input power (V₁ > V₂). It has less turns in the secondary coil than in the primary coil (n₁ > n₂).
+
+Here are some equations used to calculate quantities involved in a transformer: 
+
+**V₁/V₂=N₁/N₂**
+
+where V₁ stands for primary voltage, V₂ stands for secondary voltage, N₁ stands for number of turns in the primary coil and N₂ stands for number of turns in the secondary coil.
+
+**I₁V₁=I₂V₂**
+
+where I₁ stands for primary current and I₂ stands for secondary current. This equation is only suitable for **ideal transformers**, which are transformers with 100% efficiency and the input power is equal to the output power. This is impossible in the reality since there is always energy loss. 
 
 [Back to catalogue](#catalogue)
 
