@@ -42,28 +42,30 @@ This section will be suitable for students who have just embarked on a journey o
     - [Diffraction](#diffraction)
     - [Mirror](#mirror)
 
-- **[Electricity and magnetism](#electricity-and-magnetism)**
+- **[Electricity and magnetism](#electricity-and-magnetism)** √
 
-    - [Charge](#charge)√
-    - [Static electricity](#static-electricity)√
-    - [Electric field](#electric-field)√
-    - [Electric current](#electric-current)√
-    - [Electric potential](#electric-potential)√
-    - [Electrical circuit](#electrical-circuit)√
-    - [Resistance](#resistance)√
-    - [Ammeter and voltmeter](#ammeter-and-voltmeter)√
-    - [Electric work and power](#electric-work-and-power)√
-    - [Magnet](#magnet)√
-    - [Magnetic field](#magnetic-field)√
-    - [Electromagnet](#electromagnet)√
-    - [Ampere's force](#amperes-force)√
-    - [Motor](#motor)√
-    - [Electromagnetic induction](#electromagnetic-induction)√
-    - [Lenz's law](#lenzs-law)√
-    - [AC generator](#ac-generator)√
+    - [Charge](#charge)
+    - [Static electricity](#static-electricity)
+    - [Electric field](#electric-field)
+    - [Electric current](#electric-current)
+    - [Electric potential](#electric-potential)
+    - [Electrical circuit](#electrical-circuit)
+    - [Resistance](#resistance)
+    - [Ammeter and voltmeter](#ammeter-and-voltmeter)
+    - [Electric work and power](#electric-work-and-power)
+    - [Magnet](#magnet)
+    - [Magnetic field](#magnetic-field)
+    - [Electromagnet](#electromagnet)
+    - [Ampere's force](#amperes-force)
+    - [Motor](#motor)
+    - [Electromagnetic induction](#electromagnetic-induction)
+    - [Lenz's law](#lenzs-law)
+    - [AC generator](#ac-generator)
     - [Transformer](#transformer)
 
 - **[Nuclear physics](#nuclear-physics)**
+
+
 
 - **[Space physics](#nuclear-physics)**
 
