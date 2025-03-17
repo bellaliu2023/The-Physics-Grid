@@ -65,7 +65,7 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[Nuclear physics](#nuclear-physics)**
 
-
+    - [Atom](#atom)
 
 - **[Space physics](#nuclear-physics)**
 
@@ -1337,6 +1337,18 @@ where I₁ stands for primary current and I₂ stands for secondary current. Thi
 [Back to catalogue](#catalogue)
 
 ## **Nuclear physics**
+
+### Atom
+
+**Atoms** are the **smallest units** of common matter that make up chemical elements; atoms are also the smallest particles in chemical changes and the smallest units of the chemical properties of elements.
+
+An atom contains a dense **nucleus** and a number of negatively charged **electrons** surrounding the nucleus. The nucleus of an **anti-atom** is negatively charged, and the surrounding anti-electrons are "positively charged", but we will not be discussing anti-atoms in this section. The nucleus of a positive atom is composed of positively charged **protons** and electrically neutral **neutrons**. When the number of protons and electrons is the same, the atom is electrically neutral and is called a **neutral atom**; otherwise, it is an **ion** with a positive or negative charge. 
+
+Depending on the number of protons and neutrons, the type of atom is different: the number of protons determines which element the atom belongs to, and the number of neutrons determines which isotope of this element the atom is.
+
+Because most of the mass of an atom is made up of the masses of protons and neutrons, the sum of the number of protons and neutrons is called the **mass number** or the **nucleon number**. The mass of a stable atom at rest is usually expressed in terms of the **unified atomic mass unit** (u), also known as the **Dalton** (Da). This unit is defined as one-twelfth the mass of electrically neutral carbon 12, which is approximately 1.6605565×$10^{-27}$ kg. The mass is so small that scientists also have difficulty working with it directly, so they usually use another unit, the **mole**, or mol for short. The definition of a mole is that for any element, there is always the same number of atoms in one mole, which is about **6.022×$10^{23}$**. If the atomic mass of an element is 1u, then one mole of that atom has a mass of 0.001kg, or 1 gram. For example, the atomic mass of carbon is 12u, so one mole of carbon has a mass of 0.012kg.
+
+[Back to catalogue](#catalogue)
 
 ## **Space physics**
 
