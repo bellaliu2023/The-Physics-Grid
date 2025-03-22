@@ -66,6 +66,8 @@ This section will be suitable for students who have just embarked on a journey o
 - **[Nuclear physics](#nuclear-physics)**
 
     - [Atom](#atom)
+    - [Nucleus](#nucleus)
+    - [Radiation](#radiation)
 
 - **[Space physics](#nuclear-physics)**
 
@@ -1349,6 +1351,18 @@ Depending on the number of protons and neutrons, the type of atom is different: 
 Because most of the mass of an atom is made up of the masses of protons and neutrons, the sum of the number of protons and neutrons is called the **mass number** or the **nucleon number**. The mass of a stable atom at rest is usually expressed in terms of the **unified atomic mass unit** (u), also known as the **Dalton** (Da). This unit is defined as one-twelfth the mass of electrically neutral carbon 12, which is approximately 1.6605565×$10^{-27}$ kg. The mass is so small that scientists also have difficulty working with it directly, so they usually use another unit, the **mole**, or mol for short. The definition of a mole is that for any element, there is always the same number of atoms in one mole, which is about **6.022×$10^{23}$**. If the atomic mass of an element is 1u, then one mole of that atom has a mass of 0.001kg, or 1 gram. For example, the atomic mass of carbon is 12u, so one mole of carbon has a mass of 0.012kg.
 
 [Back to catalogue](#catalogue)
+
+### Nucleus
+
+The **nucleus** is a component of an [atom](#atom), located in the center of the atom, and occupies most of the mass of it. The nucleus is composed of **neutrons** and **protons**. Protons are particles with one unit of positive charge, whereas neutrons are neutral particles with no charge at all. When there are electrons around it in the same number as the protons, it forms an atom. The nucleus is extremely small, and its volume accounts for only a few hundred billionths of the volume of the atom. However, about 99.95% of the mass of the atom is concentrated in this tiny nucleus.
+
+The [energy](#energy) that binds protons and neutrons in the nucleus is called **binding energy**. Generally speaking, the binding energy is the highest for elements with atomic weights between 58 and 62. As far as we know, elements with atomic weights less than 62 will undergo **nuclear fusion** reactions to release energy, while elements with atomic weights greater than 62 will undergo **nuclear fission** reactions to release energy.
+
+In order to undergo **nuclear fusion** reaction, nuclei need to collide with each other, which requires a very high relative speed between the nuclei as they have to overcome the strong repelling force between them due to their same [charge](#charge). However, heavy nuclei could undergo **nuclear fission** automatically since the nucleus of the element cannot hold the excessive protons and neutrons for a long time. When an element has an **unstable** nucleus, it will tend to **decay** into other more stable element and release [ionizing radiation](#radiation) at the same time. These elements are called the **radioactive element**.
+
+[Back to catalogue](#catalogue)
+
+### Radiation
 
 ## **Space physics**
 
