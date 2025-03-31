@@ -35,6 +35,7 @@ This section will be suitable for students who have just embarked on a journey o
 
     - [Wave property](#wave-property)
     - [Sound](#sound)
+    - [Electromagnetic waves](#electromagnetic-waves)
     - [Light](#light)
     - [Image](#image)
     - [Reflection](#reflection)
@@ -729,6 +730,17 @@ The so-called scale in music, The frequency of each octave is twice as different
 
 [Back to catalogue](#catalogue)
 
+### Electromagnetic waves
+
+**Electromagnetic waves** refer to [electric](#electric-field) and [magnetic](#magnetic-field) fields that oscillate in phase and are perpendicular to each other. They are **non-mechanical waves** that transfer energy and momentum in the form of waves in space, and their propagation direction is **perpendicular** to the oscillation direction of the electric and magnetic fields.
+
+Electromagnetic waves do **not** need to rely on a medium to propagate, and their propagation speed in a vacuum is the **speed of light**, represented by letter **c**. Electromagnetic waves can be classified according to [frequency](#wave-property), from low frequency to high frequency, mainly including **radio waves**, **microwaves**, **infrared rays**, **visible light**, **ultraviolet rays**, **X-rays** and **gamma rays**. The higher the frequency, the more energy the wave can carry, but the shorter distance it can travel.
+
+Electromagnetic waves that can be received by the human eye have a wavelength of approximately 380 to 780nm, which is called visible light.
+
+[Back to catalogue](#catalogue)
+
+
 ### Light
 
 **Light** is an **electromagnetic wave** whose frequency can be captured by the human eye. It can propagate devoid of a medium, and the speed of its propagation decreases with the increase of the [density](#density) of the medium, which is opposite of sound waves. 
@@ -1363,6 +1375,38 @@ In order to undergo **nuclear fusion** reaction, nuclei need to collide with eac
 [Back to catalogue](#catalogue)
 
 ### Radiation
+
+In physics, **radiation** refers to the transmission of [energy](#energy) in the form of [waves](#waves) or subatomic particles moving in a vacuum or medium. Radiation can be divided into **ionizing radiation** and **non-ionizing radiation**. In this section, we will introduce three most typical types of ionizing radiation.
+
+![Penetration](/images/penetration.jpg)
+
+- **Alpha(α) particles** 
+
+    ![Alpha-radiation](/images/Alpha_Decay.svg.png)
+
+    An **alpha particle** (also called an **alpha ray** or **alpha radiation**) is a particle composed of two protons and two neutrons, the same as the nucleus of helium-4. Alpha particles is positively charged with two units (+2), therefore they will deflect when entering an [electric field](#electric-field). Alpha particles are produced when an unstable nucleus holds too many protons and neutrons and has to release some of the protons and neutrons to attain a more stable energy level.
+
+    Due to its two positive charges, alpha particles are very **ionizing**, meaning that they have a strong tendancy and ability to attract electrons. This makes them extremely harmful to living creatures, as they damage the structure of cells by robbing the elctrons and even cause mutation. However, it is easy to stop an alpha ray as it does not possess a strong penetrating power. As the diagram above shows, only a thin layer of paper is needed to block the alpha ray. 
+
+- **Beta(β) particles**
+
+    ![Beta-radiation](/images/Beta-minus_Decay.svg.png)
+
+    **Beta particles** (also called **beta rays** or **beta radiation**) are high-energy, high-speed **electrons** or **positrons** emitted from the nucleus during beta decay. In this section we will only discuss the circumstance of emitting electrons, which is the beta particle. Beta particles possess a negative charge (-1), therefore they will also deflect in an electric field, but in different directions comparing to alpha particles. Beta particles are produced when a neutron in a nucleus changes itself into a proton and an electron.
+
+    Due to its one negative charge, beta particles are also **ionizing** but not as damaging as alpha particles. However, it has a stronger penetrating power, and is hindered by few mms of aluminium. 
+
+- **Gamma(γ) rays**
+
+    ![Gamma-radiation](/images/Gamma_Decay.svg.png)
+
+    **Gamma rays** (also called **gamma radiation**) are [electromagnetic waves](#electromagnetic-waves) with extremely high frequency. Gamma rays are one of the rays emitted when atoms decay and break apart. They have the highest energy of the different types of electromagnetic waves but have no charge, therefore gamma rays **do not** deflect in an electric field. 
+
+    Gamma rays are the least ionizing but the most penetrating among the three types of radiations we introduced. Only thick lead can effectively reduce gamma radiation.
+
+Ionizing radiation is extremely harmful to the human body. Long-term excessive accumulation of radioactive elements in the body can cause chronic radiation sickness. Excessive ionizing radiation can cause cancer and teratogenesis.
+
+[Back to catalogue](#catalogue)
 
 ## **Space physics**
 
